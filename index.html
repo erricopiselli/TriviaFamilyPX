@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Trivia di famiglia</title>
+<style>
+:root{
+  --bg1:#ffe8c7;--bg2:#e9ddff;--card:#fffdf8;--tx:#2b2540;--mut:#6d6786;
+  --pri:#7c4dff;--ok:#2ea66a;--ko:#e5484d;--bd:#e6dccb;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media(prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg1:#1d1838;--bg2:#2a1f4f;--card:#2a2548;--tx:#f3efff;
+    --mut:#b1aacd;--pri:#a98bff;--ok:#3fc384;--ko:#ff6b70;--bd:#41397a;
+  }
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{
+  min-height:100vh;
+  background:linear-gradient(160deg,var(--bg1),var(--bg2)) fixed;
+  color:var(--tx);font-family:"Trebuchet MS","Segoe UI",system-ui,sans-serif;
+  font-size:17px;line-height:1.45;
+}
+#app{max-width:620px;margin:0 auto;padding:14px}
+h1{font-size:2rem;text-align:center;margin:.3em 0;letter-spacing:-.5px}
+.card{
+  background:var(--card);border:3px solid var(--bd);border-radius:22px;
+  padding:16px;margin:12px 0;box-shadow:0 5px 0 var(--bd);
+}
+input,select{
+  font:inherit;padding:10px;border-radius:12px;border:3px solid var(--bd);
+  background:var(--card);color:var(--tx);width:100%;margin:4px 0;
+}
+button{
+  font:inherit;cursor:pointer;border:0;border-radius:14px;
+  padding:12px 18px;background:var(--pri);color:#fff;font-weight:bold;
+  box-shadow:0 4px 0 rgba(0,0,0,.22);transition:transform .1s,box-shadow .1s;
+}
+button:active{transform:translateY(3px);box-shadow:0 1px 0 rgba(0,0,0,.22)}
+button.sec{
+  background:transparent;color:var(--tx);
+  border:3px solid var(--bd);box-shadow:none;
+}
+.opt{
+  display:block;width:100%;text-align:left;margin:8px 0;
+  background:var(--card);color:var(--tx);border:3px solid var(--bd);
+  font-weight:normal;box-shadow:0 4px 0 var(--bd);
+}
+.opt.ok{background:var(--ok);color:#fff;border-color:var(--ok);box-shadow:none}
+.opt.ko{background:var(--ko);color:#fff;border-color:var(--ko);box-shadow:none}
+.opt:disabled{cursor:default;transform:none}
+.row{display:flex;gap:8px;align-items:center;justify-content:space-between;flex-wrap:wrap;margin-top:8px}
+.pl{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:2px dashed var(--bd)}
+.pl.me{font-weight:bold;background:rgba(124,77,255,.08);border-radius:8px;padding:8px}
+.tag{display:inline-block;padding:3px 12px;border-radius:99px;color:#fff;font-size:.85rem;font-weight:bold}
+.big{font-size:1.2rem;font-weight:bold;margin-top:6px}
+.kid .big{font-size:1.45rem}
+.fact{background:var(--bg1);border-radius:12px;padding:10px;margin-top:10px;font-size:.95rem}
+.die{font-size:4rem;text-align:center;line-height:1.2;display:block}
+.spin{animation:sp .2s infinite alternate}
+@keyframes sp{from{transform:rotate(-10deg) scale(1)}to{transform:rotate(10deg) scale(1.12)}}
+.pop{animation:pp .35s}
+@keyframes pp{0%{transform:scale(.7)}70%{transform:scale(1.08)}100%{transform:scale(1)}}
+.w{opacity:.22;filter:grayscale(1)}
+.scores{font-size:.82rem;color:var(--mut)}
+/* Board SVG */
+.bd{display:block;width:100%;max-width:400px;margin:0 auto}
+</style>
+</head>
+<body>
+<div id="app"></div>
+<script>
+// ── CATEGORIES ──────────────────────────────────────────────────────────
+var C=[
+  {k:"an",n:"Animali & Natura",e:"🐾",c:"#2ea66a"},
+  {k:"sc",n:"Scienza",          e:"🔬",c:"#3b82f6"},
+  {k:"ge",n:"Geografia",        e:"🌍",c:"#f59e0b"},
+  {k:"st",n:"Storia & Arte",    e:"🏛️",c:"#a855f7"},
+  {k:"ca",n:"Cartoni & Disney", e:"🏰",c:"#ec4899"},
+  {k:"vg",n:"Videogiochi & Sport",e:"🎮",c:"#ef4444"}
+];
+var G={b:"Bambini 3–9 🧒",r:"Ragazzi 10–17 🧑",a:"Adulti 🧔"};
+var AV=["🦊","🐼","🐸","🦄","🐙","🦁"];
+var FA=["⚀","⚁","⚂","⚃","⚄","⚅"];
+
+// ── DATABASE ─────────────────────────────────────────────────────────────
+// Le domande sono nel file trivia_database.json (stessa cartella)
+var DB=null;
+
+// ── STATE ────────────────────────────────────────────────────────────────
+var S={ps:[],t:0,cur:null};
+var USED={};
+try{USED=JSON.parse(localStorage.getItem("tq3_used")||"{}")}catch(e){}
+function saveUsed(){try{localStorage.setItem("tq3_used",JSON.stringify(USED))}catch(e){}}
+
+// ── HELPERS ──────────────────────────────────────────────────────────────
+function esc(s){
+  return String(s).replace(/[&<>"]/g,function(c){
+    return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];
+  });
+}
+function shuffle(a){
+  a=a.slice();
+  for(var i=a.length-1;i>0;i--){
+    var j=Math.floor(Math.random()*(i+1)),t=a[i];a[i]=a[j];a[j]=t;
+  }
+  return a;
+}
+function catAt(pos){return C[pos%6]}
+
+// ── QUESTION PICKER ───────────────────────────────────────────────────────
+function pick(fascia,catKey){
+  var pool=DB[fascia][catKey];
+  var key=fascia+":"+catKey;
+  var used=USED[key]||[];
+  var avail=[];
+  for(var i=0;i<pool.length;i++){if(used.indexOf(i)<0)avail.push(i);}
+  if(!avail.length){used=[];for(var i=0;i<pool.length;i++)avail.push(i);}
+  var idx=avail[Math.floor(Math.random()*avail.length)];
+  used.push(idx);
+  USED[key]=used;
+  saveUsed();
+  var q=pool[idx];
+  // q = [domanda, corretta, sbagliata1, sbagliata2, curiosità]
+  var opts=shuffle([{t:q[1],ok:true},{t:q[2]},{t:q[3]}]);
+  return {q:q[0],opts:opts,fact:q[4],cat:catKey};
+}
+
+// ── BOARD SVG ─────────────────────────────────────────────────────────────
+function boardSVG(){
+  var R=130,cx=170,cy=170;
+  var s='<svg viewBox="0 0 340 340" class="bd" xmlns="http://www.w3.org/2000/svg">';
+  s+='<circle cx="'+cx+'" cy="'+cy+'" r="'+R+'" fill="none" stroke="var(--bd)" stroke-width="28" opacity=".4"/>';
+  for(var i=0;i<24;i++){
+    var a=i/24*Math.PI*2-Math.PI/2;
+    var x=cx+R*Math.cos(a),y=cy+R*Math.sin(a);
+    var cat=C[i%6];
+    var big=(i%4===0);
+    s+='<circle cx="'+x.toFixed(1)+'" cy="'+y.toFixed(1)+'" r="'+(big?19:12)+'" fill="'+cat.c+'" stroke="#fff" stroke-width="2.5"/>';
+    if(big)s+='<text x="'+x.toFixed(1)+'" y="'+(y+6).toFixed(1)+'" text-anchor="middle" font-size="17">'+cat.e+'</text>';
+  }
+  // Player tokens
+  S.ps.forEach(function(p,j){
+    var a=p.pos/24*Math.PI*2-Math.PI/2;
+    var r=R-24-j*9;
+    var x=cx+r*Math.cos(a),y=cy+r*Math.sin(a);
+    var active=(j===S.t);
+    s+='<circle cx="'+x.toFixed(1)+'" cy="'+y.toFixed(1)+'" r="12" fill="var(--card)" stroke="'+(active?"#ffd000":"var(--bd)")+'" stroke-width="'+(active?4:2)+'"/>';
+    s+='<text x="'+x.toFixed(1)+'" y="'+(y+5).toFixed(1)+'" text-anchor="middle" font-size="13">'+p.av+'</text>';
+  });
+  // Center: current player
+  var cp=S.ps[S.t];
+  if(cp){
+    s+='<text x="'+cx+'" y="'+(cy+20)+'" text-anchor="middle" font-size="52">'+cp.av+'</text>';
+    s+='<text x="'+cx+'" y="'+(cy+42)+'" text-anchor="middle" font-size="13" fill="var(--tx)" font-weight="bold">'+esc(cp.n)+'</text>';
+  }
+  s+='</svg>';
+  return s;
+}
+
+// ── SCOREBOARD ────────────────────────────────────────────────────────────
+function scoreBar(){
+  return '<div class="scores">'+S.ps.map(function(p,j){
+    return '<span style="'+(j===S.t?'font-weight:bold;color:var(--tx)':'')+'">'+
+      p.av+' '+esc(p.n)+' '+p.s+'pt</span>';
+  }).join(' · ')+'</div>';
+}
+
+function wedgeBar(p){
+  return C.map(function(c){
+    return '<span style="opacity:'+(p.w.indexOf(c.k)>=0?1:.18)+';font-size:1.1rem" title="'+c.n+'">'+c.e+'</span>';
+  }).join('');
+}
+
+// ── RENDER ────────────────────────────────────────────────────────────────
+var app=document.getElementById('app');
+function render(html){app.innerHTML=html;}
+
+// ── SETUP SCREEN ──────────────────────────────────────────────────────────
+function setup(){
+  render(
+    '<h1>🎲 Trivia di famiglia</h1>'+
+    '<p style="text-align:center;color:var(--mut);margin-bottom:4px">Tira il dado, muoviti sul tabellone, conquista i 6 spicchi!</p>'+
+    '<div class="card">'+
+      '<h2 style="margin-bottom:8px">Chi gioca?</h2>'+
+      '<input id="nm" placeholder="Nome del giocatore" maxlength="14">'+
+      '<select id="gr">'+
+        '<option value="b">'+G.b+'</option>'+
+        '<option value="r">'+G.r+'</option>'+
+        '<option value="a">'+G.a+'</option>'+
+      '</select>'+
+      '<button id="addBtn" style="margin-top:8px;width:100%">+ Aggiungi giocatore</button>'+
+      '<div id="pl" style="margin-top:8px"></div>'+
+    '</div>'+
+    '<button id="goBtn" style="width:100%;font-size:1.15rem;margin-top:4px">▶ Inizia la partita!</button>'
+  );
+
+  function renderList(){
+    document.getElementById('pl').innerHTML=S.ps.map(function(p,i){
+      return '<div class="pl">'+
+        '<span>'+p.av+' <b>'+esc(p.n)+'</b> <span style="color:var(--mut);font-size:.85rem">'+G[p.g]+'</span></span>'+
+        '<button class="sec" data-i="'+i+'" style="padding:6px 12px">✕</button>'+
+      '</div>';
+    }).join('');
+    document.querySelectorAll('#pl button').forEach(function(b){
+      b.addEventListener('click',function(){
+        S.ps.splice(+b.dataset.i,1);
+        renderList();
+      });
+    });
+  }
+
+  document.getElementById('addBtn').addEventListener('click',function(){
+    var nm=document.getElementById('nm');
+    var gr=document.getElementById('gr');
+    if(!nm.value.trim()||S.ps.length>=6)return;
+    S.ps.push({n:nm.value.trim(),g:gr.value,av:AV[S.ps.length],pos:0,w:[],s:0});
+    nm.value='';
+    renderList();
+    nm.focus();
+  });
+
+  document.getElementById('nm').addEventListener('keydown',function(e){
+    if(e.key==='Enter')document.getElementById('addBtn').click();
+  });
+
+  document.getElementById('goBtn').addEventListener('click',function(){
+    if(!S.ps.length){alert('Aggiungi almeno un giocatore!');return;}
+    S.ps.forEach(function(p,i){p.av=AV[i];p.pos=0;p.w=[];p.s=0;});
+    S.t=0;
+    turn();
+  });
+
+  renderList();
+}
+
+// ── TURN: ROLL ────────────────────────────────────────────────────────────
+function turn(){
+  if(checkWin())return;
+  var p=S.ps[S.t];
+
+  render(
+    '<h1>🎲 Trivia</h1>'+
+    boardSVG()+
+    '<div class="card" style="text-align:center">'+
+      '<div class="big">Tocca a '+p.av+' <b>'+esc(p.n)+'</b></div>'+
+      '<div>'+wedgeBar(p)+'</div>'+
+      '<span id="die" class="die">🎲</span>'+
+      '<button id="rollBtn" style="width:100%;margin-top:8px">🎲 Tira il dado!</button>'+
+    '</div>'+
+    scoreBar()+
+    '<button class="sec" id="endBtn" style="width:100%;margin-top:12px">Termina partita</button>'
+  );
+
+  document.getElementById('endBtn').addEventListener('click',end);
+  document.getElementById('rollBtn').addEventListener('click',function(){
+    var btn=this;
+    btn.disabled=true;
+    var die=document.getElementById('die');
+    die.classList.add('spin');
+    var n=0;
+    var iv=setInterval(function(){
+      die.textContent=FA[Math.floor(Math.random()*6)];
+      if(++n>10){
+        clearInterval(iv);
+        die.classList.remove('spin');
+        var roll=1+Math.floor(Math.random()*6);
+        die.textContent=FA[roll-1];
+        p.pos=(p.pos+roll)%24;
+        setTimeout(function(){ask(roll);},700);
+      }
+    },80);
+  });
+}
+
+// ── TURN: QUESTION ────────────────────────────────────────────────────────
+function ask(roll){
+  var p=S.ps[S.t];
+  var cat=catAt(p.pos);
+  var isWedge=(p.pos%4===0);
+  var data=pick(p.g,cat.k);
+  S.cur={p:p,cat:cat,data:data,roll:roll,isWedge:isWedge,chosen:null};
+  showQ();
+}
+
+function showQ(){
+  var c=S.cur,p=c.p,cat=c.cat,data=c.data;
+  var answered=(c.chosen!==null);
+  var kid=(p.g==='b');
+
+  var optsHtml=data.opts.map(function(o,i){
+    var cls='opt';
+    if(answered){
+      if(o.ok)cls+=' ok';
+      else if(i===c.chosen)cls+=' ko';
+    }
+    return '<button class="'+cls+'" data-i="'+i+'"'+(answered?' disabled':'')+'>'+esc(o.t)+'</button>';
+  }).join('');
+
+  var feedbackHtml='';
+  if(answered){
+    var correct=data.opts[c.chosen].ok;
+    var gotWedge=correct&&c.isWedge&&p.w.indexOf(cat.k)<0;
+    feedbackHtml=
+      '<div class="big" style="margin-top:10px">'+(correct
+        ?'🎉 Esatto! +10pt'+(gotWedge?' · Hai conquistato '+cat.e:'')
+        :'😅 Risposta errata — passa il turno')+'</div>'+
+      '<div class="fact">💡 '+esc(data.fact)+'</div>'+
+      '<button id="nxtBtn" style="width:100%;margin-top:12px">'+
+        (p.w.length>=6?'🏆 Vedi il vincitore':correct?'🎲 Lancia ancora':'➜ Avanti')+'</button>';
+  }
+
+  render(
+    '<div class="'+(kid?'kid':'')+'">'+
+    boardSVG()+
+    '<div class="card pop">'+
+      '<div class="row">'+
+        '<span class="tag" style="background:'+cat.c+'">'+cat.e+' '+esc(cat.n)+(c.isWedge?' · SPICCHIO!':'')+'</span>'+
+        '<span style="font-size:.85rem;color:var(--mut)">'+p.av+' '+esc(p.n)+' · dado: '+c.roll+'</span>'+
+      '</div>'+
+      '<div class="big" style="margin-top:10px">'+esc(data.q)+'</div>'+
+      optsHtml+
+      feedbackHtml+
+    '</div>'+
+    '<button class="sec" id="speakBtn" style="margin-top:4px">🔊 Leggi ad alta voce</button>'+
+    '</div>'
+  );
+
+  // Option listeners
+  if(!answered){
+    document.querySelectorAll('.opt').forEach(function(b){
+      b.addEventListener('click',function(){
+        c.chosen=+b.dataset.i;
+        var correct=data.opts[c.chosen].ok;
+        if(correct){
+          p.s+=10;
+          if(c.isWedge&&p.w.indexOf(cat.k)<0)p.w.push(cat.k);
+        }
+        showQ();
+      });
+    });
+  }
+
+  // Next button
+  var nxt=document.getElementById('nxtBtn');
+  if(nxt){
+    nxt.addEventListener('click',function(){
+      if(p.w.length>=6){end();return;}
+      var correct=data.opts[c.chosen].ok;
+      if(!correct)S.t=(S.t+1)%S.ps.length;
+      turn();
+    });
+  }
+
+  // TTS
+  document.getElementById('speakBtn').addEventListener('click',function(){
+    try{
+      speechSynthesis.cancel();
+      var txt=data.q+'. '+data.opts.map(function(o){return o.t;}).join('. ');
+      var u=new SpeechSynthesisUtterance(txt);
+      u.lang='it-IT';speechSynthesis.speak(u);
+    }catch(e){}
+  });
+}
+
+// ── WIN CHECK ─────────────────────────────────────────────────────────────
+function checkWin(){
+  var winner=null;
+  for(var i=0;i<S.ps.length;i++){
+    if(S.ps[i].w.length>=6){winner=S.ps[i];break;}
+  }
+  if(winner){
+    end(winner);
+    return true;
+  }
+  return false;
+}
+
+// ── END SCREEN ────────────────────────────────────────────────────────────
+function end(winner){
+  var sorted=S.ps.slice().sort(function(a,b){return b.w.length-a.w.length||b.s-a.s;});
+  var medals=["🥇","🥈","🥉"];
+  render(
+    '<h1>🏆 Classifica finale</h1>'+
+    (winner?'<p style="text-align:center;font-size:1.2rem">'+winner.av+' <b>'+esc(winner.n)+'</b> ha conquistato tutti gli spicchi! 🎉</p>':'')+
+    '<div class="card">'+
+      sorted.map(function(p,i){
+        return '<div class="pl">'+
+          '<span class="big">'+(medals[i]||'⭐')+' '+p.av+' '+esc(p.n)+'</span>'+
+          '<span>'+wedgeBar(p)+' · <b>'+p.s+'pt</b></span>'+
+        '</div>';
+      }).join('')+
+    '</div>'+
+    '<button id="againBtn" style="width:100%">🔁 Rivincita!</button>'+
+    '<button class="sec" id="newBtn" style="width:100%;margin-top:8px">👥 Cambia giocatori</button>'
+  );
+  document.getElementById('againBtn').addEventListener('click',function(){
+    S.ps.forEach(function(p){p.pos=0;p.w=[];p.s=0;});
+    S.t=0;turn();
+  });
+  document.getElementById('newBtn').addEventListener('click',function(){
+    S.ps=[];setup();
+  });
+}
+
+// ── START ─────────────────────────────────────────────────────────────────
+render('<div class="card" style="text-align:center">Carico le domande…</div>');
+fetch('trivia_database.json',{cache:'no-cache'})
+  .then(function(r){if(!r.ok)throw new Error(r.status);return r.json();})
+  .then(function(d){DB=d;setup();})
+  .catch(function(){
+    render('<div class="card" style="text-align:center"><div class="big">Non riesco a caricare le domande 😕</div>'+
+      '<p style="margin-top:8px">Il file <b>trivia_database.json</b> deve stare nella stessa cartella di questa pagina. '+
+      'Se hai aperto la pagina facendo doppio clic sul file, aprila invece dall’indirizzo online.</p></div>');
+  });
+</script>
+</body>
+</html>
