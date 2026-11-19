@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Trivia di famiglia</title>
+<title>TriviaFamilyPX</title>
 <link rel="apple-touch-icon" href="icon-512.png">
 <link rel="icon" type="image/png" href="icon-512.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -83,6 +83,25 @@ button.cta{font-size:1.2rem;padding:15px}
 .pchip .nm small{display:block;color:var(--mut);font-weight:700;font-size:.8rem}
 .x{padding:6px 11px;font-size:.9rem;box-shadow:none;background:transparent;color:var(--mut);border:2px solid var(--bd)}
 .hint{color:var(--mut);font-size:.9rem;text-align:center;margin-top:10px}
+.ver{text-align:center;color:var(--mut);font-size:.75rem;font-weight:700;opacity:.8;margin:2px 0 0}
+.cols>*{min-width:0}
+.cols.q{display:flex;flex-direction:column}
+.cols.q .qside{display:contents}
+.cols.q .qside .tools{order:3}
+body.land .cols.q{display:grid}
+body.land .cols.q .qside{display:block}
+body.land #app{max-width:1100px;padding:10px 20px 18px}
+body.land .cols{display:grid;grid-template-columns:1fr 1fr;gap:18px;align-items:start}
+body.land .cols.q{grid-template-columns:minmax(200px,30%) 1fr}
+body.land .cols .card{margin:10px 0}
+body.land .brand{margin:2px 0}
+body.land .board{max-width:min(300px,68vh)}
+body.land .board.small{max-width:min(220px,52vh)}
+body.land .opt{margin-top:8px;padding:10px 14px}
+body.land .kid .opt{padding:12px 14px}
+body.land .qtext{font-size:1.2rem}
+body.land .kid .qtext{font-size:1.45rem}
+body.land .qside .tools{justify-content:center;margin-top:10px}
 /* Board */
 .board{position:relative;width:100%;max-width:360px;margin:4px auto 0}
 .board svg{display:block;width:100%;height:auto}
@@ -231,7 +250,7 @@ function logoSVG(){
      '<text x="20" y="25" text-anchor="middle" font-size="14" font-family="Fredoka,sans-serif" font-weight="700" fill="#fff">?</text>';
   return s+'</svg>';
 }
-function brand(sm){return '<div class="brand'+(sm?' sm':'')+'">'+logoSVG()+'<h1>Trivia di famiglia</h1></div>';}
+function brand(sm){return '<div class="brand'+(sm?' sm':'')+'">'+logoSVG()+'<h1>TriviaFamilyPX</h1></div>';}
 function dieHTML(n,id){
   var on=PIPS[n]||[];var s='<div class="die"'+(id?' id="'+id+'"':'')+' aria-label="Dado: '+n+'">';
   for(var i=0;i<9;i++)s+='<i'+(on.indexOf(i)>=0?' class="on"':'')+'></i>';
@@ -324,6 +343,8 @@ function setup(){
   render(
     brand()+
     '<p class="sub">Tira il dado, gira il tabellone, conquista i 6 spicchi!</p>'+
+    '<p class="ver">Database: '+DBN+' domande</p>'+
+    '<div class="cols"><div>'+
     '<div class="card">'+
       '<h2>Chi gioca?</h2>'+
       '<input id="nm" placeholder="Nome del giocatore" maxlength="14" autocomplete="off">'+
@@ -334,6 +355,12 @@ function setup(){
       '<button id="addBtn" class="wide" style="margin-top:14px">+ Aggiungi giocatore</button>'+
       '<div class="players" id="pl"></div>'+
       '<p class="hint" id="hint"></p>'+
+    '</div></div><div>'+
+    '<div class="card">'+
+      '<h2>📱 Schermo</h2>'+
+      '<div class="switch" id="lay">'+[['auto','Automatico'],['v','Verticale'],['h','Orizzontale']].map(function(o){
+        return '<button data-l="'+o[0]+'" class="'+(LAY===o[0]?'on':'')+'">'+o[1]+'</button>';}).join('')+'</div>'+
+      '<p class="hint" style="margin-top:6px">Orizzontale: tabellone e domanda affiancati, comodo su tablet o telefono girato.</p>'+
     '</div>'+
     '<div class="card">'+
       '<h2>⏱️ Tempo per rispondere</h2>'+
@@ -345,10 +372,18 @@ function setup(){
       }).join('')+'</div>'+
       '<p class="hint">Se il tempo finisce prima della risposta, la domanda conta come sbagliata.</p>'+
     '</div>'+
+    '</div></div>'+
     '<button id="goBtn" class="wide cta">▶ Inizia la partita!</button>'
   );
 
   function setTM(on){TM.on=on;saveTM();document.getElementById('tOn').classList.toggle('on',on);document.getElementById('tOff').classList.toggle('on',!on);document.getElementById('tbody').classList.toggle('off',!on);}
+  document.querySelectorAll('#lay button').forEach(function(b){
+    b.addEventListener('click',function(){
+      LAY=b.dataset.l;try{localStorage.setItem('tq_layout',LAY)}catch(e){}
+      document.querySelectorAll('#lay button').forEach(function(x){x.classList.toggle('on',x===b);});
+      applyLay();
+    });
+  });
   document.getElementById('tOn').addEventListener('click',function(){setTM(true);});
   document.getElementById('tOff').addEventListener('click',function(){setTM(false);});
   document.querySelectorAll('.step').forEach(function(b){
@@ -415,14 +450,15 @@ function turn(){
 
   render(
     brand(true)+
-    boardSVG()+
+    '<div class="cols"><div>'+boardSVG()+'</div><div>'+
     '<div class="card turn pop">'+
       '<div class="who">'+avHTML(p,S.t)+'<span>Tocca a '+esc(p.n)+'</span></div>'+
       dieHTML(6,'die')+
       '<button id="rollBtn" class="wide cta">Tira il dado!</button>'+
     '</div>'+
     scoreBar()+
-    '<button class="sec wide" id="endBtn" style="margin-top:14px">Termina partita</button>'
+    '<button class="sec wide" id="endBtn" style="margin-top:14px">Termina partita</button>'+
+    '</div></div>'
   );
 
   document.getElementById('endBtn').addEventListener('click',function(){end();});
@@ -494,7 +530,9 @@ function showQ(){
   render(
     '<div class="'+(kid?'kid':'')+'">'+
     brand(true)+
-    boardSVG(true)+
+    '<div class="cols q"><div class="qside">'+boardSVG(true)+
+    '<div class="tools"><button class="sec" id="speakBtn">🔊 Leggi ad alta voce</button></div>'+
+    '</div><div>'+
     '<div class="card qcard pop">'+
       '<div class="qhead" style="background:'+cat.c+'"><span>'+esc(catLabel(cat,p.g))+'</span>'+(c.isWedge?'<span class="badge">⭐ Spicchio</span>':'')+'</div>'+
       '<div class="qbody">'+
@@ -505,7 +543,7 @@ function showQ(){
         feedbackHtml+
       '</div>'+
     '</div>'+
-    '<div class="tools"><button class="sec" id="speakBtn">🔊 Leggi ad alta voce</button></div>'+
+    '</div></div>'+
     '</div>'
   );
   if(answered){
@@ -581,6 +619,7 @@ function end(winner){
       '<h2 style="font-size:1.7rem;margin:0">🏆 Classifica</h2>'+
       (winner?'<p style="font-weight:800;margin-top:6px">'+winner.av+' '+esc(winner.n)+' ha conquistato tutti gli spicchi!</p>':'')+
     '</div>'+
+    '<div class="cols"><div>'+
     '<div class="card">'+
       sorted.map(function(p,i){
         return '<div class="rank"><span class="md">'+(medals[i]||'⭐')+'</span>'+
@@ -588,8 +627,10 @@ function end(winner){
           '<span class="nm">'+esc(p.n)+'</span><b>'+p.s+' pt</b></div>';
       }).join('')+
     '</div>'+
+    '</div><div style="padding-top:10px">'+
     '<button id="againBtn" class="wide cta">🔁 Rivincita!</button>'+
-    '<button class="sec wide" id="newBtn" style="margin-top:10px">👥 Cambia giocatori</button>'
+    '<button class="sec wide" id="newBtn" style="margin-top:10px">👥 Cambia giocatori</button>'+
+    '</div></div>'
   );
   if(winner)confetti();
   document.getElementById('againBtn').addEventListener('click',function(){
@@ -601,11 +642,20 @@ function end(winner){
   });
 }
 
+// ── LAYOUT (verticale / orizzontale) ──────────────────────────────────────
+var LAY='auto';try{LAY=localStorage.getItem('tq_layout')||'auto'}catch(e){}
+var DBN=0;
+function applyLay(){
+  var land=LAY==='h'||(LAY==='auto'&&innerWidth>innerHeight&&innerWidth>=640);
+  document.body.classList.toggle('land',land);
+}
+addEventListener('resize',applyLay);applyLay();
+
 // ── START ─────────────────────────────────────────────────────────────────
 render(brand()+'<div class="card" style="text-align:center">Carico le domande…</div>');
 fetch('trivia_database.json',{cache:'no-cache'})
   .then(function(r){if(!r.ok)throw new Error(r.status);return r.json();})
-  .then(function(d){DB=d;setup();})
+  .then(function(d){DB=d;DBN=Object.keys(d).reduce(function(s,g){return s+Object.keys(d[g]).reduce(function(a,c){return a+d[g][c].length;},0);},0);setup();})
   .catch(function(){
     render(brand()+'<div class="card" style="text-align:center"><h2>Non riesco a caricare le domande 😕</h2>'+
       '<p style="margin-top:8px">Il file <b>trivia_database.json</b> deve stare nella stessa cartella di questa pagina. '+
