@@ -483,6 +483,125 @@
         "A mangiare",
         "A dormire",
         "Gli uccellini sbattono le ali velocissimi."
+      ],
+      [
+        "Che verso fa il passerotto? 🐦",
+        "Cip cip",
+        "Muuu",
+        "Bau",
+        "I passerotti fanno il nido sotto i tetti."
+      ],
+      [
+        "Che verso fa la tigre? 🐯",
+        "Grrr",
+        "Pio pio",
+        "Qua qua",
+        "La tigre è un gattone fortissimo."
+      ],
+      [
+        "Che verso fa l’elefante con la proboscide? 🐘",
+        "Pruuu",
+        "Cra cra",
+        "Bau",
+        "Quando l’elefante fa questo verso si dice che barrisce."
+      ],
+      [
+        "Quale animale ha il pelo giallo a macchie nere e vive nella savana? 🐆",
+        "Il leopardo",
+        "La pecora",
+        "Il pesce",
+        "Il leopardo sa arrampicarsi sugli alberi."
+      ],
+      [
+        "Quale animale ha una corazza e si chiude a palla? 🛡️",
+        "L’armadillo",
+        "Il gatto",
+        "La gallina",
+        "L’armadillo vive in America."
+      ],
+      [
+        "Chi tira la slitta di Babbo Natale? 🦌",
+        "Le renne",
+        "I cavalli",
+        "I cani",
+        "Le renne vivono dove fa molto freddo."
+      ],
+      [
+        "Quale volpe piccolina del deserto ha le orecchie enormi? 🦊",
+        "Il fennec",
+        "La volpe rossa",
+        "Il lupo",
+        "Le grandi orecchie la aiutano a stare fresca."
+      ],
+      [
+        "Quale fiore è rosso, profumato e ha le spine? 🌹",
+        "La rosa",
+        "La margherita",
+        "Il girasole",
+        "Attenzione a non pungersi!"
+      ],
+      [
+        "Quale animale della fattoria ha la barbetta sotto il mento? 🐐",
+        "La capra",
+        "La mucca",
+        "Il maiale",
+        "Anche il becco, il papà capra, ha la barba."
+      ],
+      [
+        "Quale insetto verde salta nei prati? 🦗",
+        "La cavalletta",
+        "La formica",
+        "La mosca",
+        "Le cavallette hanno zampe posteriori lunghissime."
+      ],
+      [
+        "Quale animale ha i baffi e dà la caccia ai topi? 🐈",
+        "Il gatto",
+        "La mucca",
+        "L’anatra",
+        "I gatti hanno un olfatto finissimo."
+      ],
+      [
+        "Quale animale ci porta sulla sua groppa? 🐴",
+        "Il cavallo",
+        "Il pesce",
+        "Il gatto",
+        "Andare a cavallo si dice cavalcare."
+      ],
+      [
+        "Cosa deve bere il gattino ogni giorno? 🐱",
+        "Acqua fresca",
+        "Il caffè",
+        "L’aranciata",
+        "L’acqua deve essere sempre pulita."
+      ],
+      [
+        "Dove dorme il cane in giardino? 🐕",
+        "Nella cuccia",
+        "Nel nido",
+        "Nell’alveare",
+        "La cuccia è la casetta del cane."
+      ],
+      [
+        "Quale albero fa le arance? 🍊",
+        "L’arancio",
+        "Il pino",
+        "La quercia",
+        "Gli aranci crescono dove fa caldo."
+      ],
+      [
+        "Quale animale ha una «mascherina» nera sugli occhi? 🦝",
+        "Il procione",
+        "La pecora",
+        "Il pulcino",
+        "Il procione si lava le zampette nell’acqua."
+      ],
+      [
+        "Quale animale grande e peloso è goloso di miele? 🐻",
+        "L’orso",
+        "Il pesce",
+        "La gallina",
+        "Per il miele sfida anche le api!"
       ]
     ],
     "sc": [
@@ -947,6 +1066,118 @@
         "Il pane secco",
         "La sabbia del deserto",
         "Dopo il bagno ci si asciuga con l’asciugamano."
+      ],
+      [
+        "Di che colore è la zucca di Halloween? 🎃",
+        "Arancione",
+        "Blu",
+        "Verde",
+        "Nella zucca si intaglia una faccia buffa."
+      ],
+      [
+        "Di che colore è il miele? 🍯",
+        "Giallo dorato",
+        "Blu",
+        "Verde",
+        "Il miele lo fanno le api."
+      ],
+      [
+        "Di che colore è il caffè? ☕",
+        "Marrone scuro",
+        "Bianco",
+        "Rosa",
+        "Il caffè lo bevono i grandi."
+      ],
+      [
+        "Di che colore sono le ciliegie? 🍒",
+        "Rosse",
+        "Blu",
+        "Gialle",
+        "Le ciliegie crescono a coppie."
+      ],
+      [
+        "Di che colori è il pinguino? 🐧",
+        "Bianco e nero",
+        "Rosa e viola",
+        "Giallo e verde",
+        "Sembra che indossi un frac!"
+      ],
+      [
+        "Di che colore sono i mirtilli? 🫐",
+        "Blu",
+        "Rossi",
+        "Gialli",
+        "Sono piccoli e dolci."
+      ],
+      [
+        "Di che colore è il girasole? 🌻",
+        "Giallo",
+        "Blu",
+        "Nero",
+        "Il centro invece è marrone."
+      ],
+      [
+        "Di che colore diventa il cielo quando sta per piovere? 🌧️",
+        "Grigio",
+        "Rosa",
+        "Giallo",
+        "Le nuvole grigie sono piene d’acqua."
+      ],
+      [
+        "Che forma ha un libro chiuso? 📕",
+        "Rettangolare",
+        "Rotonda",
+        "A cuore",
+        "Ha quattro lati, due lunghi e due corti."
+      ],
+      [
+        "Di che colore è il cartello dello «Stop»? 🛑",
+        "Rosso",
+        "Verde",
+        "Giallo",
+        "Allo stop le macchine si fermano."
+      ],
+      [
+        "Che forma ha di solito un aquilone? 🪁",
+        "A rombo",
+        "Rotonda",
+        "A stella",
+        "L’aquilone vola grazie al vento."
+      ],
+      [
+        "Chi è più alto: la giraffa o il gatto? 🦒🐱",
+        "La giraffa",
+        "Il gatto",
+        "Sono uguali",
+        "La giraffa è l’animale più alto del mondo."
+      ],
+      [
+        "Cosa pesa di più: un elefante o una farfalla? 🐘🦋",
+        "L’elefante",
+        "La farfalla",
+        "Pesano uguale",
+        "La farfalla è leggerissima."
+      ],
+      [
+        "Quale di queste cose è liscia? 🪟",
+        "Il vetro della finestra",
+        "La carta vetrata",
+        "La schiena del riccio",
+        "Liscio vuol dire senza punte né graffi."
+      ],
+      [
+        "Chi è più veloce: l’aereo o la bicicletta? ✈️🚲",
+        "L’aereo",
+        "La bicicletta",
+        "Sono uguali",
+        "L’aereo vola altissimo nel cielo."
+      ],
+      [
+        "Che forma ha una moneta? 🪙",
+        "Rotonda",
+        "Quadrata",
+        "A triangolo",
+        "Le monete rotolano!"
       ]
     ],
     "ge": [
@@ -1432,6 +1663,125 @@
         "P",
         "O",
         "Ip-po-po-ta-mo: la prima lettera è la I."
+      ],
+      [
+        "Quante api ci sono? 🐝🐝🐝🐝",
+        "4",
+        "3",
+        "5",
+        "Quattro api che volano!"
+      ],
+      [
+        "Quante farfalle ci sono? 🦋🦋🦋🦋🦋🦋🦋",
+        "7",
+        "6",
+        "8",
+        "Sette farfalle colorate!"
+      ],
+      [
+        "Quanti razzi ci sono? 🚀🚀",
+        "2",
+        "3",
+        "1",
+        "Due razzi verso le stelle!"
+      ],
+      [
+        "Quanti palloni ci sono? ⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽",
+        "10",
+        "8",
+        "9",
+        "Dieci palloni: una squadra intera!"
+      ],
+      [
+        "Quanto fa 5 meno 1?",
+        "4",
+        "6",
+        "3",
+        "Cinque, togli uno: quattro!"
+      ],
+      [
+        "Ho 3 orsetti e ne arriva un altro: quanti sono? 🧸",
+        "4",
+        "3",
+        "5",
+        "3 più 1 fa 4."
+      ],
+      [
+        "Quale numero viene dopo il 5?",
+        "6",
+        "4",
+        "8",
+        "4, 5, 6!"
+      ],
+      [
+        "Quale numero viene prima del 10?",
+        "9",
+        "11",
+        "8",
+        "8, 9, 10!"
+      ],
+      [
+        "Quale di queste è la lettera C?",
+        "C",
+        "G",
+        "O",
+        "C come Cane 🐶"
+      ],
+      [
+        "Quale di queste è la lettera F?",
+        "F",
+        "E",
+        "P",
+        "F come Fragola 🍓"
+      ],
+      [
+        "Quale di queste è la lettera G?",
+        "G",
+        "C",
+        "Q",
+        "G come Gelato 🍦"
+      ],
+      [
+        "Con quale lettera comincia «Banana»? 🍌",
+        "B",
+        "D",
+        "P",
+        "Ba-na-na: la prima lettera è la B."
+      ],
+      [
+        "Con quale lettera comincia «Dinosauro»? 🦖",
+        "D",
+        "B",
+        "T",
+        "Di-no-sau-ro: la prima lettera è la D."
+      ],
+      [
+        "Con quale lettera comincia «Volpe»? 🦊",
+        "V",
+        "F",
+        "B",
+        "Vol-pe: la prima lettera è la V."
+      ],
+      [
+        "Quanti fiocchi di neve ci sono? ❄️❄️❄️❄️❄️❄️❄️❄️❄️",
+        "9",
+        "10",
+        "7",
+        "Nove fiocchi: sta nevicando!"
+      ],
+      [
+        "Quanto fa 4 più 1?",
+        "5",
+        "3",
+        "6",
+        "Quattro, e uno in più: cinque!"
+      ],
+      [
+        "Con quale lettera comincia «Mela»? 🍎",
+        "M",
+        "N",
+        "L",
+        "Me-la: la prima lettera è la M."
       ]
     ],
     "st": [
@@ -1896,6 +2246,118 @@
         "Cenerentola",
         "Pollicino",
         "La regina gli chiede chi è la più bella."
+      ],
+      [
+        "Per chi lavora il Gatto con gli stivali? 👢",
+        "Per il suo padrone, un ragazzo povero",
+        "Per un drago",
+        "Per una strega",
+        "Grazie al gatto, il ragazzo diventa ricco."
+      ],
+      [
+        "Chi trova Biancaneve nella loro casetta del bosco? 🏠",
+        "I sette nani",
+        "I tre porcellini",
+        "Il lupo",
+        "I nani tornano a casa dalla miniera."
+      ],
+      [
+        "Al soldatino di stagno della fiaba manca…",
+        "Una gamba",
+        "Una mano",
+        "La testa",
+        "Ma sta sempre dritto e coraggioso!"
+      ],
+      [
+        "Cosa vende la piccola fiammiferaia? 🔥",
+        "Fiammiferi",
+        "Fiori",
+        "Caramelle",
+        "È una fiaba di Andersen."
+      ],
+      [
+        "Nella fiaba «I vestiti nuovi dell’imperatore», chi dice che il re è nudo? 👑",
+        "Un bambino",
+        "Un cane",
+        "Un soldato",
+        "I bambini dicono sempre la verità!"
+      ],
+      [
+        "Cosa pianta la gallinella rossa nella fiaba? 🌾",
+        "Il grano",
+        "Le carote",
+        "I fiori",
+        "Con il grano poi fa il pane."
+      ],
+      [
+        "Nella favola, dove preferisce vivere il topo di campagna? 🐭",
+        "In campagna",
+        "In città",
+        "Al mare",
+        "In città c’erano troppi pericoli!"
+      ],
+      [
+        "In «Pierino e il lupo», cosa rappresenta ogni personaggio? 🎻",
+        "Uno strumento musicale",
+        "Un colore",
+        "Un numero",
+        "L’uccellino è il flauto!"
+      ],
+      [
+        "Quale animale si imita nel «Ballo del qua qua»? 🦆",
+        "Le paperelle",
+        "I gatti",
+        "I leoni",
+        "Si muovono le braccia come le ali."
+      ],
+      [
+        "Nel gioco cantato «Madama Dorè», cosa si chiede a Madama Dorè? 👸",
+        "Una delle sue figlie",
+        "Una torta",
+        "Un cavallo",
+        "È un gioco antichissimo."
+      ],
+      [
+        "Cosa gira nella canzoncina inglese «The Wheels on the Bus»? 🚌",
+        "Le ruote dell’autobus",
+        "Una giostra",
+        "Un mulino",
+        "«Wheels» in inglese vuol dire ruote."
+      ],
+      [
+        "Di che colore è la pecorella della canzoncina «Baa Baa Black Sheep»? 🐑",
+        "Nera",
+        "Bianca",
+        "Rosa",
+        "«Black» in inglese vuol dire nero."
+      ],
+      [
+        "Chi cade dal muretto nella filastrocca «Humpty Dumpty»? 🥚",
+        "Un uovo",
+        "Un gatto",
+        "Un re",
+        "Humpty Dumpty è un uovo tondo tondo."
+      ],
+      [
+        "Chi corre su per l’orologio nella filastrocca «Hickory Dickory Dock»? 🕰️",
+        "Un topolino",
+        "Un cane",
+        "Un uccellino",
+        "Quando l’orologio suona, scappa giù!"
+      ],
+      [
+        "Chi vive sotto il ponte nella fiaba dei tre capretti? 🌉",
+        "Un troll",
+        "Un drago",
+        "Un lupo",
+        "Il capretto più grande lo manda via."
+      ],
+      [
+        "Quante ciotole di pappa trova Riccioli d’Oro? 🥣",
+        "3",
+        "2",
+        "5",
+        "Una troppo calda, una troppo fredda e una giusta!"
       ]
     ],
     "ca": [
@@ -2409,6 +2871,132 @@
         "Spirit",
         "Furia",
         "Maximus è il cavallo delle guardie del palazzo."
+      ],
+      [
+        "Quale cucciolo della Paw Patrol ricicla tutto? ♻️",
+        "Rocky",
+        "Rubble",
+        "Skye",
+        "Rocky ha un camion per il riciclo."
+      ],
+      [
+        "Come si chiama la maestra di Peppa Pig? 🦌",
+        "Madame Gazzella",
+        "Signora Coniglio",
+        "Mamma Pig",
+        "Madame Gazzella insegna all’asilo."
+      ],
+      [
+        "Come si chiama il papà di Peppa Pig? 🐷",
+        "Papà Pig",
+        "Nonno Pig",
+        "Papà Cane",
+        "Papà Pig ha la pancia e gli occhiali."
+      ],
+      [
+        "Come si chiama la cuginetta pestifera di Bluey? 🐕",
+        "Muffin",
+        "Bingo",
+        "Lucky",
+        "Muffin è piccola ma ha un caratterino!"
+      ],
+      [
+        "Che animale è Loula, l’amica di Pocoyo? 🐶",
+        "Una cagnolina",
+        "Una gatta",
+        "Una pecora",
+        "Loula è giallo-arancione."
+      ],
+      [
+        "Come si chiama la sorellina di Pingu? 🐧",
+        "Pinga",
+        "Pingo",
+        "Pina",
+        "Pingu le vuole tanto bene."
+      ],
+      [
+        "Di che colore è il vestito di ghiaccio di Elsa? 👗",
+        "Azzurro",
+        "Rosso",
+        "Verde",
+        "Brilla come il ghiaccio!"
+      ],
+      [
+        "Che animale è Emily, l’amica di Peppa Pig? 🐘",
+        "Un’elefantina",
+        "Una gattina",
+        "Una papera",
+        "Emily è nuova nella classe di Peppa."
+      ],
+      [
+        "Che animale è Pedro, l’amico di Peppa Pig? 🐴",
+        "Un pony",
+        "Un cane",
+        "Un gatto",
+        "Pedro porta gli occhiali."
+      ],
+      [
+        "Che animale è Candy, l’amica di Peppa Pig? 🐱",
+        "Una gatta",
+        "Una pecora",
+        "Un’elefantina",
+        "Candy è una gattina."
+      ],
+      [
+        "Che animale è Zoe, l’amica di Peppa Pig? 🦓",
+        "Una zebra",
+        "Una giraffa",
+        "Un cavallo",
+        "Il papà di Zoe fa il postino."
+      ],
+      [
+        "Di che colore è Pikachu? ⚡",
+        "Giallo",
+        "Blu",
+        "Rosso",
+        "Ha le guance rosse!"
+      ],
+      [
+        "Quale peluche adora Agnes in «Cattivissimo me»? 🦄",
+        "Un unicorno",
+        "Un orsetto",
+        "Un coniglio",
+        "È morbidissimo!"
+      ],
+      [
+        "Di che colore sono i Minions? 🍌",
+        "Gialli",
+        "Blu",
+        "Verdi",
+        "Indossano una salopette blu."
+      ],
+      [
+        "Di che colore è Clifford, il grande cane? 🐕",
+        "Rosso",
+        "Blu",
+        "Verde",
+        "Clifford è grande come una casa!"
+      ],
+      [
+        "Come si chiama il sindaco pasticcione e cattivo della Paw Patrol? 😈",
+        "Il sindaco Humdinger",
+        "La sindaca Goodway",
+        "Il capitano Turbot",
+        "Humdinger ama i gatti."
+      ],
+      [
+        "Come si chiama la gallina della sindaca Goodway? 🐔",
+        "Chickaletta",
+        "Hei Hei",
+        "Gallina Bianca",
+        "La sindaca la porta sempre nella borsa."
+      ],
+      [
+        "Di che colore è Yoshi? 🦖",
+        "Verde",
+        "Rosso",
+        "Viola",
+        "Yoshi aiuta Mario nelle avventure."
       ]
     ],
     "vg": [
@@ -2873,6 +3461,118 @@
         "Good morning",
         "Goodbye",
         "Good night si legge «gud nait»."
+      ],
+      [
+        "Come si dice «sorella» in inglese? 👧",
+        "Sister",
+        "Brother",
+        "Mother",
+        "Sister si legge «sister»."
+      ],
+      [
+        "Come si dice «fratello» in inglese? 👦",
+        "Brother",
+        "Sister",
+        "Father",
+        "Brother si legge «bràder»."
+      ],
+      [
+        "Come si dice «nonna» in inglese? 👵",
+        "Grandma",
+        "Grandpa",
+        "Mum",
+        "«Grandpa» invece è il nonno."
+      ],
+      [
+        "Come si dice «amico» in inglese? 🤝",
+        "Friend",
+        "Family",
+        "Fish",
+        "Friend si legge «frend»."
+      ],
+      [
+        "Come si dice «gelato» in inglese? 🍦",
+        "Ice cream",
+        "Cake",
+        "Candy",
+        "Ice cream si legge «ais crim»."
+      ],
+      [
+        "Come si dice «formaggio» in inglese? 🧀",
+        "Cheese",
+        "Chair",
+        "Cherry",
+        "Cheese si legge «cius»."
+      ],
+      [
+        "Come si dice «sedia» in inglese? 🪑",
+        "Chair",
+        "Cheese",
+        "Car",
+        "Chair si legge «cèr»."
+      ],
+      [
+        "Come si dice «tavolo» in inglese? 🍽️",
+        "Table",
+        "Tea",
+        "Ball",
+        "Table si legge «téibol»."
+      ],
+      [
+        "Come si dice «finestra» in inglese? 🪟",
+        "Window",
+        "Wind",
+        "Door",
+        "Window si legge «uìndou»."
+      ],
+      [
+        "Come si dice «porta» in inglese? 🚪",
+        "Door",
+        "Dog",
+        "Window",
+        "Door si legge «dor»."
+      ],
+      [
+        "Come si dice «orologio» in inglese? 🕰️",
+        "Clock",
+        "Cloud",
+        "Cake",
+        "Clock si legge «clok»."
+      ],
+      [
+        "Come si dice «nuvola» in inglese? ☁️",
+        "Cloud",
+        "Clock",
+        "Sun",
+        "Cloud si legge «claud»."
+      ],
+      [
+        "Come si dice «pioggia» in inglese? 🌧️",
+        "Rain",
+        "Rainbow",
+        "Snow",
+        "Rain si legge «rein»."
+      ],
+      [
+        "Come si dice «neve» in inglese? ❄️",
+        "Snow",
+        "Rain",
+        "Sun",
+        "Snow si legge «snou»."
+      ],
+      [
+        "Come si dice «arcobaleno» in inglese? 🌈",
+        "Rainbow",
+        "Rain",
+        "Bow",
+        "Rain + bow: pioggia + arco!"
+      ],
+      [
+        "Come si dice «felice» in inglese? 😊",
+        "Happy",
+        "Sad",
+        "Angry",
+        "«Sad» vuol dire triste."
       ]
     ]
   },
@@ -3577,6 +4277,349 @@
         "In primavera",
         "In estate",
         "Si mangiano arrosto: le caldarroste!"
+      ],
+      [
+        "Quanti tentacoli ha il calamaro?",
+        "10",
+        "8",
+        "6",
+        "Due tentacoli sono più lunghi e servono a catturare le prede."
+      ],
+      [
+        "Di che colore è la pelle dell’orso polare, sotto il pelo bianco?",
+        "Nera",
+        "Bianca",
+        "Rosa",
+        "La pelle nera assorbe meglio il calore del sole."
+      ],
+      [
+        "Quale uccellino sbatte le ali così veloce da restare fermo in aria?",
+        "Il colibrì",
+        "L’aquila",
+        "Il pinguino",
+        "Può battere le ali più di 50 volte al secondo."
+      ],
+      [
+        "Quali animali si usano per cercare i tartufi?",
+        "I cani",
+        "I gatti",
+        "Le galline",
+        "Una volta si usavano anche i maiali."
+      ],
+      [
+        "Quando il cane fa «bau», si dice che…",
+        "Abbaia",
+        "Miagola",
+        "Ruggisce",
+        "Il cane abbaia per avvisare o per giocare."
+      ],
+      [
+        "Quando il gatto fa «miao», si dice che…",
+        "Miagola",
+        "Abbaia",
+        "Raglia",
+        "I gatti adulti miagolano soprattutto con le persone."
+      ],
+      [
+        "Quando il serpente fa «sss», si dice che…",
+        "Sibila",
+        "Ulula",
+        "Muggisce",
+        "Sibilare è un modo per spaventare i nemici."
+      ],
+      [
+        "Quando la mucca fa «muuu», si dice che…",
+        "Muggisce",
+        "Bela",
+        "Nitrisce",
+        "Anche il toro muggisce."
+      ],
+      [
+        "Quando la pecora fa «beee», si dice che…",
+        "Bela",
+        "Muggisce",
+        "Raglia",
+        "Anche la capra bela."
+      ],
+      [
+        "Come si chiama il piccolo del cervo?",
+        "Il cerbiatto",
+        "Il vitello",
+        "Il puledro",
+        "I cerbiatti hanno macchie bianche sul pelo."
+      ],
+      [
+        "Come si chiama il piccolo dell’anatra?",
+        "L’anatroccolo",
+        "Il pulcino",
+        "Il gattino",
+        "Gli anatroccoli nuotano in fila dietro la mamma."
+      ],
+      [
+        "Come si chiama la femmina del cavallo?",
+        "La giumenta",
+        "La capra",
+        "La mucca",
+        "Si può dire anche cavalla."
+      ],
+      [
+        "Come si chiama la femmina del montone?",
+        "La pecora",
+        "La capra",
+        "La mucca",
+        "Il montone ha le corna arrotolate."
+      ],
+      [
+        "Quale frutto d’autunno è pieno di chicchi rossi?",
+        "Il melograno",
+        "La pera",
+        "La banana",
+        "I chicchi sono succosi e un po’ aspri."
+      ],
+      [
+        "Quale legume cresce dentro un baccello verde?",
+        "Il pisello",
+        "La carota",
+        "La patata",
+        "Dentro un baccello ci sono tanti piselli in fila."
+      ],
+      [
+        "Quale parte della pianta di patata mangiamo?",
+        "Il tubero, che cresce sottoterra",
+        "Il fiore",
+        "Le foglie",
+        "Le foglie della patata non si mangiano."
+      ],
+      [
+        "Quale albero produce le pigne?",
+        "Il pino",
+        "Il melo",
+        "Il pesco",
+        "Dentro le pigne ci sono i pinoli."
+      ],
+      [
+        "Quale insetto vola di notte intorno alle lampadine?",
+        "La falena",
+        "La coccinella",
+        "La formica",
+        "Le falene sono parenti delle farfalle."
+      ],
+      [
+        "Quale animale selvatico con le zanne vive nei boschi italiani?",
+        "Il cinghiale",
+        "Il lupo",
+        "L’orso",
+        "I piccoli del cinghiale hanno il pelo a strisce."
+      ],
+      [
+        "Quale insetto vive in grandi nidi di terra chiamati termitai?",
+        "La termite",
+        "L’ape",
+        "La vespa",
+        "Alcuni termitai sono alti più di un uomo."
+      ],
+      [
+        "Quale pesce vive nei torrenti di montagna con l’acqua fredda?",
+        "La trota",
+        "Il tonno",
+        "Lo squalo",
+        "Le trote hanno la pelle a puntini."
+      ],
+      [
+        "Quale grande pesce si trova spesso in scatola sott’olio?",
+        "Il tonno",
+        "La trota",
+        "Il pesce rosso",
+        "Il tonno nuota velocissimo nel mare."
+      ],
+      [
+        "Cosa usa il serpente per sentire gli odori?",
+        "La lingua",
+        "Le orecchie",
+        "Le zampe",
+        "Per questo tira fuori la lingua di continuo."
+      ],
+      [
+        "Quanto dura circa la gravidanza di una mucca?",
+        "Circa 9 mesi",
+        "Circa 2 mesi",
+        "Circa 20 mesi",
+        "Più o meno come quella di una donna."
+      ],
+      [
+        "Quante uova può fare al massimo una gallina in un giorno?",
+        "1",
+        "10",
+        "5",
+        "Una gallina fa circa un uovo al giorno."
+      ],
+      [
+        "Quale animale marino pieno di aculei vive sugli scogli?",
+        "Il riccio di mare",
+        "La stella marina",
+        "Il polpo",
+        "Attenzione a non pestarlo in spiaggia!"
+      ],
+      [
+        "Quale animale sputa quando è arrabbiato?",
+        "Il lama",
+        "Il cane",
+        "La mucca",
+        "Il lama vive sulle Ande, in Sud America."
+      ],
+      [
+        "Quale rettile trasporta i piccoli nella bocca per proteggerli?",
+        "Il coccodrillo",
+        "La lucertola",
+        "Il serpente",
+        "Lo fa delicatamente, senza ferirli."
+      ],
+      [
+        "Quale animale africano ha le zampe a strisce ma è parente della giraffa?",
+        "L’okapi",
+        "Il cavallo",
+        "L’asino",
+        "L’okapi vive nelle foreste del Congo."
+      ],
+      [
+        "Quale uccello bianco e nero, secondo la tradizione, ruba oggetti luccicanti?",
+        "La gazza",
+        "Il pettirosso",
+        "Il gabbiano",
+        "La gazza è un uccello molto intelligente."
+      ],
+      [
+        "Quale uccello marino segue spesso le barche dei pescatori?",
+        "Il gabbiano",
+        "Il gufo",
+        "Il pettirosso",
+        "I gabbiani vivono anche in città."
+      ],
+      [
+        "In quale mese comincia l’estate?",
+        "Giugno",
+        "Dicembre",
+        "Marzo",
+        "L’estate comincia intorno al 21 giugno."
+      ],
+      [
+        "Quale piccolo rettile riesce a camminare sui muri e sui soffitti?",
+        "Il geco",
+        "Il gatto",
+        "La gallina",
+        "Le sue zampe hanno milioni di peletti speciali."
+      ],
+      [
+        "Quale animale marino sembra un fiore ma è un animale?",
+        "L’anemone di mare",
+        "La rosa marina",
+        "Il tulipano d’acqua",
+        "Il pesce pagliaccio vive tra i suoi tentacoli."
+      ],
+      [
+        "Quale albero ha la corteccia bianca?",
+        "La betulla",
+        "La quercia",
+        "Il pino",
+        "La betulla cresce nei paesi freddi."
+      ],
+      [
+        "Quale fiore giallo diventa un «soffione» da soffiare?",
+        "Il tarassaco",
+        "La rosa",
+        "Il tulipano",
+        "Si chiama anche dente di leone."
+      ],
+      [
+        "Quale pianta punge se la tocchi?",
+        "L’ortica",
+        "La margherita",
+        "Il trifoglio",
+        "Però con l’ortica si fanno anche minestre e risotti."
+      ],
+      [
+        "Quale trifoglio si dice che porti fortuna?",
+        "Quello a quattro foglie",
+        "Quello a tre foglie",
+        "Quello a due foglie",
+        "È rarissimo trovarlo!"
+      ],
+      [
+        "Quale uccello era il simbolo della dea greca Atena?",
+        "La civetta",
+        "Il pavone",
+        "L’aquila",
+        "Ancora oggi la civetta è simbolo di saggezza."
+      ],
+      [
+        "Quale serpente italiano è velenoso?",
+        "La vipera",
+        "La biscia",
+        "L’orbettino",
+        "Ha la testa a forma di triangolo."
+      ],
+      [
+        "Cos’è l’orbettino?",
+        "Una lucertola senza zampe",
+        "Un serpente velenoso",
+        "Un verme",
+        "È innocuo e si mangia lumache e lombrichi."
+      ],
+      [
+        "Quale animale con la pelliccia nuota nei fiumi e mangia pesci?",
+        "La lontra",
+        "Il cinghiale",
+        "La volpe",
+        "Le lontre dormono tenendosi per mano!"
+      ],
+      [
+        "Quale uccellino è famoso per il suo canto di notte?",
+        "L’usignolo",
+        "Il corvo",
+        "La gallina",
+        "Canta soprattutto in primavera."
+      ],
+      [
+        "Quale uccello costruisce il nido di fango sotto i tetti?",
+        "La rondine",
+        "L’aquila",
+        "Il gufo",
+        "Le rondini tornano spesso nello stesso nido."
+      ],
+      [
+        "A cosa servono i baffi al gatto?",
+        "A capire se passa negli spazi stretti",
+        "A mangiare",
+        "A pulirsi",
+        "Sono sensibilissimi."
+      ],
+      [
+        "Quante dita hanno le zampe anteriori di un gatto?",
+        "5",
+        "4",
+        "3",
+        "Le zampe posteriori invece ne hanno 4."
+      ],
+      [
+        "Quale animale delle Alpi salta agilmente tra le rocce?",
+        "Il camoscio",
+        "Il cervo",
+        "L’alce",
+        "Il camoscio ha piccole corna nere a uncino."
+      ],
+      [
+        "Di cosa si nutrono i bruchi?",
+        "Di foglie",
+        "Di sassi",
+        "Di formaggio",
+        "Mangiano tantissimo prima di diventare farfalle."
+      ],
+      [
+        "Quale insetto succhia il sangue e ronza di notte?",
+        "La zanzara",
+        "La farfalla",
+        "La coccinella",
+        "Solo le femmine pungono."
       ]
     ],
     "sc": [
@@ -4293,6 +5336,349 @@
         "75",
         "125",
         "Come 4 volte 25."
+      ],
+      [
+        "Quanto fa 7 × 7?",
+        "49",
+        "42",
+        "56",
+        "È il quadrato di 7."
+      ],
+      [
+        "Quanto fa 12 × 3?",
+        "36",
+        "32",
+        "39",
+        "10 × 3 = 30, più 2 × 3 = 6."
+      ],
+      [
+        "Quanto fa 45 + 38?",
+        "83",
+        "73",
+        "93",
+        "45 + 40 = 85, meno 2 = 83."
+      ],
+      [
+        "Quanto fa 90 − 45?",
+        "45",
+        "35",
+        "55",
+        "45 è proprio la metà di 90."
+      ],
+      [
+        "Quanto fa 1.000 − 1?",
+        "999",
+        "990",
+        "900",
+        "Il numero più grande con tre cifre."
+      ],
+      [
+        "Quanto fa 100 diviso 10?",
+        "10",
+        "1",
+        "1.000",
+        "Dividere per 10 toglie uno zero."
+      ],
+      [
+        "Qual è il triplo di 5?",
+        "15",
+        "8",
+        "10",
+        "Triplo vuol dire moltiplicare per 3."
+      ],
+      [
+        "Quanto è un quarto di 20?",
+        "5",
+        "4",
+        "10",
+        "Dividi 20 in 4 parti uguali."
+      ],
+      [
+        "Quante centinaia ci sono in 500?",
+        "5",
+        "50",
+        "500",
+        "Un centinaio è un gruppo di 100."
+      ],
+      [
+        "Quanti grammi ci sono in un chilogrammo?",
+        "1.000",
+        "100",
+        "10",
+        "«Chilo» vuol dire mille."
+      ],
+      [
+        "Quanti millimetri ci sono in un centimetro?",
+        "10",
+        "100",
+        "1.000",
+        "Sul righello sono le lineette piccole."
+      ],
+      [
+        "Quanti minuti ci sono in mezz’ora?",
+        "30",
+        "15",
+        "50",
+        "Mezz’ora è la metà di 60 minuti."
+      ],
+      [
+        "Quanti giorni ha una settimana?",
+        "7",
+        "5",
+        "10",
+        "Da lunedì a domenica."
+      ],
+      [
+        "Quanti anni ci sono in un secolo?",
+        "100",
+        "10",
+        "1.000",
+        "Mille anni invece sono un millennio."
+      ],
+      [
+        "Quanti anni ci sono in un decennio?",
+        "10",
+        "100",
+        "5",
+        "«Deca» vuol dire dieci."
+      ],
+      [
+        "Quale numero è più grande: 0,5 o 0,25?",
+        "0,5",
+        "0,25",
+        "Sono uguali",
+        "0,5 è mezzo, 0,25 è un quarto."
+      ],
+      [
+        "Quale di queste frazioni è uguale alla metà?",
+        "2/4",
+        "1/3",
+        "3/4",
+        "Due quarti fanno mezzo."
+      ],
+      [
+        "Ho 3 sacchetti con 4 caramelle ciascuno. Quante caramelle ho?",
+        "12",
+        "7",
+        "10",
+        "3 × 4 = 12."
+      ],
+      [
+        "Se ieri era domenica, oggi è…",
+        "Lunedì",
+        "Sabato",
+        "Martedì",
+        "Dopo la domenica viene il lunedì."
+      ],
+      [
+        "Quale numero continua la serie 10, 20, 30…?",
+        "40",
+        "35",
+        "50",
+        "Si aggiunge 10 ogni volta."
+      ],
+      [
+        "Quale numero continua la serie 1, 3, 5, 7…?",
+        "9",
+        "8",
+        "10",
+        "Sono i numeri dispari."
+      ],
+      [
+        "Quale numero continua la serie 100, 90, 80…?",
+        "70",
+        "60",
+        "75",
+        "Si toglie 10 ogni volta."
+      ],
+      [
+        "Indovinello: ha quattro gambe ma non cammina. Cos’è?",
+        "Il tavolo",
+        "Il cane",
+        "Il pesce",
+        "Anche la sedia ha quattro gambe!"
+      ],
+      [
+        "Indovinello: si rompe appena lo nomini. Cos’è?",
+        "Il silenzio",
+        "Il vetro",
+        "L’uovo",
+        "Appena parli, il silenzio non c’è più."
+      ],
+      [
+        "Indovinello: ha i tasti ma non apre nessuna porta. Cos’è?",
+        "Il pianoforte",
+        "La porta",
+        "Il lucchetto",
+        "I tasti del pianoforte sono bianchi e neri."
+      ],
+      [
+        "Indovinello: va su e giù ma resta sempre ferma. Cos’è?",
+        "La scala",
+        "L’ascensore",
+        "Il pallone",
+        "La scala non si muove mai!"
+      ],
+      [
+        "Indovinello: più ne togli, più diventa grande. Cos’è?",
+        "Una buca",
+        "Un palloncino",
+        "Una torta",
+        "Più terra togli, più la buca cresce."
+      ],
+      [
+        "Quante zampe hanno in tutto 2 gatti?",
+        "8",
+        "4",
+        "6",
+        "4 + 4 = 8."
+      ],
+      [
+        "Quale solido ha la forma di una palla?",
+        "La sfera",
+        "Il cubo",
+        "La piramide",
+        "La Terra è quasi una sfera."
+      ],
+      [
+        "Quale solido ha la forma di una lattina?",
+        "Il cilindro",
+        "Il cono",
+        "La sfera",
+        "Anche un rotolo di carta è un cilindro."
+      ],
+      [
+        "Di cosa sono fatte le nuvole?",
+        "Di goccioline d’acqua",
+        "Di fumo",
+        "Di zucchero",
+        "Quando le gocce diventano pesanti, piove."
+      ],
+      [
+        "Perché vediamo il lampo prima di sentire il tuono?",
+        "Perché la luce è più veloce del suono",
+        "Perché il tuono è timido",
+        "Perché il lampo è più vicino",
+        "Contando i secondi si capisce quanto è lontano il temporale."
+      ],
+      [
+        "Quale pianeta è il terzo partendo dal Sole?",
+        "La Terra",
+        "Marte",
+        "Venere",
+        "Mercurio, Venere, Terra…"
+      ],
+      [
+        "Quanto tempo impiega la Luna a girare intorno alla Terra?",
+        "Circa un mese",
+        "Un giorno",
+        "Un anno",
+        "Circa 27 giorni."
+      ],
+      [
+        "Cosa sono le fasi della Luna?",
+        "I diversi aspetti della Luna illuminata dal Sole",
+        "Le stagioni",
+        "Le maree",
+        "Luna piena, nuova, crescente e calante."
+      ],
+      [
+        "Come si chiamano i denti che spuntano per ultimi, da grandi?",
+        "I denti del giudizio",
+        "I denti da latte",
+        "I canini",
+        "A volte non spuntano proprio."
+      ],
+      [
+        "In quali parti del corpo ci sono più ossa?",
+        "Nelle mani e nei piedi",
+        "Nella testa",
+        "Nella pancia",
+        "Più della metà delle nostre ossa si trova lì."
+      ],
+      [
+        "Come si chiama il liquido che si forma in bocca?",
+        "La saliva",
+        "Il sudore",
+        "Le lacrime",
+        "La saliva aiuta a digerire."
+      ],
+      [
+        "Perché sudiamo?",
+        "Per raffreddare il corpo",
+        "Per scaldarci",
+        "Per crescere",
+        "Il sudore evaporando porta via il calore."
+      ],
+      [
+        "A cosa serve una leva?",
+        "A sollevare pesi con meno fatica",
+        "Ad accendere la luce",
+        "A misurare il tempo",
+        "L’altalena a bilico è una leva."
+      ],
+      [
+        "Come si chiama la macchina semplice che è una rampa?",
+        "Il piano inclinato",
+        "La carrucola",
+        "La ruota",
+        "Salire su una rampa costa meno fatica che salire dritti."
+      ],
+      [
+        "Cosa esce da un vulcano in eruzione?",
+        "Lava",
+        "Acqua dolce",
+        "Neve",
+        "La lava è roccia fusa caldissima."
+      ],
+      [
+        "Come si chiama chi studia i vulcani?",
+        "Il vulcanologo",
+        "L’astronauta",
+        "Il dentista",
+        "In Italia ci sono vulcani molto studiati, come l’Etna."
+      ],
+      [
+        "Come si chiama chi studia le stelle e i pianeti?",
+        "L’astronomo",
+        "Il geologo",
+        "Il botanico",
+        "Usa telescopi grandissimi."
+      ],
+      [
+        "Come si chiama la freccina che muovi sullo schermo del computer?",
+        "Il cursore",
+        "Il tasto",
+        "Il cavo",
+        "Si muove con il mouse."
+      ],
+      [
+        "Quale tasto della tastiera si usa per andare a capo?",
+        "Invio",
+        "Spazio",
+        "Esc",
+        "Si chiama anche «Enter»."
+      ],
+      [
+        "Come ci si collega a Internet senza fili?",
+        "Con il Wi-Fi",
+        "Con la presa elettrica",
+        "Con una pila",
+        "Il Wi-Fi usa le onde radio."
+      ],
+      [
+        "Quanti centesimi ci sono in un euro?",
+        "100",
+        "10",
+        "1.000",
+        "Cento centesimi fanno un euro."
+      ],
+      [
+        "Quanti angoli ha un triangolo?",
+        "3",
+        "4",
+        "2",
+        "Tre lati e tre angoli."
       ]
     ],
     "ge": [
@@ -4995,6 +6381,356 @@
         "Liguria",
         "Calabria",
         "È patrimonio UNESCO."
+      ],
+      [
+        "Qual è il capoluogo della Valle d’Aosta?",
+        "Aosta",
+        "Courmayeur",
+        "Cervinia",
+        "La Valle d’Aosta è la regione più piccola d’Italia."
+      ],
+      [
+        "Qual è il capoluogo del Lazio?",
+        "Roma",
+        "Latina",
+        "Viterbo",
+        "Roma è anche la capitale d’Italia."
+      ],
+      [
+        "In quale regione si trova Lecce?",
+        "Puglia",
+        "Calabria",
+        "Basilicata",
+        "Lecce è famosa per le chiese barocche."
+      ],
+      [
+        "In quale regione si trova Como?",
+        "Lombardia",
+        "Piemonte",
+        "Liguria",
+        "Como si affaccia sull’omonimo lago."
+      ],
+      [
+        "In quale regione si trova Spoleto?",
+        "Umbria",
+        "Toscana",
+        "Marche",
+        "Spoleto ospita il Festival dei Due Mondi."
+      ],
+      [
+        "Quale isola italiana si trova tra la Sicilia e l’Africa?",
+        "Lampedusa",
+        "Capri",
+        "Elba",
+        "È il punto più a sud d’Italia."
+      ],
+      [
+        "Quale lago italiano ha la forma di una «Y» rovesciata?",
+        "Il lago di Como",
+        "Il lago di Garda",
+        "Il lago Trasimeno",
+        "Si divide in due rami: quello di Como e quello di Lecco."
+      ],
+      [
+        "Quale montagna a forma di piramide si trova al confine con la Svizzera?",
+        "Il Cervino",
+        "Il Vesuvio",
+        "L’Etna",
+        "È alto quasi 4.500 metri."
+      ],
+      [
+        "In quale città si trova la Fontana di Trevi?",
+        "Roma",
+        "Milano",
+        "Napoli",
+        "Si lancia una moneta per tornare a Roma."
+      ],
+      [
+        "In quale città si trova il Castello Sforzesco?",
+        "Milano",
+        "Torino",
+        "Verona",
+        "Fu la residenza degli Sforza."
+      ],
+      [
+        "In quale città si trova il Maschio Angioino?",
+        "Napoli",
+        "Bari",
+        "Palermo",
+        "È un grande castello vicino al porto."
+      ],
+      [
+        "In quale città si corre il Palio in Piazza del Campo?",
+        "Siena",
+        "Firenze",
+        "Arezzo",
+        "Si corre due volte l’anno, a luglio e ad agosto."
+      ],
+      [
+        "In quale città si trova la Fontana Maggiore?",
+        "Perugia",
+        "Assisi",
+        "Orvieto",
+        "È in piazza IV Novembre."
+      ],
+      [
+        "Quale città umbra è famosa per la Corsa dei Ceri?",
+        "Gubbio",
+        "Spoleto",
+        "Todi",
+        "Si corre ogni anno il 15 maggio."
+      ],
+      [
+        "In quale Paese si trovano le piramidi di Teotihuacán?",
+        "Messico",
+        "Egitto",
+        "Perù",
+        "Le costruirono popoli antichissimi del Messico."
+      ],
+      [
+        "In quale Paese si trova il monte Everest, al confine con la Cina?",
+        "Nepal",
+        "India",
+        "Giappone",
+        "È la montagna più alta del mondo."
+      ],
+      [
+        "In quale Paese si trova il Grand Canyon?",
+        "Stati Uniti",
+        "Canada",
+        "Messico",
+        "L’ha scavato il fiume Colorado."
+      ],
+      [
+        "In quale Paese si trova l’Alhambra?",
+        "Spagna",
+        "Marocco",
+        "Portogallo",
+        "Si trova a Granada."
+      ],
+      [
+        "In quale Paese si trova il castello di Neuschwanstein?",
+        "Germania",
+        "Austria",
+        "Francia",
+        "Ha ispirato il castello della Bella Addormentata Disney."
+      ],
+      [
+        "In quale continente si trova il Canada?",
+        "America del Nord",
+        "Europa",
+        "Asia",
+        "È il secondo Paese più grande del mondo."
+      ],
+      [
+        "In quale continente si trova l’Australia?",
+        "Oceania",
+        "Asia",
+        "Africa",
+        "L’Australia è anche il continente più piccolo."
+      ],
+      [
+        "Quanti sono gli oceani della Terra?",
+        "5",
+        "3",
+        "7",
+        "Pacifico, Atlantico, Indiano, Artico e Antartico."
+      ],
+      [
+        "Quale Paese ha una bandiera con un cerchio rosso su sfondo bianco?",
+        "Giappone",
+        "Cina",
+        "Corea del Sud",
+        "Il cerchio rappresenta il sole."
+      ],
+      [
+        "Di che colori è la bandiera della Francia?",
+        "Blu, bianco e rosso",
+        "Verde, bianco e rosso",
+        "Nero, rosso e oro",
+        "Si chiama anche «tricolore»."
+      ],
+      [
+        "Di che colori è la bandiera della Germania?",
+        "Nero, rosso e oro",
+        "Blu e bianco",
+        "Rosso e bianco",
+        "Le strisce sono orizzontali."
+      ],
+      [
+        "Quale Paese ha una luna e una stella bianche su una bandiera rossa?",
+        "Turchia",
+        "Cina",
+        "Svizzera",
+        "La luna è una mezzaluna."
+      ],
+      [
+        "Quale Paese ha una croce bianca su una bandiera rossa quadrata?",
+        "Svizzera",
+        "Giappone",
+        "Brasile",
+        "Anche la Danimarca ha una croce bianca su rosso, ma allungata."
+      ],
+      [
+        "Quale lingua si parla in Argentina?",
+        "Spagnolo",
+        "Portoghese",
+        "Inglese",
+        "In Brasile invece si parla portoghese."
+      ],
+      [
+        "In Belgio si parla il francese e quale altra lingua principale?",
+        "L’olandese",
+        "Lo spagnolo",
+        "L’italiano",
+        "Nelle Fiandre si parla olandese."
+      ],
+      [
+        "Qual è la moneta del Regno Unito?",
+        "La sterlina",
+        "L’euro",
+        "Il dollaro",
+        "Il Regno Unito non usa l’euro."
+      ],
+      [
+        "Qual è la moneta degli Stati Uniti?",
+        "Il dollaro",
+        "La sterlina",
+        "Lo yen",
+        "Il simbolo è $."
+      ],
+      [
+        "Qual è la moneta del Giappone?",
+        "Lo yen",
+        "Il dollaro",
+        "L’euro",
+        "Il simbolo è ¥."
+      ],
+      [
+        "Cos’è un golfo?",
+        "Una parte di mare che entra nella terra",
+        "Un’isola",
+        "Un fiume",
+        "Napoli si affaccia su un famoso golfo."
+      ],
+      [
+        "Cos’è una collina?",
+        "Un rilievo più basso di una montagna",
+        "Un lago",
+        "Una pianura",
+        "In Umbria ci sono tantissime colline."
+      ],
+      [
+        "Cos’è una valle?",
+        "Una zona bassa tra le montagne",
+        "Un vulcano",
+        "Un’isola",
+        "Spesso nelle valli scorre un fiume."
+      ],
+      [
+        "Cos’è un affluente?",
+        "Un fiume che si getta in un altro fiume",
+        "Un lago",
+        "Una cascata",
+        "Il Tevere ha molti affluenti."
+      ],
+      [
+        "Cos’è un’oasi?",
+        "Un luogo con acqua e piante nel deserto",
+        "Un’isola di ghiaccio",
+        "Una montagna",
+        "Nelle oasi crescono le palme da dattero."
+      ],
+      [
+        "Come si chiama chi disegna le carte geografiche?",
+        "Il cartografo",
+        "Il geologo",
+        "Il pilota",
+        "Oggi i cartografi usano computer e satelliti."
+      ],
+      [
+        "Cosa indica la scala di una carta geografica?",
+        "Quanto è stato rimpicciolito il territorio",
+        "Le altitudini",
+        "Le temperature",
+        "Per esempio 1 cm sulla carta = 1 km nella realtà."
+      ],
+      [
+        "Quale Paese europeo ha la forma di un esagono?",
+        "Francia",
+        "Spagna",
+        "Italia",
+        "I francesi chiamano il loro Paese «l’Esagono»."
+      ],
+      [
+        "Quale fiume attraversa Verona?",
+        "L’Adige",
+        "Il Po",
+        "L’Arno",
+        "L’Adige è il secondo fiume più lungo d’Italia."
+      ],
+      [
+        "Quale fiume passa vicino a Perugia?",
+        "Il Tevere",
+        "L’Arno",
+        "Il Po",
+        "Il Tevere nasce in Emilia-Romagna e arriva fino a Roma."
+      ],
+      [
+        "Quale città è chiamata «la Città Eterna»?",
+        "Roma",
+        "Venezia",
+        "Atene",
+        "Roma ha quasi 3.000 anni di storia."
+      ],
+      [
+        "Di quale città è tipica la mortadella?",
+        "Bologna",
+        "Napoli",
+        "Palermo",
+        "All’estero la chiamano anche «bologna»."
+      ],
+      [
+        "Di quale città è tipico il panettone?",
+        "Milano",
+        "Napoli",
+        "Bari",
+        "Si mangia soprattutto a Natale."
+      ],
+      [
+        "Di quale regione sono tipici gli arancini?",
+        "Sicilia",
+        "Liguria",
+        "Veneto",
+        "A Palermo si chiamano «arancine»."
+      ],
+      [
+        "In quale città nascono i Baci Perugina?",
+        "Perugia",
+        "Torino",
+        "Napoli",
+        "Dentro ogni Bacio c’è un bigliettino."
+      ],
+      [
+        "In quale regione si trova Verona?",
+        "Veneto",
+        "Lombardia",
+        "Trentino-Alto Adige",
+        "A Verona c’è l’Arena."
+      ],
+      [
+        "In quale regione si trova Catania?",
+        "Sicilia",
+        "Calabria",
+        "Sardegna",
+        "Catania si trova ai piedi dell’Etna."
+      ],
+      [
+        "In quale regione si trova Rimini?",
+        "Emilia-Romagna",
+        "Marche",
+        "Veneto",
+        "Rimini è famosa per le spiagge."
       ]
     ],
     "st": [
@@ -5697,6 +7433,356 @@
         "Jonathan Swift",
         "Mark Twain",
         "Robinson naufraga su un’isola deserta."
+      ],
+      [
+        "Come si chiamava la grande piazza delle città romane?",
+        "Il foro",
+        "Il mercato",
+        "Il castello",
+        "Il Foro Romano si visita ancora oggi."
+      ],
+      [
+        "Dove andavano a fare il bagno gli antichi Romani?",
+        "Alle terme",
+        "Al fiume",
+        "Al mare",
+        "Le terme erano bagni pubblici con acqua calda e fredda."
+      ],
+      [
+        "Come si chiamavano i carri da corsa del Circo Massimo?",
+        "Bighe",
+        "Gondole",
+        "Carrozze",
+        "Erano tirate da due o più cavalli."
+      ],
+      [
+        "Chi era Giulio Cesare?",
+        "Un grande generale e politico romano",
+        "Un faraone",
+        "Un pittore",
+        "Conquistò la Gallia, l’attuale Francia."
+      ],
+      [
+        "Come si chiama la statua con corpo di leone e testa umana in Egitto?",
+        "La Sfinge",
+        "Il Minotauro",
+        "Il Colosso",
+        "Si trova vicino alle piramidi di Giza."
+      ],
+      [
+        "Quale popolo antico viveva in Toscana e in Umbria prima dei Romani?",
+        "Gli Etruschi",
+        "I Vichinghi",
+        "Gli Aztechi",
+        "Perugia era una città etrusca."
+      ],
+      [
+        "Chi erano gli Inca?",
+        "Un popolo delle Ande, in Sud America",
+        "Un popolo africano",
+        "Un popolo vichingo",
+        "Costruirono la città di Machu Picchu."
+      ],
+      [
+        "Chi erano gli Aztechi?",
+        "Un popolo dell’antico Messico",
+        "Un popolo della Cina",
+        "Un popolo dell’India",
+        "La loro capitale era Tenochtitlán."
+      ],
+      [
+        "Chi era san Francesco d’Assisi?",
+        "Un santo che amava la natura e i poveri",
+        "Un re",
+        "Un pittore",
+        "È il patrono d’Italia."
+      ],
+      [
+        "Come si chiama la preghiera di san Francesco che loda il sole, la luna e l’acqua?",
+        "Il Cantico delle creature",
+        "La Divina Commedia",
+        "I Promessi Sposi",
+        "È uno dei primi testi della letteratura italiana."
+      ],
+      [
+        "Come si chiamava il ponte che si alzava per chiudere il castello?",
+        "Il ponte levatoio",
+        "Il ponte sospeso",
+        "Il viadotto",
+        "Sotto spesso c’era un fossato pieno d’acqua."
+      ],
+      [
+        "Chi copiava i libri a mano nel Medioevo?",
+        "Il copista",
+        "Il tipografo",
+        "Il giornalista",
+        "Si chiamava anche amanuense."
+      ],
+      [
+        "Chi era Leonardo da Vinci?",
+        "Un genio: pittore, scienziato e inventore",
+        "Un re",
+        "Un esploratore",
+        "Era nato a Vinci, in Toscana, nel 1452."
+      ],
+      [
+        "Leonardo disegnò anche una macchina che somiglia a…",
+        "Un elicottero",
+        "Un treno",
+        "Un computer",
+        "Si chiamava «vite aerea»."
+      ],
+      [
+        "Di quale città era Cristoforo Colombo?",
+        "Genova",
+        "Venezia",
+        "Napoli",
+        "Partì per l’America al servizio della Spagna."
+      ],
+      [
+        "Come venivano chiamati i volontari di Garibaldi?",
+        "Le camicie rosse",
+        "Le giacche blu",
+        "I berretti verdi",
+        "Indossavano camicie rosse."
+      ],
+      [
+        "Come si chiama un dipinto in cui il pittore ritrae se stesso?",
+        "Autoritratto",
+        "Paesaggio",
+        "Natura morta",
+        "Van Gogh ne dipinse tantissimi."
+      ],
+      [
+        "Come si chiama un dipinto con frutta, fiori e oggetti?",
+        "Natura morta",
+        "Ritratto",
+        "Paesaggio",
+        "Caravaggio dipinse una famosa «Canestra di frutta»."
+      ],
+      [
+        "Cosa usa lo scultore per scolpire il marmo?",
+        "Scalpello e martello",
+        "Pennello",
+        "Forbici",
+        "Michelangelo scolpiva così il David."
+      ],
+      [
+        "Quale strumento ad arco si suona tenendolo tra le gambe?",
+        "Il violoncello",
+        "Il flauto",
+        "La tromba",
+        "È più grande del violino e ha un suono più grave."
+      ],
+      [
+        "Quale strumento a fiato dorato è molto usato nel jazz?",
+        "Il sassofono",
+        "Il flauto",
+        "L’arpa",
+        "Lo inventò il belga Adolphe Sax."
+      ],
+      [
+        "Quale grande strumento ha tantissime corde che si pizzicano?",
+        "L’arpa",
+        "Il violino",
+        "La batteria",
+        "Ha la forma di un grande triangolo."
+      ],
+      [
+        "Come si chiama chi scrive la musica?",
+        "Il compositore",
+        "Il ballerino",
+        "Il pittore",
+        "Mozart e Verdi erano compositori."
+      ],
+      [
+        "Come si chiama un grande gruppo di musicisti di musica classica?",
+        "L’orchestra",
+        "Il coro",
+        "La band",
+        "Può avere anche più di 100 musicisti."
+      ],
+      [
+        "Come si chiama un gruppo di persone che cantano insieme?",
+        "Il coro",
+        "L’orchestra",
+        "La squadra",
+        "Ci sono voci alte e voci basse."
+      ],
+      [
+        "Quale compositore componeva musica già a 5 anni?",
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Giuseppe Verdi",
+        "Mozart era austriaco, di Salisburgo."
+      ],
+      [
+        "Chi ha scritto «Matilde» e «Il GGG»?",
+        "Roald Dahl",
+        "Gianni Rodari",
+        "Carlo Collodi",
+        "Il GGG è il Grande Gigante Gentile."
+      ],
+      [
+        "Chi ha scritto i libri di Harry Potter?",
+        "J. K. Rowling",
+        "J. R. R. Tolkien",
+        "Roald Dahl",
+        "Il primo libro uscì nel 1997."
+      ],
+      [
+        "Chi ha scritto «Peter Pan»?",
+        "J. M. Barrie",
+        "Lewis Carroll",
+        "Mark Twain",
+        "Barrie era scozzese."
+      ],
+      [
+        "Chi ha scritto «Storia di una gabbianella e del gatto che le insegnò a volare»?",
+        "Luis Sepúlveda",
+        "Gianni Rodari",
+        "Roald Dahl",
+        "Il gatto si chiama Zorba."
+      ],
+      [
+        "Chi ha scritto «Winnie the Pooh»?",
+        "A. A. Milne",
+        "Beatrix Potter",
+        "J. M. Barrie",
+        "L’orsetto era il peluche di suo figlio Christopher Robin."
+      ],
+      [
+        "Chi ha creato il coniglietto Peter Rabbit?",
+        "Beatrix Potter",
+        "A. A. Milne",
+        "Astrid Lindgren",
+        "Beatrix Potter disegnava da sola le illustrazioni."
+      ],
+      [
+        "Chi ha scritto «Zanna Bianca»?",
+        "Jack London",
+        "Mark Twain",
+        "Jules Verne",
+        "Zanna Bianca è un cane-lupo."
+      ],
+      [
+        "Chi ha scritto «I viaggi di Gulliver»?",
+        "Jonathan Swift",
+        "Daniel Defoe",
+        "Jules Verne",
+        "Gulliver arriva nel paese dei minuscoli lillipuziani."
+      ],
+      [
+        "Che cosa si festeggia l’8 marzo?",
+        "La Festa della donna",
+        "Il Natale",
+        "Halloween",
+        "In Italia si regala la mimosa."
+      ],
+      [
+        "Quando si festeggia la Festa dei lavoratori?",
+        "1º maggio",
+        "25 aprile",
+        "2 giugno",
+        "In molti Paesi è un giorno di festa."
+      ],
+      [
+        "In quale festa ci si traveste e si lanciano i coriandoli?",
+        "Carnevale",
+        "Pasqua",
+        "Natale",
+        "Il Carnevale finisce il martedì grasso."
+      ],
+      [
+        "Quale città italiana è famosa per il Carnevale con le maschere?",
+        "Venezia",
+        "Torino",
+        "Bari",
+        "Anche Viareggio ha un Carnevale famoso, con i carri."
+      ],
+      [
+        "Quale maschera di Carnevale ha il vestito a rombi colorati?",
+        "Arlecchino",
+        "Pulcinella",
+        "Pantalone",
+        "Arlecchino viene da Bergamo."
+      ],
+      [
+        "Quale maschera napoletana è vestita di bianco con una maschera nera?",
+        "Pulcinella",
+        "Arlecchino",
+        "Colombina",
+        "Pulcinella è furbo e allegro."
+      ],
+      [
+        "Cosa dicono i bambini bussando alle porte ad Halloween?",
+        "Dolcetto o scherzetto",
+        "Buon Natale",
+        "Auguri",
+        "Halloween si festeggia il 31 ottobre."
+      ],
+      [
+        "Chi costruì una delle prime automobili con motore a scoppio?",
+        "Karl Benz",
+        "I fratelli Wright",
+        "Thomas Edison",
+        "La sua automobile aveva tre ruote."
+      ],
+      [
+        "Cosa faceva muovere i primi treni?",
+        "Il vapore",
+        "L’elettricità",
+        "Il vento",
+        "Le locomotive a vapore bruciavano carbone."
+      ],
+      [
+        "Quale grande nave affondò nel 1912 dopo aver urtato un iceberg?",
+        "Il Titanic",
+        "La Santa María",
+        "L’Amerigo Vespucci",
+        "Era al suo primo viaggio."
+      ],
+      [
+        "Come si chiama il racconto della propria vita scritto da sé?",
+        "Autobiografia",
+        "Fiaba",
+        "Ricetta",
+        "Il diario di Anna Frank è autobiografico."
+      ],
+      [
+        "Come si chiama un testo scritto in versi, spesso con le rime?",
+        "Poesia",
+        "Ricetta",
+        "Lettera",
+        "Ogni gruppo di versi si chiama strofa."
+      ],
+      [
+        "Come si chiama un breve racconto con animali parlanti e una morale?",
+        "Favola",
+        "Romanzo",
+        "Notizia",
+        "La fiaba invece ha magie, fate e principi."
+      ],
+      [
+        "Chi era Esopo?",
+        "Un antico scrittore greco di favole",
+        "Un re",
+        "Un pittore",
+        "Sua è la favola della volpe e l’uva."
+      ],
+      [
+        "Come si chiamava la donna amata da Dante?",
+        "Beatrice",
+        "Laura",
+        "Giulietta",
+        "Nella Divina Commedia lo guida in Paradiso."
+      ],
+      [
+        "Chi era Spartaco?",
+        "Un gladiatore che guidò una rivolta di schiavi",
+        "Un imperatore",
+        "Un pittore",
+        "Combatté contro Roma nel I secolo a.C."
       ]
     ],
     "ca": [
@@ -6392,6 +8478,356 @@
         "Alice",
         "Dorothy",
         "Con lei ci sono i fratelli Gianni e Michele."
+      ],
+      [
+        "Come si chiama il cane a molla di «Toy Story»?",
+        "Slinky",
+        "Rex",
+        "Hamm",
+        "La sua pancia è una molla lunghissima."
+      ],
+      [
+        "Come si chiama la forchetta-giocattolo di «Toy Story 4»?",
+        "Forky",
+        "Woody",
+        "Bonnie",
+        "Forky all’inizio si crede spazzatura."
+      ],
+      [
+        "Cosa adorano gli alieni a tre occhi di «Toy Story»?",
+        "L’artiglio",
+        "La luna",
+        "Le banane",
+        "Per loro l’artiglio è un essere magico!"
+      ],
+      [
+        "Cosa usano i mostri di «Monsters & Co.» come energia?",
+        "Le urla dei bambini",
+        "Il carbone",
+        "Il vento",
+        "Poi scoprono che le risate funzionano meglio."
+      ],
+      [
+        "Qual è il motto di Dory in «Alla ricerca di Nemo»?",
+        "Zitto e nuota",
+        "Vai e vola",
+        "Mangia e dormi",
+        "Lo ripete per farsi coraggio."
+      ],
+      [
+        "Chi è la stilista dei costumi in «Gli Incredibili»?",
+        "Edna Mode",
+        "Violetta",
+        "Elastigirl",
+        "Odia i mantelli!"
+      ],
+      [
+        "Come si chiama l’amico immaginario di Riley in «Inside Out»?",
+        "Bing Bong",
+        "Olaf",
+        "Boo",
+        "È fatto di zucchero filato."
+      ],
+      [
+        "Di che colore è Disgusto in «Inside Out»?",
+        "Verde",
+        "Viola",
+        "Blu",
+        "Disgusto protegge Riley dalle cose cattive… come i broccoli!"
+      ],
+      [
+        "Di che colore è Paura in «Inside Out»?",
+        "Viola",
+        "Gialla",
+        "Verde",
+        "Paura è magro e sempre agitato."
+      ],
+      [
+        "Come si chiama l’anima protagonista di «Soul» che non vuole nascere?",
+        "22",
+        "Gioia",
+        "Riley",
+        "Ha un caratterino difficile!"
+      ],
+      [
+        "Come si chiama la nonna della famiglia Madrigal in «Encanto»?",
+        "Abuela Alma",
+        "Pepa",
+        "Luisa",
+        "È lei che custodisce la candela magica."
+      ],
+      [
+        "Come si chiama il ragazzo che vende ghiaccio in «Frozen»?",
+        "Kristoff",
+        "Hans",
+        "Olaf",
+        "Il suo migliore amico è la renna Sven."
+      ],
+      [
+        "Chi è il principe che si rivela cattivo in «Frozen»?",
+        "Hans",
+        "Kristoff",
+        "Sven",
+        "Hans vuole il regno di Arendelle."
+      ],
+      [
+        "Chi tiene prigioniera Rapunzel nella torre?",
+        "Madre Gothel",
+        "Malefica",
+        "Ursula",
+        "Vuole i suoi capelli magici."
+      ],
+      [
+        "Come si chiama la strega del mare de «La Sirenetta»?",
+        "Ursula",
+        "Crudelia",
+        "Malefica",
+        "Ursula prende la voce di Ariel."
+      ],
+      [
+        "Come si chiama il gattino di Geppetto nel «Pinocchio» Disney?",
+        "Figaro",
+        "Romeo",
+        "Lucifero",
+        "Nel film c’è anche il pesce rosso Cleo."
+      ],
+      [
+        "Su quale roccia viene presentato Simba appena nato?",
+        "La Rupe dei Re",
+        "Il Monte Fato",
+        "La Roccia del Teschio",
+        "Tutti gli animali si inchinano."
+      ],
+      [
+        "Quanti desideri esaudisce il Genio di «Aladdin»?",
+        "3",
+        "1",
+        "10",
+        "Aladdin usa l’ultimo per liberare il Genio."
+      ],
+      [
+        "Come si chiama il grillo portafortuna di «Mulan»?",
+        "Cri-Kee",
+        "Mushu",
+        "Abu",
+        "Mushu invece è il draghetto."
+      ],
+      [
+        "Come si chiama il maialino di Vaiana?",
+        "Pua",
+        "Pumbaa",
+        "Pimpi",
+        "Pua è fedelissimo."
+      ],
+      [
+        "Come si chiama il ragazzo genio di «Big Hero 6»?",
+        "Hiro",
+        "Tadashi",
+        "Wasabi",
+        "Baymax era stato creato da suo fratello Tadashi."
+      ],
+      [
+        "Dove vivono Lilo e sua sorella Nani?",
+        "Alle Hawaii",
+        "In Alaska",
+        "In Italia",
+        "Lilo adora il surf."
+      ],
+      [
+        "In quale videogioco vive Vanellope in «Ralph Spaccatutto»?",
+        "Sugar Rush",
+        "Mario Kart",
+        "Fix-It Felix",
+        "È un gioco di corse fatto di dolci."
+      ],
+      [
+        "Come si chiama il saggio maestro tartaruga di «Kung Fu Panda»?",
+        "Oogway",
+        "Shifu",
+        "Tai Lung",
+        "Oogway sceglie Po come Guerriero Dragone."
+      ],
+      [
+        "Come si chiama il biscotto parlante di «Shrek»?",
+        "Zenzy",
+        "Pinocchio",
+        "Ciuchino",
+        "È un omino di pan di zenzero."
+      ],
+      [
+        "Che animali sono Skipper, Kowalski, Rico e Soldato in «Madagascar»?",
+        "Pinguini",
+        "Lemuri",
+        "Leoni",
+        "Sono pinguini agenti segreti!"
+      ],
+      [
+        "Chi è il re dei lemuri in «Madagascar»?",
+        "Re Julien",
+        "Alex",
+        "Marty",
+        "Ama ballare e cantare."
+      ],
+      [
+        "Come si chiama la tigre dai denti a sciabola de «L’era glaciale»?",
+        "Diego",
+        "Manny",
+        "Sid",
+        "All’inizio è un nemico, poi diventa amico."
+      ],
+      [
+        "Che uccello è Blu nel film «Rio»?",
+        "Un ara azzurro",
+        "Un tucano",
+        "Un pinguino",
+        "Blu non sa volare!"
+      ],
+      [
+        "Chi gestisce l’albergo di «Hotel Transylvania»?",
+        "Dracula",
+        "Frankenstein",
+        "La Mummia",
+        "L’hotel è solo per mostri."
+      ],
+      [
+        "Chi è Spirit nel film d’animazione omonimo?",
+        "Un cavallo selvaggio",
+        "Un cane",
+        "Un’aquila",
+        "Spirit non vuole essere domato."
+      ],
+      [
+        "Quale supereroina usa un lazo che obbliga a dire la verità?",
+        "Wonder Woman",
+        "Black Widow",
+        "Catwoman",
+        "È una principessa amazzone."
+      ],
+      [
+        "Chi è il giovane aiutante di Batman?",
+        "Robin",
+        "Alfred",
+        "Joker",
+        "Robin indossa una maschera e un mantello giallo."
+      ],
+      [
+        "Quale supereroe ha una grande «S» sul petto e un mantello rosso?",
+        "Superman",
+        "Batman",
+        "Flash",
+        "Nella vita normale è Clark Kent."
+      ],
+      [
+        "Come si chiama la zia di Peter Parker?",
+        "Zia May",
+        "Zia Mary",
+        "Zia Lucia",
+        "Peter vive con lei a New York."
+      ],
+      [
+        "I nomi delle Tartarughe Ninja sono quelli di…",
+        "Artisti del Rinascimento",
+        "Calciatori",
+        "Pianeti",
+        "Leonardo, Michelangelo, Donatello e Raffaello."
+      ],
+      [
+        "Cos’è Doraemon?",
+        "Un gatto robot venuto dal futuro",
+        "Un cane",
+        "Un alieno",
+        "È blu e non ha le orecchie."
+      ],
+      [
+        "Da dove tira fuori i suoi gadget Doraemon?",
+        "Dalla tasca magica",
+        "Dal cappello",
+        "Dallo zaino",
+        "La tasca è sulla pancia."
+      ],
+      [
+        "Quale sport giocano Holly e Benji?",
+        "Calcio",
+        "Basket",
+        "Pallavolo",
+        "Benji è il portiere."
+      ],
+      [
+        "Quale sport gioca Mila nel cartone «Mila e Shiro»?",
+        "Pallavolo",
+        "Tennis",
+        "Nuoto",
+        "Il cartone giapponese era famosissimo negli anni Ottanta."
+      ],
+      [
+        "Da quale città parte Ash nella prima serie Pokémon?",
+        "Biancavilla",
+        "Smeraldopoli",
+        "Celestopoli",
+        "In inglese si chiama Pallet Town."
+      ],
+      [
+        "Cosa usa Ben per trasformarsi in alieno in «Ben 10»?",
+        "L’Omnitrix",
+        "Una bacchetta",
+        "Un anello",
+        "L’Omnitrix sembra un orologio."
+      ],
+      [
+        "Come si chiamano i gemelli di «Gravity Falls»?",
+        "Dipper e Mabel",
+        "Phineas e Ferb",
+        "Lilo e Nani",
+        "Passano l’estate dal prozio Stan."
+      ],
+      [
+        "Che animale è Jake in «Adventure Time»?",
+        "Un cane",
+        "Un gatto",
+        "Un orso",
+        "Jake può allungarsi e cambiare forma."
+      ],
+      [
+        "Che lavoro fa Bandit, il papà di Bluey?",
+        "L’archeologo",
+        "Il pompiere",
+        "Il cuoco",
+        "Ma a casa gioca sempre con le figlie!"
+      ],
+      [
+        "Chi cerca un cervello ne «Il mago di Oz»?",
+        "Lo Spaventapasseri",
+        "Il Leone",
+        "L’Uomo di latta",
+        "L’Uomo di latta invece cerca un cuore."
+      ],
+      [
+        "Chi cerca il coraggio ne «Il mago di Oz»?",
+        "Il Leone codardo",
+        "Lo Spaventapasseri",
+        "Dorothy",
+        "Alla fine scopre di averlo sempre avuto."
+      ],
+      [
+        "Come si chiama lo spazzacamino amico di Mary Poppins?",
+        "Bert",
+        "George",
+        "Michael",
+        "Bert sa fare tanti mestieri."
+      ],
+      [
+        "Chi trova l’ultimo biglietto d’oro ne «La fabbrica di cioccolato»?",
+        "Charlie",
+        "Augustus",
+        "Veruca",
+        "Charlie è un bambino povero e buono."
+      ],
+      [
+        "Cosa ama di più il Piccolo Principe sul suo pianeta?",
+        "La sua rosa",
+        "Un leone",
+        "Una montagna",
+        "La rosa è unica al mondo per lui."
       ]
     ],
     "vg": [
@@ -7087,6 +9523,349 @@
         "Numeri",
         "Carte",
         "Ne servono almeno tre uguali."
+      ],
+      [
+        "In Minecraft, quale strumento serve per estrarre la pietra?",
+        "Il piccone",
+        "La zappa",
+        "La canna da pesca",
+        "Il piccone di legno è il primo che si costruisce."
+      ],
+      [
+        "In Minecraft, come si chiamano gli abitanti dei villaggi?",
+        "Villici",
+        "Gnomi",
+        "Zombie",
+        "Con i villici si possono fare scambi con gli smeraldi."
+      ],
+      [
+        "In Minecraft, cosa si ottiene dalle mucche?",
+        "Latte e cuoio",
+        "Lana",
+        "Uova",
+        "Con il cuoio si fanno armature e libri."
+      ],
+      [
+        "In Minecraft, quale mostro lancia frecce?",
+        "Lo scheletro",
+        "Il creeper",
+        "La mucca",
+        "Lo scheletro brucia alla luce del sole."
+      ],
+      [
+        "In Super Mario, cosa fa la stella?",
+        "Rende invincibili per qualche secondo",
+        "Fa volare",
+        "Fa diventare piccoli",
+        "Parte anche una musica velocissima!"
+      ],
+      [
+        "Come si chiama il regno di Super Mario?",
+        "Regno dei Funghi",
+        "Hyrule",
+        "Arendelle",
+        "La sua principessa è Peach."
+      ],
+      [
+        "In Mario Kart, quale oggetto si lascia per far scivolare gli avversari?",
+        "La buccia di banana",
+        "Il fungo",
+        "La stella",
+        "Anche Donkey Kong le adora."
+      ],
+      [
+        "Come si chiama la principessa amica di Peach con il vestito arancione?",
+        "Daisy",
+        "Rosalinda",
+        "Zelda",
+        "Daisy è la principessa di Sarasaland."
+      ],
+      [
+        "Come si chiama la riccia rosa innamorata di Sonic?",
+        "Amy",
+        "Tails",
+        "Knuckles",
+        "Amy ha un grande martello."
+      ],
+      [
+        "Di che tipo è il Pokémon Charmander?",
+        "Fuoco",
+        "Acqua",
+        "Erba",
+        "Se la fiamma della coda si spegne, sta male."
+      ],
+      [
+        "Quale Pokémon a forma di papera ha sempre mal di testa?",
+        "Psyduck",
+        "Squirtle",
+        "Pikachu",
+        "È il Pokémon di Misty."
+      ],
+      [
+        "Quale Pokémon rosa canta e fa addormentare tutti?",
+        "Jigglypuff",
+        "Clefairy",
+        "Togepi",
+        "Si arrabbia se la gente si addormenta!"
+      ],
+      [
+        "Quale Pokémon gatto fa parte del Team Rocket?",
+        "Meowth",
+        "Persian",
+        "Eevee",
+        "Meowth sa parlare come gli umani."
+      ],
+      [
+        "Cosa sono le medaglie nei giochi Pokémon?",
+        "Premi per aver battuto i capopalestra",
+        "Monete",
+        "Pokémon rari",
+        "Con otto medaglie si va alla Lega Pokémon."
+      ],
+      [
+        "Di che colore è il vestito di Link in Zelda?",
+        "Verde",
+        "Rosso",
+        "Blu",
+        "Porta anche un cappello a punta."
+      ],
+      [
+        "Su cosa si vive in «Animal Crossing: New Horizons»?",
+        "Su un’isola",
+        "Su una nave",
+        "In un castello",
+        "Si pesca, si raccolgono frutti e si arreda."
+      ],
+      [
+        "Cosa sono i personaggi di «Fall Guys»?",
+        "Fagiolini colorati",
+        "Robot",
+        "Draghi",
+        "Devono superare percorsi a ostacoli pazzi."
+      ],
+      [
+        "Come si chiama la moneta virtuale di Roblox?",
+        "Robux",
+        "Gemme",
+        "Monete d’oro",
+        "Si usa per comprare oggetti nei giochi."
+      ],
+      [
+        "In Minecraft, quale mostro alto e nero si arrabbia se lo guardi negli occhi?",
+        "L’Enderman",
+        "Lo zombie",
+        "Il creeper",
+        "L’Enderman può teletrasportarsi."
+      ],
+      [
+        "Cosa mangia Pac-Man per poter inseguire i fantasmi?",
+        "La pillola grande",
+        "Una ciliegia",
+        "Una stella",
+        "Per un po’ i fantasmi diventano blu e scappano."
+      ],
+      [
+        "Cosa succede a Tetris se i pezzi arrivano in cima?",
+        "Si perde",
+        "Si vince",
+        "Si cambia livello",
+        "Bisogna eliminare le righe in tempo!"
+      ],
+      [
+        "Quale console portatile Nintendo del 1989 aveva lo schermo verdino?",
+        "Game Boy",
+        "Nintendo DS",
+        "Switch",
+        "Il gioco più famoso era Tetris."
+      ],
+      [
+        "Quanti cartellini gialli servono per essere espulsi in una partita di calcio?",
+        "2",
+        "1",
+        "3",
+        "Due gialli fanno un rosso."
+      ],
+      [
+        "Cosa mostra l’arbitro per espellere subito un giocatore?",
+        "Il cartellino rosso",
+        "Il cartellino giallo",
+        "Il cartellino verde",
+        "Chi è espulso deve lasciare il campo."
+      ],
+      [
+        "Nel rugby, come si chiama quando si porta la palla oltre la linea di fondo?",
+        "Meta",
+        "Gol",
+        "Canestro",
+        "Una meta vale 5 punti."
+      ],
+      [
+        "A quanti punti si chiude di solito un set di pallavolo?",
+        "25",
+        "21",
+        "15",
+        "Il quinto set si gioca a 15."
+      ],
+      [
+        "In quale gioco si usano un tavolo verde e le stecche?",
+        "Biliardo",
+        "Ping pong",
+        "Golf",
+        "Bisogna mandare le palle in buca."
+      ],
+      [
+        "In quale sport si colpisce la palla con una mazza e si corre sulle basi?",
+        "Baseball",
+        "Golf",
+        "Cricket",
+        "È lo sport più popolare negli Stati Uniti e in Giappone."
+      ],
+      [
+        "Quale sport invernale si fa sdraiati a pancia in su su una piccola slitta?",
+        "Slittino",
+        "Bob",
+        "Curling",
+        "Si può arrivare a 140 km/h!"
+      ],
+      [
+        "In quale sport si fanno scivolare grandi pietre sul ghiaccio con le scope?",
+        "Curling",
+        "Hockey",
+        "Bob",
+        "Le scope servono a far andare la pietra più lontano."
+      ],
+      [
+        "Quale arte marziale coreana usa molti calci?",
+        "Taekwondo",
+        "Judo",
+        "Sumo",
+        "È uno sport olimpico."
+      ],
+      [
+        "Quale sport giapponese vede due lottatori grandi e grossi?",
+        "Sumo",
+        "Judo",
+        "Karate",
+        "Perde chi esce dal cerchio o tocca terra."
+      ],
+      [
+        "In quale sport ci si esercita alla sbarra e al cavallo con maniglie?",
+        "Ginnastica artistica",
+        "Equitazione",
+        "Nuoto",
+        "Le ginnaste usano anche la trave."
+      ],
+      [
+        "Come si chiama chi allena una squadra?",
+        "L’allenatore",
+        "L’arbitro",
+        "Il capitano",
+        "Prepara gli allenamenti e decide la formazione."
+      ],
+      [
+        "Quale animale è il simbolo della Ferrari?",
+        "Un cavallino rampante",
+        "Un toro",
+        "Un leone",
+        "È nero su sfondo giallo."
+      ],
+      [
+        "Quale animale è il simbolo della Lamborghini?",
+        "Un toro",
+        "Un cavallo",
+        "Un giaguaro",
+        "Anche molti modelli hanno nomi di tori famosi."
+      ],
+      [
+        "Di che colore sono di solito le Ferrari di Formula 1?",
+        "Rosse",
+        "Verdi",
+        "Blu",
+        "È il «rosso corsa»."
+      ],
+      [
+        "Quale squadra di calcio ha i colori bianco e nero?",
+        "Juventus",
+        "Roma",
+        "Milan",
+        "I suoi tifosi la chiamano «la Juve»."
+      ],
+      [
+        "Quale squadra di calcio ha i colori giallo e rosso?",
+        "Roma",
+        "Inter",
+        "Napoli",
+        "Il simbolo è la lupa con Romolo e Remo."
+      ],
+      [
+        "Quale squadra di calcio ha i colori nero e azzurro?",
+        "Inter",
+        "Juventus",
+        "Lazio",
+        "Per questo si chiamano «nerazzurri»."
+      ],
+      [
+        "Quale squadra di Perugia gioca allo stadio Renato Curi?",
+        "Perugia",
+        "Ternana",
+        "Foligno",
+        "I giocatori sono chiamati «grifoni»."
+      ],
+      [
+        "Quanti dadi si usano a Monopoly?",
+        "2",
+        "1",
+        "3",
+        "Con un doppio si tira di nuovo."
+      ],
+      [
+        "Cosa bisogna indovinare nel gioco «Indovina chi?»",
+        "Il personaggio dell’avversario",
+        "Una parola",
+        "Un numero",
+        "Si fanno domande come «Ha gli occhiali?»."
+      ],
+      [
+        "Cosa si cerca di colpire nella battaglia navale?",
+        "Le navi dell’avversario",
+        "I castelli",
+        "Le carte",
+        "«Colpito e affondato!»"
+      ],
+      [
+        "Quante pedine in fila servono per vincere a «Forza 4»?",
+        "4",
+        "3",
+        "5",
+        "In orizzontale, verticale o diagonale."
+      ],
+      [
+        "In quale gioco si grida «Strega comanda color…»?",
+        "Strega comanda colore",
+        "Nascondino",
+        "Campana",
+        "Bisogna toccare qualcosa del colore detto."
+      ],
+      [
+        "Quante carte riceve ogni giocatore all’inizio di una partita a UNO?",
+        "7",
+        "5",
+        "10",
+        "Vince chi resta senza carte."
+      ],
+      [
+        "Che forma hanno le tessere del domino?",
+        "Rettangolare",
+        "Rotonda",
+        "Triangolare",
+        "Ogni tessera ha due metà con dei puntini."
+      ],
+      [
+        "Quale videogioco Nintendo fa fare ginnastica con un anello?",
+        "Ring Fit Adventure",
+        "Mario Kart",
+        "Zelda",
+        "Si gioca muovendosi davvero!"
       ]
     ]
   },
@@ -7756,6 +10535,342 @@
         "L’australopiteco",
         "L’Homo habilis",
         "Molti di noi hanno un po’ di DNA neanderthaliano."
+      ],
+      [
+        "Come si chiama il processo con cui una cellula si divide in due?",
+        "Mitosi",
+        "Fotosintesi",
+        "Osmosi",
+        "Così crescono i tessuti del corpo."
+      ],
+      [
+        "Come si chiama il passaggio di acqua attraverso una membrana?",
+        "Osmosi",
+        "Mitosi",
+        "Fusione",
+        "Per osmosi le radici assorbono l’acqua."
+      ],
+      [
+        "Quale parte della cellula vegetale contiene la clorofilla?",
+        "Il cloroplasto",
+        "Il mitocondrio",
+        "Il nucleo",
+        "È lì che avviene la fotosintesi."
+      ],
+      [
+        "Quale struttura rigida circonda le cellule vegetali?",
+        "La parete cellulare",
+        "Lo scheletro",
+        "Il guscio",
+        "È fatta soprattutto di cellulosa."
+      ],
+      [
+        "Come si chiama la scienza che studia l’ereditarietà?",
+        "Genetica",
+        "Ecologia",
+        "Anatomia",
+        "Studia come i caratteri passano dai genitori ai figli."
+      ],
+      [
+        "Come si chiama un tratto di DNA che contiene un’informazione ereditaria?",
+        "Gene",
+        "Cellula",
+        "Proteina",
+        "Gli esseri umani hanno circa 20.000 geni."
+      ],
+      [
+        "Quanti cromosomi riceviamo da ciascun genitore?",
+        "23",
+        "46",
+        "12",
+        "In totale ne abbiamo 46."
+      ],
+      [
+        "Cosa sono i virus?",
+        "Particelle che si riproducono solo dentro le cellule",
+        "Batteri grandi",
+        "Piccoli funghi",
+        "Non sono considerati veri organismi viventi."
+      ],
+      [
+        "Chi scoprì il primo vaccino contro la rabbia?",
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Robert Koch",
+        "Pasteur inventò anche la pastorizzazione."
+      ],
+      [
+        "Come si chiama il trasporto del polline da parte degli insetti?",
+        "Impollinazione entomofila",
+        "Germinazione",
+        "Fotosintesi",
+        "Le api sono le grandi impollinatrici."
+      ],
+      [
+        "Come si chiama l’organo con cui i pesci sentono vibrazioni e correnti?",
+        "La linea laterale",
+        "La pinna caudale",
+        "Le squame",
+        "Corre lungo i fianchi del pesce."
+      ],
+      [
+        "Quale animale terrestre ha il cervello più grande?",
+        "L’elefante",
+        "Il gorilla",
+        "L’uomo",
+        "Pesa circa 5 kg."
+      ],
+      [
+        "Perché i fenicotteri stanno spesso su una zampa sola?",
+        "Per disperdere meno calore",
+        "Per dormire in piedi senza cadere",
+        "Perché hanno una zampa malata",
+        "Così tengono al caldo l’altra zampa."
+      ],
+      [
+        "Quale insetto tiene le zampe anteriori come se pregasse?",
+        "La mantide religiosa",
+        "Il grillo",
+        "La formica",
+        "È un’abilissima cacciatrice."
+      ],
+      [
+        "Come si chiamano gli animali senza colonna vertebrale?",
+        "Invertebrati",
+        "Vertebrati",
+        "Mammiferi",
+        "Sono circa il 95% delle specie animali."
+      ],
+      [
+        "A quale classe appartengono i ragni?",
+        "Aracnidi",
+        "Insetti",
+        "Crostacei",
+        "Anche scorpioni e zecche sono aracnidi."
+      ],
+      [
+        "Quale animale ha lo scheletro esterno?",
+        "Gli insetti",
+        "I pesci",
+        "I mammiferi",
+        "Si chiama esoscheletro."
+      ],
+      [
+        "Come si chiama la fase in cui il bruco sta immobile prima di diventare farfalla?",
+        "Crisalide",
+        "Uovo",
+        "Larva",
+        "Dentro la crisalide il corpo si trasforma completamente."
+      ],
+      [
+        "Quale gas emettono soprattutto gli allevamenti e le discariche?",
+        "Metano",
+        "Ossigeno",
+        "Elio",
+        "Il metano è un potente gas serra."
+      ],
+      [
+        "Cosa sono le energie rinnovabili?",
+        "Energie che si rigenerano, come sole e vento",
+        "Energie dal petrolio",
+        "Energie che si esauriscono presto",
+        "Anche l’acqua e il calore della Terra sono rinnovabili."
+      ],
+      [
+        "Qual è uno dei principali effetti del riscaldamento globale?",
+        "Lo scioglimento dei ghiacciai",
+        "L’aumento dei terremoti",
+        "L’allungamento delle giornate",
+        "Anche il livello del mare si alza."
+      ],
+      [
+        "Cosa vuol dire «carbon neutral»?",
+        "Emettere tanta CO₂ quanta se ne compensa",
+        "Non usare mai il carbone",
+        "Usare solo carbone",
+        "L’obiettivo è un bilancio zero."
+      ],
+      [
+        "Quale gruppo di animali comprende rane, rospi e salamandre?",
+        "Anfibi",
+        "Rettili",
+        "Pesci",
+        "Respirano anche attraverso la pelle."
+      ],
+      [
+        "Qual è il più grande rettile vivente in Europa?",
+        "La tartaruga liuto (in mare)",
+        "La vipera",
+        "Il geco",
+        "Può superare i 600 kg."
+      ],
+      [
+        "Come si chiama la tana del coniglio selvatico?",
+        "Conigliera (o tana)",
+        "Nido",
+        "Alveare",
+        "I conigli selvatici vivono in gallerie sotterranee."
+      ],
+      [
+        "Cosa sono gli animali «a sangue caldo»?",
+        "Animali che mantengono costante la temperatura",
+        "Animali che vivono nel deserto",
+        "Animali con il sangue rosso",
+        "Uccelli e mammiferi sono a sangue caldo."
+      ],
+      [
+        "Quale pesce riesce a «camminare» fuori dall’acqua con le pinne?",
+        "Il perioftalmo",
+        "Il tonno",
+        "La trota",
+        "Vive nelle mangrovie."
+      ],
+      [
+        "Quale uccello ha le zampe azzurre e le mostra nella danza di corteggiamento?",
+        "La sula piediazzurri",
+        "Il fenicottero",
+        "Il pavone",
+        "Vive anche alle Galápagos."
+      ],
+      [
+        "Quale animale può vedere la luce ultravioletta?",
+        "L’ape",
+        "Il cane",
+        "Il cavallo",
+        "Molti fiori hanno disegni visibili solo in ultravioletto."
+      ],
+      [
+        "Quale animale ha l’olfatto più potente tra questi?",
+        "L’orso",
+        "Il gatto",
+        "Il cavallo",
+        "L’orso fiuta il cibo a chilometri di distanza."
+      ],
+      [
+        "Secondo molti studi, a cosa servono le strisce della zebra?",
+        "A confondere predatori e insetti",
+        "A scaldarsi",
+        "A nascondersi nella neve",
+        "Sembra che allontanino soprattutto le mosche che pungono."
+      ],
+      [
+        "Quale animale migratore percorre migliaia di km volando dall’Europa all’Africa?",
+        "La cicogna",
+        "Il passero",
+        "Il piccione",
+        "In inverno le cicogne vanno in Africa."
+      ],
+      [
+        "Come si chiama il gruppo di animali che allattano i piccoli?",
+        "Mammiferi",
+        "Uccelli",
+        "Rettili",
+        "Anche balene e pipistrelli sono mammiferi."
+      ],
+      [
+        "Quale conifera perde gli aghi in inverno?",
+        "Il larice",
+        "L’abete",
+        "Il pino",
+        "In autunno i larici diventano dorati."
+      ],
+      [
+        "Quale albero ha foglie a ventaglio ed è considerato un «fossile vivente»?",
+        "Il ginkgo",
+        "La quercia",
+        "Il pino",
+        "Esisteva già ai tempi dei dinosauri."
+      ],
+      [
+        "Quale pianta è il simbolo dell’Irlanda?",
+        "Il trifoglio",
+        "La rosa",
+        "Il cardo",
+        "Si festeggia il giorno di San Patrizio."
+      ],
+      [
+        "Quale pianta acquatica ha grandi foglie galleggianti e fiori bianchi o rosa?",
+        "La ninfea",
+        "Il giunco",
+        "La canna",
+        "Monet ne dipinse moltissime."
+      ],
+      [
+        "Quale grande uccello delle Ande è uno dei più grandi uccelli volanti?",
+        "Il condor",
+        "L’aquila reale",
+        "Il falco",
+        "Le sue ali superano i 3 metri."
+      ],
+      [
+        "Qual è il felino più grande delle Americhe?",
+        "Il giaguaro",
+        "Il puma",
+        "La lince",
+        "Ha il morso più potente tra i felini."
+      ],
+      [
+        "Cosa produce la seppia per difendersi?",
+        "Nero (inchiostro)",
+        "Luce",
+        "Veleno",
+        "Con il nero di seppia si colora la pasta."
+      ],
+      [
+        "Quale animale è considerato un «fossile vivente»?",
+        "Il celacanto",
+        "Il delfino",
+        "Il cavallo",
+        "Si pensava estinto da 66 milioni di anni."
+      ],
+      [
+        "Quale gas serve ai pesci per vivere e si scioglie nell’acqua?",
+        "L’ossigeno",
+        "L’elio",
+        "L’azoto",
+        "Le branchie lo estraggono dall’acqua."
+      ],
+      [
+        "Come si chiama l’insieme degli organismi che vivono sul fondale del mare?",
+        "Benthos",
+        "Plancton",
+        "Necton",
+        "Il necton invece nuota attivamente."
+      ],
+      [
+        "Quale animale «ride» ed è un uccello australiano?",
+        "Il kookaburra",
+        "Il pappagallo",
+        "L’emù",
+        "Il suo verso ricorda una risata umana."
+      ],
+      [
+        "Quale animale vive più a lungo tra questi?",
+        "La tartaruga gigante",
+        "Il cane",
+        "Il cavallo",
+        "Alcune superano i 150 anni."
+      ],
+      [
+        "Quale mammifero marino italiano vive nel Mediterraneo ed è in pericolo?",
+        "La foca monaca",
+        "Il tricheco",
+        "L’otaria",
+        "Ogni tanto viene avvistata in Sardegna e in Puglia."
+      ],
+      [
+        "Quale albero viene chiamato «albero della vita» in Africa?",
+        "Il baobab",
+        "L’ulivo",
+        "La palma",
+        "Il suo tronco immagazzina tantissima acqua."
+      ],
+      [
+        "Quale mammifero australiano ha uno sperone velenoso?",
+        "L’ornitorinco maschio",
+        "Il koala",
+        "Il canguro",
+        "Il veleno è molto doloroso ma non mortale per l’uomo."
       ]
     ],
     "sc": [
@@ -8444,6 +11559,356 @@
         "Decimale",
         "Romano",
         "Usa solo le cifre 0 e 1."
+      ],
+      [
+        "Quanto fa 25 × 4?",
+        "100",
+        "75",
+        "125",
+        "Quattro quarti di 100!"
+      ],
+      [
+        "Quanto fa 144 diviso 12?",
+        "12",
+        "14",
+        "10",
+        "12 × 12 = 144."
+      ],
+      [
+        "Quanto fa 2 elevato alla quinta?",
+        "32",
+        "10",
+        "25",
+        "2 × 2 × 2 × 2 × 2."
+      ],
+      [
+        "Quanto fa la radice quadrata di 81?",
+        "9",
+        "8",
+        "18",
+        "9 × 9 = 81."
+      ],
+      [
+        "Quanto fa il 20% di 50?",
+        "10",
+        "20",
+        "5",
+        "Il 10% è 5, quindi il 20% è 10."
+      ],
+      [
+        "Quanto fa 3/4 di 100?",
+        "75",
+        "25",
+        "34",
+        "Un quarto è 25, tre quarti sono 75."
+      ],
+      [
+        "Se x − 5 = 12, quanto vale x?",
+        "17",
+        "7",
+        "60",
+        "x = 12 + 5."
+      ],
+      [
+        "Se 3x = 21, quanto vale x?",
+        "7",
+        "18",
+        "63",
+        "x = 21 : 3."
+      ],
+      [
+        "Qual è il perimetro di un quadrato con lato 6 cm?",
+        "24 cm",
+        "36 cm",
+        "12 cm",
+        "Il perimetro è lato × 4."
+      ],
+      [
+        "Qual è l’area di un rettangolo di 4 cm per 7 cm?",
+        "28 cm²",
+        "22 cm²",
+        "11 cm²",
+        "Base per altezza."
+      ],
+      [
+        "Come si calcola la circonferenza di un cerchio?",
+        "2 × π × raggio",
+        "π × raggio²",
+        "Raggio × 4",
+        "π × raggio² è l’area."
+      ],
+      [
+        "Quanti gradi misurano insieme gli angoli di un triangolo?",
+        "180°",
+        "360°",
+        "90°",
+        "Vale per ogni triangolo."
+      ],
+      [
+        "Come si chiama un triangolo con tutti i lati uguali?",
+        "Equilatero",
+        "Isoscele",
+        "Scaleno",
+        "Isoscele ha due lati uguali."
+      ],
+      [
+        "Come si chiama un triangolo con tutti i lati diversi?",
+        "Scaleno",
+        "Equilatero",
+        "Isoscele",
+        "Anche gli angoli sono tutti diversi."
+      ],
+      [
+        "Quale numero non è primo?",
+        "21",
+        "13",
+        "17",
+        "21 = 3 × 7."
+      ],
+      [
+        "Qual è il numero romano per 100?",
+        "C",
+        "M",
+        "D",
+        "M vale 1.000 e D vale 500."
+      ],
+      [
+        "Come si scrive 2026 in numeri romani?",
+        "MMXXVI",
+        "MMXVI",
+        "MMXXIV",
+        "MM = 2000, XX = 20, VI = 6."
+      ],
+      [
+        "Quanti secondi ci sono in un’ora?",
+        "3.600",
+        "360",
+        "6.000",
+        "60 minuti × 60 secondi."
+      ],
+      [
+        "Quale numero continua la serie 3, 6, 12, 24…?",
+        "48",
+        "36",
+        "30",
+        "Ogni numero è il doppio del precedente."
+      ],
+      [
+        "Quale numero continua la serie 81, 27, 9, 3…?",
+        "1",
+        "0",
+        "2",
+        "Si divide per 3 ogni volta."
+      ],
+      [
+        "Una camicia costa 40 € ed è scontata del 25%. Quanto costa?",
+        "30 €",
+        "35 €",
+        "15 €",
+        "Il 25% di 40 è 10."
+      ],
+      [
+        "Se oggi è mercoledì, che giorno sarà tra 10 giorni?",
+        "Sabato",
+        "Venerdì",
+        "Mercoledì",
+        "10 giorni = una settimana e 3 giorni."
+      ],
+      [
+        "Un treno parte alle 9:45 e il viaggio dura 1 ora e 30 minuti. A che ora arriva?",
+        "11:15",
+        "10:75",
+        "11:45",
+        "9:45 + 1:30 = 11:15."
+      ],
+      [
+        "Quanti quadrati ci sono su una scacchiera, contando solo le caselle?",
+        "64",
+        "32",
+        "100",
+        "8 × 8."
+      ],
+      [
+        "Se un orologio segna le 3:00, che angolo formano le lancette?",
+        "90°",
+        "45°",
+        "180°",
+        "Un quarto di giro."
+      ],
+      [
+        "Quale scienziato spiegò l’arcobaleno con la scomposizione della luce?",
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Albert Einstein",
+        "Usò un prisma di vetro."
+      ],
+      [
+        "Quale scienziato misurò la pressione atmosferica con il barometro a mercurio?",
+        "Evangelista Torricelli",
+        "Galileo Galilei",
+        "Alessandro Volta",
+        "Torricelli era un allievo di Galileo."
+      ],
+      [
+        "Cosa misura un anemometro?",
+        "La velocità del vento",
+        "La pioggia",
+        "La temperatura",
+        "Ha spesso delle coppette che girano."
+      ],
+      [
+        "Cosa misura un pluviometro?",
+        "La quantità di pioggia",
+        "Il vento",
+        "L’umidità",
+        "Si misura in millimetri."
+      ],
+      [
+        "Rispetto all’aria, il suono nell’acqua viaggia…",
+        "Circa 4 volte più veloce",
+        "Alla stessa velocità",
+        "Più lentamente",
+        "Per questo le balene comunicano a grandi distanze."
+      ],
+      [
+        "Qual è l’unità di misura dell’intensità dei suoni?",
+        "Decibel",
+        "Hertz",
+        "Volt",
+        "Sopra i 120 dB il suono diventa doloroso."
+      ],
+      [
+        "Cosa sono gli ultrasuoni?",
+        "Suoni troppo acuti per l’orecchio umano",
+        "Suoni molto forti",
+        "Suoni nello spazio",
+        "Si usano anche per le ecografie."
+      ],
+      [
+        "Quale forza tiene la Luna in orbita intorno alla Terra?",
+        "La gravità",
+        "Il magnetismo",
+        "L’attrito",
+        "È la stessa forza che ci tiene a terra."
+      ],
+      [
+        "Cosa provoca le maree?",
+        "L’attrazione della Luna (e del Sole)",
+        "Il vento",
+        "I pesci",
+        "Ci sono due alte maree al giorno."
+      ],
+      [
+        "Perché in montagna l’acqua bolle a meno di 100 °C?",
+        "Perché la pressione dell’aria è più bassa",
+        "Perché fa freddo",
+        "Perché l’acqua è più pulita",
+        "Per questo la pasta cuoce più lentamente."
+      ],
+      [
+        "Qual è il simbolo chimico del rame?",
+        "Cu",
+        "Ra",
+        "Rm",
+        "Deriva dal latino «cuprum»."
+      ],
+      [
+        "Qual è il simbolo chimico dello zinco?",
+        "Zn",
+        "Zi",
+        "Z",
+        "Lo zinco si usa per proteggere il ferro dalla ruggine."
+      ],
+      [
+        "Qual è il simbolo chimico del calcio?",
+        "Ca",
+        "C",
+        "Cl",
+        "Il calcio rinforza ossa e denti."
+      ],
+      [
+        "Qual è la formula del metano?",
+        "CH₄",
+        "CO₂",
+        "H₂O",
+        "Un atomo di carbonio e quattro di idrogeno."
+      ],
+      [
+        "Cos’è una reazione di combustione?",
+        "Una reazione con l’ossigeno che produce calore e luce",
+        "Uno scioglimento",
+        "Un congelamento",
+        "Il fuoco è una combustione."
+      ],
+      [
+        "Come si chiamano le sostanze che hanno pH superiore a 7?",
+        "Basiche",
+        "Acide",
+        "Neutre",
+        "Il sapone è basico."
+      ],
+      [
+        "Quale organo del corpo umano consuma più energia rispetto al suo peso?",
+        "Il cervello",
+        "Il cuore",
+        "Lo stomaco",
+        "Usa circa il 20% dell’energia del corpo."
+      ],
+      [
+        "Quanti denti ha un adulto con i denti del giudizio?",
+        "32",
+        "28",
+        "20",
+        "Senza denti del giudizio sono 28."
+      ],
+      [
+        "Cosa misura la pressione arteriosa?",
+        "La forza del sangue sulle pareti delle arterie",
+        "Il battito del cuore",
+        "L’ossigeno nel sangue",
+        "Si misura con lo sfigmomanometro."
+      ],
+      [
+        "Come si chiama il più grande osso del cranio, che contiene il cervello?",
+        "La scatola cranica",
+        "La mandibola",
+        "La clavicola",
+        "La mandibola è l’unico osso mobile del cranio."
+      ],
+      [
+        "Quale parte dell’orecchio ci aiuta a mantenere l’equilibrio?",
+        "L’orecchio interno",
+        "Il padiglione",
+        "Il timpano",
+        "Contiene canali pieni di liquido."
+      ],
+      [
+        "Cos’è un algoritmo?",
+        "Una sequenza di istruzioni per risolvere un problema",
+        "Un tipo di computer",
+        "Un virus informatico",
+        "Anche una ricetta è un algoritmo!"
+      ],
+      [
+        "Cosa significa «www» negli indirizzi Internet?",
+        "World Wide Web",
+        "World Web Wire",
+        "Wide Web World",
+        "Il web è nato nel 1989."
+      ],
+      [
+        "Quanti kilobyte ci sono in un megabyte (nel sistema decimale)?",
+        "1.000",
+        "100",
+        "10",
+        "Mille megabyte fanno un gigabyte."
+      ],
+      [
+        "Cos’è l’intelligenza artificiale?",
+        "Programmi che svolgono compiti che richiedono intelligenza",
+        "Robot con il cervello umano",
+        "Un tipo di Internet",
+        "Riconoscimento di immagini e traduzioni sono esempi."
       ]
     ],
     "ge": [
@@ -9125,6 +12590,349 @@
         "Alaska",
         "Florida",
         "Le Hawaii sono di origine vulcanica."
+      ],
+      [
+        "Qual è la capitale della Finlandia?",
+        "Helsinki",
+        "Oslo",
+        "Stoccolma",
+        "La Finlandia ha migliaia di laghi."
+      ],
+      [
+        "Qual è la capitale dell’Afghanistan?",
+        "Kabul",
+        "Teheran",
+        "Islamabad",
+        "Si trova a quasi 1.800 metri di altitudine."
+      ],
+      [
+        "Qual è la capitale della Lituania?",
+        "Vilnius",
+        "Riga",
+        "Tallinn",
+        "È la più a sud delle tre capitali baltiche."
+      ],
+      [
+        "Qual è la capitale della Bosnia ed Erzegovina?",
+        "Sarajevo",
+        "Mostar",
+        "Belgrado",
+        "Mostar è famosa per il suo ponte antico."
+      ],
+      [
+        "Qual è la capitale della Macedonia del Nord?",
+        "Skopje",
+        "Ocrida",
+        "Tirana",
+        "È la città natale di Madre Teresa."
+      ],
+      [
+        "Qual è la capitale del Lussemburgo?",
+        "Lussemburgo",
+        "Bruxelles",
+        "Strasburgo",
+        "Città e Stato hanno lo stesso nome."
+      ],
+      [
+        "Qual è la capitale del Sudafrica, sede del governo?",
+        "Pretoria",
+        "Città del Capo",
+        "Johannesburg",
+        "Il Sudafrica ha tre capitali."
+      ],
+      [
+        "Qual è la capitale della Thailandia?",
+        "Bangkok",
+        "Phuket",
+        "Hanoi",
+        "In thailandese ha un nome lunghissimo."
+      ],
+      [
+        "Qual è la capitale dell’Indonesia, prima del trasferimento a Nusantara?",
+        "Giacarta",
+        "Bali",
+        "Manila",
+        "La nuova capitale si sta costruendo sul Borneo."
+      ],
+      [
+        "Qual è la capitale di Cipro?",
+        "Nicosia",
+        "Limassol",
+        "Atene",
+        "È divisa in due parti da una linea di confine."
+      ],
+      [
+        "Qual è la capitale della Tunisia?",
+        "Tunisi",
+        "Cartagine",
+        "Algeri",
+        "Vicino alla città ci sono le rovine di Cartagine."
+      ],
+      [
+        "Qual è la capitale dell’Algeria?",
+        "Algeri",
+        "Orano",
+        "Tunisi",
+        "Si affaccia sul Mediterraneo."
+      ],
+      [
+        "Qual è la capitale del Senegal?",
+        "Dakar",
+        "Abidjan",
+        "Bamako",
+        "Per anni è stata l’arrivo del rally Parigi-Dakar."
+      ],
+      [
+        "Qual è la capitale di Cuba?",
+        "L’Avana",
+        "Santo Domingo",
+        "San Juan",
+        "È famosa per le auto d’epoca."
+      ],
+      [
+        "Qual è la capitale del Ghana?",
+        "Accra",
+        "Lagos",
+        "Dakar",
+        "Il Ghana è un grande produttore di cacao."
+      ],
+      [
+        "In quale Paese si trova la città di Marrakech?",
+        "Marocco",
+        "Tunisia",
+        "Egitto",
+        "È chiamata «la città rossa»."
+      ],
+      [
+        "In quale Paese si trova la città di Kyoto?",
+        "Giappone",
+        "Cina",
+        "Corea del Sud",
+        "Fu capitale del Giappone per oltre mille anni."
+      ],
+      [
+        "Singapore è…",
+        "Una città-Stato",
+        "Una regione della Cina",
+        "Un’isola del Giappone",
+        "È uno degli Stati più piccoli e ricchi del mondo."
+      ],
+      [
+        "Qual è la capitale del Montenegro?",
+        "Podgorica",
+        "Cettigne",
+        "Belgrado",
+        "Il Montenegro usa l’euro pur non essendo nell’UE."
+      ],
+      [
+        "In quale Paese si trova la Città Proibita?",
+        "Cina",
+        "Giappone",
+        "Corea del Sud",
+        "Si trova a Pechino."
+      ],
+      [
+        "Qual è la montagna più alta interamente in territorio italiano?",
+        "Il Gran Paradiso",
+        "Il Monte Bianco",
+        "Il Cervino",
+        "Supera i 4.000 metri."
+      ],
+      [
+        "Quale fiume attraversa più capitali europee?",
+        "Il Danubio",
+        "Il Reno",
+        "La Senna",
+        "Vienna, Bratislava, Budapest e Belgrado."
+      ],
+      [
+        "Quale stretto separa la Sardegna dalla Corsica?",
+        "Le Bocche di Bonifacio",
+        "Lo Stretto di Messina",
+        "Lo Stretto di Gibilterra",
+        "Bonifacio è una città corsa."
+      ],
+      [
+        "Qual è la montagna più alta del Nord America?",
+        "Il Denali",
+        "Il Monte Bianco",
+        "L’Aconcagua",
+        "Si trova in Alaska."
+      ],
+      [
+        "Qual è il deserto più grande del mondo, contando anche quelli freddi?",
+        "L’Antartide",
+        "Il Sahara",
+        "Il Gobi",
+        "Un deserto è un luogo con pochissime precipitazioni."
+      ],
+      [
+        "Quale Paese è il più popoloso del mondo dal 2023?",
+        "India",
+        "Cina",
+        "Stati Uniti",
+        "Ha superato la Cina."
+      ],
+      [
+        "Qual è il Paese più grande dell’Africa?",
+        "Algeria",
+        "Egitto",
+        "Nigeria",
+        "Gran parte del suo territorio è deserto."
+      ],
+      [
+        "Quanti sono i continenti, secondo la suddivisione italiana più comune?",
+        "6",
+        "5",
+        "7",
+        "Europa, Asia, Africa, America, Oceania e Antartide."
+      ],
+      [
+        "Quale città italiana si trova più a nord?",
+        "Bolzano",
+        "Milano",
+        "Torino",
+        "Bolzano è in Alto Adige."
+      ],
+      [
+        "Quale regione italiana ha più province?",
+        "Lombardia",
+        "Sicilia",
+        "Piemonte",
+        "La Lombardia ne ha 12."
+      ],
+      [
+        "Quale regione italiana confina con la Francia?",
+        "Piemonte",
+        "Lombardia",
+        "Veneto",
+        "Anche Liguria e Valle d’Aosta confinano con la Francia."
+      ],
+      [
+        "Quale regione italiana confina con la Slovenia?",
+        "Friuli-Venezia Giulia",
+        "Veneto",
+        "Trentino-Alto Adige",
+        "Il capoluogo è Trieste."
+      ],
+      [
+        "Quale vulcano italiano è attivo a Napoli ma dorme dal 1944?",
+        "Il Vesuvio",
+        "L’Etna",
+        "Lo Stromboli",
+        "L’ultima eruzione fu durante la guerra."
+      ],
+      [
+        "Quale isola italiana è famosa per il vulcano e le terme, nel golfo di Napoli?",
+        "Ischia",
+        "Capri",
+        "Procida",
+        "Procida è stata Capitale italiana della cultura nel 2022."
+      ],
+      [
+        "Quale arcipelago si trova a nord della Sardegna?",
+        "La Maddalena",
+        "Le Eolie",
+        "Le Egadi",
+        "È un parco nazionale."
+      ],
+      [
+        "Quale parco si trova tra Abruzzo, Lazio e Molise?",
+        "Il Parco nazionale d’Abruzzo, Lazio e Molise",
+        "Il Gran Paradiso",
+        "Lo Stelvio",
+        "È uno dei parchi più antichi d’Italia."
+      ],
+      [
+        "Quale mare bagna Trieste?",
+        "L’Adriatico",
+        "Il Tirreno",
+        "Lo Ionio",
+        "Trieste si affaccia sul golfo omonimo."
+      ],
+      [
+        "Su quale mare si affaccia Bari?",
+        "L’Adriatico",
+        "Lo Ionio",
+        "Il Tirreno",
+        "Bari è il capoluogo della Puglia."
+      ],
+      [
+        "In quale città si trova la Mole Antonelliana?",
+        "Torino",
+        "Milano",
+        "Genova",
+        "Oggi ospita il Museo del cinema."
+      ],
+      [
+        "In quale città si trova la Cappella Sansevero con il Cristo velato?",
+        "Napoli",
+        "Roma",
+        "Palermo",
+        "La statua sembra coperta da un vero velo."
+      ],
+      [
+        "Quale linea immaginaria divide la Terra in emisfero est e ovest?",
+        "Il meridiano di Greenwich",
+        "L’Equatore",
+        "Il Tropico del Cancro",
+        "Insieme all’antimeridiano."
+      ],
+      [
+        "Cosa sono i fusi orari?",
+        "Le zone della Terra con la stessa ora",
+        "Le stagioni",
+        "Le linee dell’Equatore",
+        "Sono 24, uno per ogni ora."
+      ],
+      [
+        "Quando a Roma è mezzogiorno, a Londra (ora solare) che ore sono?",
+        "Le 11",
+        "Le 13",
+        "Le 12",
+        "Londra è un’ora indietro."
+      ],
+      [
+        "Come si chiama il vento freddo che soffia su Trieste?",
+        "La bora",
+        "Lo scirocco",
+        "Il libeccio",
+        "Può superare i 150 km/h."
+      ],
+      [
+        "Come si chiama il vento caldo e umido che arriva dall’Africa?",
+        "Lo scirocco",
+        "La bora",
+        "La tramontana",
+        "Porta spesso sabbia del deserto."
+      ],
+      [
+        "Cos’è un monsone?",
+        "Un vento stagionale che porta forti piogge",
+        "Un vulcano sottomarino",
+        "Un tipo di tsunami",
+        "È tipico dell’India e del Sud-est asiatico."
+      ],
+      [
+        "Cos’è uno tsunami?",
+        "Un’onda gigante causata da un terremoto o un’eruzione",
+        "Un vento caldo",
+        "Un tipo di nuvola",
+        "La parola viene dal giapponese."
+      ],
+      [
+        "Come si chiama la scienza che studia la popolazione?",
+        "Demografia",
+        "Geologia",
+        "Cartografia",
+        "Studia nascite, morti e migrazioni."
+      ],
+      [
+        "Cosa misura la densità di popolazione?",
+        "Gli abitanti per km²",
+        "Gli abitanti totali",
+        "La superficie di uno Stato",
+        "Il Bangladesh è tra i Paesi più densi."
       ]
     ],
     "st": [
@@ -9813,6 +13621,356 @@
         "Elvis Presley",
         "Prince",
         "Elvis invece era «il Re del Rock and Roll»."
+      ],
+      [
+        "Quale re d’Italia fu ucciso a Monza nel 1900?",
+        "Umberto I",
+        "Vittorio Emanuele II",
+        "Carlo Alberto",
+        "Fu ucciso dall’anarchico Gaetano Bresci."
+      ],
+      [
+        "In quale città si riunì il primo Parlamento italiano?",
+        "Torino",
+        "Roma",
+        "Firenze",
+        "Torino fu la prima capitale."
+      ],
+      [
+        "Quale città fu capitale d’Italia dopo Torino e prima di Roma?",
+        "Firenze",
+        "Milano",
+        "Napoli",
+        "Lo fu dal 1865 al 1871."
+      ],
+      [
+        "Come si chiamavano le guerre per l’unificazione italiana?",
+        "Guerre d’indipendenza",
+        "Guerre puniche",
+        "Crociate",
+        "Furono tre, contro l’Austria."
+      ],
+      [
+        "Contro chi combatté Roma nelle guerre puniche?",
+        "Cartagine",
+        "La Grecia",
+        "L’Egitto",
+        "Cartagine si trovava nell’attuale Tunisia."
+      ],
+      [
+        "Quale imperatore romano divise l’impero in quattro parti (tetrarchia)?",
+        "Diocleziano",
+        "Nerone",
+        "Augusto",
+        "Diocleziano costruì un grande palazzo a Spalato."
+      ],
+      [
+        "Quale popolo germanico saccheggiò Roma nel 410?",
+        "I Visigoti",
+        "I Vichinghi",
+        "Gli Unni",
+        "Erano guidati da Alarico."
+      ],
+      [
+        "Chi era Attila?",
+        "Il re degli Unni",
+        "Un imperatore romano",
+        "Un papa",
+        "Era chiamato «flagello di Dio»."
+      ],
+      [
+        "Chi era Federico Barbarossa?",
+        "Un imperatore tedesco che combatté contro i Comuni italiani",
+        "Un pirata",
+        "Un papa",
+        "Fu sconfitto a Legnano nel 1176."
+      ],
+      [
+        "Quale dinastia guidò la Cina per gran parte del Medioevo, sotto Kublai Khan?",
+        "La dinastia mongola Yuan",
+        "La dinastia Ming",
+        "La dinastia Qin",
+        "Marco Polo visitò la sua corte."
+      ],
+      [
+        "Quali città italiane erano chiamate «Repubbliche marinare»?",
+        "Venezia, Genova, Pisa e Amalfi",
+        "Roma, Milano, Napoli e Torino",
+        "Firenze, Siena, Lucca e Arezzo",
+        "I loro stemmi sono sulla bandiera della Marina."
+      ],
+      [
+        "Chi era Caterina de’ Medici?",
+        "Una fiorentina diventata regina di Francia",
+        "Una pittrice",
+        "Una santa",
+        "Si dice che portò in Francia la forchetta."
+      ],
+      [
+        "In che anno cadde Costantinopoli in mano agli Ottomani?",
+        "1453",
+        "1492",
+        "1348",
+        "Fu la fine dell’Impero bizantino."
+      ],
+      [
+        "Dove credeva di essere arrivato Colombo nel 1492?",
+        "Nelle Indie",
+        "In Africa",
+        "In Australia",
+        "Per questo i nativi furono chiamati «indiani»."
+      ],
+      [
+        "Chi era Montezuma?",
+        "L’imperatore azteco al tempo di Cortés",
+        "Un re inca",
+        "Un esploratore spagnolo",
+        "Fu fatto prigioniero dagli spagnoli."
+      ],
+      [
+        "Chi conquistò l’Impero azteco nel 1521?",
+        "Hernán Cortés",
+        "Francisco Pizarro",
+        "Colombo",
+        "Pizarro conquistò invece gli Inca."
+      ],
+      [
+        "Cos’era il Rinascimento?",
+        "Un periodo di rinnovamento di arte e cultura",
+        "Una guerra",
+        "Una malattia",
+        "Nacque in Italia nel Quattrocento."
+      ],
+      [
+        "Chi scrisse «Il Cortegiano»?",
+        "Baldassarre Castiglione",
+        "Niccolò Machiavelli",
+        "Ludovico Ariosto",
+        "Descrive il perfetto uomo di corte."
+      ],
+      [
+        "Chi era Giordano Bruno?",
+        "Un filosofo condannato al rogo nel 1600",
+        "Un pittore",
+        "Un navigatore",
+        "Una statua lo ricorda a Campo de’ Fiori, a Roma."
+      ],
+      [
+        "In quale secolo visse Napoleone Bonaparte?",
+        "Tra il Settecento e l’Ottocento",
+        "Nel Seicento",
+        "Nel Novecento",
+        "Nacque nel 1769 in Corsica."
+      ],
+      [
+        "Dove nacque Napoleone?",
+        "In Corsica",
+        "A Parigi",
+        "In Sardegna",
+        "La Corsica era diventata francese l’anno prima."
+      ],
+      [
+        "Cosa rappresenta la Statua della Libertà?",
+        "Un dono della Francia agli Stati Uniti",
+        "Una regina americana",
+        "Una dea greca",
+        "Fu inaugurata nel 1886."
+      ],
+      [
+        "Cos’era il Muro di Berlino?",
+        "Un muro che divideva Berlino Est da Berlino Ovest",
+        "Le mura medievali di Berlino",
+        "Un monumento ai caduti",
+        "Cadde il 9 novembre 1989."
+      ],
+      [
+        "Quanti articoli ha la Costituzione italiana?",
+        "139",
+        "50",
+        "300",
+        "A questi si aggiungono le disposizioni transitorie e finali."
+      ],
+      [
+        "Chi è il capo dello Stato in Italia?",
+        "Il presidente della Repubblica",
+        "Il presidente del Consiglio",
+        "Il re",
+        "Resta in carica sette anni."
+      ],
+      [
+        "Per quanti anni resta in carica il presidente della Repubblica italiana?",
+        "7",
+        "5",
+        "4",
+        "Può essere rieletto."
+      ],
+      [
+        "Quante sono le camere del Parlamento italiano?",
+        "2",
+        "1",
+        "3",
+        "Camera dei deputati e Senato."
+      ],
+      [
+        "Cosa celebra il 4 novembre in Italia?",
+        "L’Unità nazionale e le Forze armate",
+        "La Liberazione",
+        "La Repubblica",
+        "Ricorda la fine della Prima guerra mondiale per l’Italia."
+      ],
+      [
+        "Chi era Gandhi?",
+        "Il leader della lotta non violenta per l’indipendenza dell’India",
+        "Un imperatore indiano",
+        "Un generale inglese",
+        "L’India divenne indipendente nel 1947."
+      ],
+      [
+        "Chi è Malala Yousafzai?",
+        "Un’attivista per l’istruzione delle ragazze, premio Nobel per la pace",
+        "Una regina",
+        "Una cantante",
+        "Ricevette il Nobel nel 2014, a 17 anni."
+      ],
+      [
+        "Chi dipinse la «Primavera», oggi agli Uffizi?",
+        "Sandro Botticelli",
+        "Leonardo da Vinci",
+        "Raffaello",
+        "È un capolavoro del Rinascimento fiorentino."
+      ],
+      [
+        "Chi dipinse il «Tondo Doni»?",
+        "Michelangelo",
+        "Raffaello",
+        "Leonardo da Vinci",
+        "È l’unico suo dipinto su tavola sicuramente finito."
+      ],
+      [
+        "Chi dipinse la «Canestra di frutta»?",
+        "Caravaggio",
+        "Tiziano",
+        "Raffaello",
+        "È conservata alla Pinacoteca Ambrosiana di Milano."
+      ],
+      [
+        "Chi dipinse «I mangiatori di patate»?",
+        "Vincent van Gogh",
+        "Rembrandt",
+        "Monet",
+        "È un’opera del periodo olandese di Van Gogh."
+      ],
+      [
+        "Chi dipinse «La Maja desnuda»?",
+        "Francisco Goya",
+        "Diego Velázquez",
+        "El Greco",
+        "Si trova al Museo del Prado."
+      ],
+      [
+        "A quale movimento artistico appartiene Claude Monet?",
+        "Impressionismo",
+        "Cubismo",
+        "Futurismo",
+        "Il nome viene da un suo quadro."
+      ],
+      [
+        "Chi scolpì la «Venere di Milo»?",
+        "Uno scultore greco antico sconosciuto",
+        "Michelangelo",
+        "Canova",
+        "Si trova al Louvre."
+      ],
+      [
+        "Quale architetto progettò la Basilica di San Pietro con la grande cupola?",
+        "Michelangelo (la cupola)",
+        "Brunelleschi",
+        "Bernini",
+        "Michelangelo progettò la cupola ma morì prima della fine."
+      ],
+      [
+        "Chi scrisse «Uno, nessuno e centomila»?",
+        "Luigi Pirandello",
+        "Italo Svevo",
+        "Giovanni Verga",
+        "Il protagonista si chiama Vitangelo Moscarda."
+      ],
+      [
+        "Chi scrisse «Le ultime lettere di Jacopo Ortis»?",
+        "Ugo Foscolo",
+        "Alessandro Manzoni",
+        "Giacomo Leopardi",
+        "È un romanzo in forma di lettere."
+      ],
+      [
+        "Chi scrisse «A Silvia»?",
+        "Giacomo Leopardi",
+        "Giovanni Pascoli",
+        "Ugo Foscolo",
+        "Leopardi era di Recanati."
+      ],
+      [
+        "Chi scrisse «X Agosto», sulla notte di San Lorenzo?",
+        "Giovanni Pascoli",
+        "Gabriele D’Annunzio",
+        "Giosuè Carducci",
+        "Ricorda la morte del padre."
+      ],
+      [
+        "Chi scrisse «Dei Sepolcri»?",
+        "Ugo Foscolo",
+        "Giacomo Leopardi",
+        "Alessandro Manzoni",
+        "Foscolo era nato a Zante, in Grecia."
+      ],
+      [
+        "Chi scrisse «Il sentiero dei nidi di ragno»?",
+        "Italo Calvino",
+        "Cesare Pavese",
+        "Beppe Fenoglio",
+        "È il suo primo romanzo, sulla Resistenza."
+      ],
+      [
+        "Chi scrisse «Il barone rampante»?",
+        "Italo Calvino",
+        "Dino Buzzati",
+        "Alberto Moravia",
+        "Il protagonista vive sugli alberi."
+      ],
+      [
+        "Chi scrisse «Il buio oltre la siepe»?",
+        "Harper Lee",
+        "John Steinbeck",
+        "J. D. Salinger",
+        "È ambientato nell’Alabama degli anni Trenta."
+      ],
+      [
+        "Chi scrisse «Il signore delle mosche»?",
+        "William Golding",
+        "George Orwell",
+        "J. D. Salinger",
+        "Un gruppo di ragazzi naufraga su un’isola."
+      ],
+      [
+        "Chi scrisse «Il Conte di Montecristo»?",
+        "Alexandre Dumas",
+        "Victor Hugo",
+        "Jules Verne",
+        "Dumas scrisse anche «I tre moschettieri»."
+      ],
+      [
+        "Chi scrisse «I miserabili»?",
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Émile Zola",
+        "Il protagonista è Jean Valjean."
+      ],
+      [
+        "Chi scrisse «Moby Dick»?",
+        "Herman Melville",
+        "Ernest Hemingway",
+        "Mark Twain",
+        "La balena bianca è inseguita dal capitano Achab."
       ]
     ],
     "ca": [
@@ -10501,6 +14659,356 @@
         "Creed",
         "Toro scatenato",
         "Lo interpreta Sylvester Stallone."
+      ],
+      [
+        "Chi ha diretto «Il Signore degli Anelli» al cinema?",
+        "Peter Jackson",
+        "Steven Spielberg",
+        "Ridley Scott",
+        "Fu girato in Nuova Zelanda."
+      ],
+      [
+        "Chi ha diretto «Avatar»?",
+        "James Cameron",
+        "Peter Jackson",
+        "George Lucas",
+        "Ha diretto anche «Titanic»."
+      ],
+      [
+        "Chi ha diretto «Inception» e «Interstellar»?",
+        "Christopher Nolan",
+        "Steven Spielberg",
+        "Denis Villeneuve",
+        "Nolan ama il cinema in pellicola."
+      ],
+      [
+        "Chi ha diretto «Dune» (2021)?",
+        "Denis Villeneuve",
+        "Christopher Nolan",
+        "David Lynch",
+        "Lynch aveva girato un «Dune» nel 1984."
+      ],
+      [
+        "In «Dune», come si chiama il pianeta desertico?",
+        "Arrakis",
+        "Tatooine",
+        "Pandora",
+        "È ricchissimo della preziosa «spezia»."
+      ],
+      [
+        "In «Star Wars», come si chiama il pilota del Millennium Falcon?",
+        "Han Solo",
+        "Luke Skywalker",
+        "Lando",
+        "Il suo copilota è Chewbacca."
+      ],
+      [
+        "In «Star Wars», come si chiama la principessa di Alderaan?",
+        "Leia",
+        "Padmé",
+        "Rey",
+        "È la sorella gemella di Luke."
+      ],
+      [
+        "In «Harry Potter», come si chiama la migliore amica di Harry?",
+        "Hermione Granger",
+        "Ginny Weasley",
+        "Luna Lovegood",
+        "È la più brava della classe."
+      ],
+      [
+        "In «Harry Potter», a quale binario parte il treno per Hogwarts?",
+        "9 e ¾",
+        "10",
+        "7 e ½",
+        "Si trova alla stazione di King’s Cross."
+      ],
+      [
+        "In «Harry Potter», come si chiama la scuola di magia francese?",
+        "Beauxbatons",
+        "Durmstrang",
+        "Hogwarts",
+        "Durmstrang è quella del Nord Europa."
+      ],
+      [
+        "Qual è il vero nome di Capitan America?",
+        "Steve Rogers",
+        "Tony Stark",
+        "Bucky Barnes",
+        "Era un soldato della Seconda guerra mondiale."
+      ],
+      [
+        "Qual è il vero nome di Hulk?",
+        "Bruce Banner",
+        "Peter Parker",
+        "Clint Barton",
+        "È uno scienziato."
+      ],
+      [
+        "Quale supereroe Marvel è un dio norreno?",
+        "Thor",
+        "Loki",
+        "Visione",
+        "Viene da Asgard."
+      ],
+      [
+        "Quale supereroe è uno stregone esperto di arti mistiche?",
+        "Doctor Strange",
+        "Iron Man",
+        "Ant-Man",
+        "Era un neurochirurgo."
+      ],
+      [
+        "Come si chiama l’alter ego di Batman?",
+        "Bruce Wayne",
+        "Clark Kent",
+        "Tony Stark",
+        "Bruce Wayne è un miliardario."
+      ],
+      [
+        "Come si chiama la giornalista innamorata di Superman?",
+        "Lois Lane",
+        "Mary Jane",
+        "Gwen Stacy",
+        "Mary Jane è l’amata di Spider-Man."
+      ],
+      [
+        "In «Hunger Games», da quale distretto viene Katniss?",
+        "Distretto 12",
+        "Distretto 1",
+        "Distretto 13",
+        "È il distretto dei minatori."
+      ],
+      [
+        "In «Twilight», di chi si innamora Bella?",
+        "Di un vampiro",
+        "Di un mago",
+        "Di un alieno",
+        "Il vampiro si chiama Edward."
+      ],
+      [
+        "In quale saga di film c’è il personaggio di Jack Sparrow?",
+        "Pirati dei Caraibi",
+        "Indiana Jones",
+        "Jurassic World",
+        "È ispirata a un’attrazione di Disneyland."
+      ],
+      [
+        "Chi interpreta Indiana Jones?",
+        "Harrison Ford",
+        "Tom Cruise",
+        "Brad Pitt",
+        "Ha interpretato anche Han Solo."
+      ],
+      [
+        "In «Mission: Impossible», chi interpreta Ethan Hunt?",
+        "Tom Cruise",
+        "Matt Damon",
+        "Keanu Reeves",
+        "Fa quasi sempre da solo le acrobazie."
+      ],
+      [
+        "In «Jurassic Park», come vengono riportati in vita i dinosauri?",
+        "Con il DNA trovato in zanzare nell’ambra",
+        "Con la magia",
+        "Con una macchina del tempo",
+        "L’idea viene dal romanzo di Michael Crichton."
+      ],
+      [
+        "In quale film un pesce pagliaccio cerca il figlio smarrito?",
+        "Alla ricerca di Nemo",
+        "Shark Tale",
+        "La Sirenetta",
+        "Il padre si chiama Marlin."
+      ],
+      [
+        "In quale film di Miyazaki c’è un grande spirito della foresta grigio e peloso?",
+        "Il mio vicino Totoro",
+        "Ponyo",
+        "Porco Rosso",
+        "Totoro viaggia su un gattobus."
+      ],
+      [
+        "In «La città incantata», in cosa vengono trasformati i genitori di Chihiro?",
+        "In maiali",
+        "In gatti",
+        "In draghi",
+        "Hanno mangiato il cibo degli spiriti."
+      ],
+      [
+        "In «Il castello errante di Howl», chi è il demone del fuoco?",
+        "Calcifer",
+        "Haku",
+        "No-Face",
+        "Calcifer fa muovere il castello."
+      ],
+      [
+        "In «Spy x Family», qual è il potere segreto di Anya?",
+        "Legge nel pensiero",
+        "Vola",
+        "Diventa invisibile",
+        "Il suo papà è una spia."
+      ],
+      [
+        "Come si chiama la ciurma di Rufy in «One Piece»?",
+        "La ciurma di Cappello di Paglia",
+        "La ciurma di Barbanera",
+        "I Pirati del Cuore",
+        "Il loro sogno è trovare il One Piece."
+      ],
+      [
+        "In «Naruto», quale animale è sigillato dentro Naruto?",
+        "La Volpe a Nove Code",
+        "Un drago",
+        "Un lupo",
+        "Si chiama Kurama."
+      ],
+      [
+        "In «Demon Slayer», cosa fa Tanjiro?",
+        "Caccia i demoni",
+        "Gioca a calcio",
+        "Fa il cuoco",
+        "Vuole far tornare umana la sorella."
+      ],
+      [
+        "In «Jujutsu Kaisen», chi è il protagonista?",
+        "Yuji Itadori",
+        "Tanjiro Kamado",
+        "Eren Jaeger",
+        "Ingerisce un dito di Sukuna."
+      ],
+      [
+        "In «Stranger Things», come si chiama il mostro principale della prima stagione?",
+        "Demogorgone",
+        "Mind Flayer",
+        "Vecna",
+        "Il nome viene da Dungeons & Dragons."
+      ],
+      [
+        "In «Stranger Things», quale gioco di ruolo fanno i ragazzi?",
+        "Dungeons & Dragons",
+        "Monopoly",
+        "Risiko",
+        "Ci giocano nel seminterrato di Mike."
+      ],
+      [
+        "In «Mercoledì», quale accademia frequenta Mercoledì Addams?",
+        "Nevermore",
+        "Hogwarts",
+        "Beauxbatons",
+        "È una scuola per ragazzi «diversi»."
+      ],
+      [
+        "In «The Mandalorian», come viene chiamato il piccolo alieno verde?",
+        "Grogu",
+        "Yoda",
+        "Ewok",
+        "Molti lo chiamavano «Baby Yoda»."
+      ],
+      [
+        "In «Lupin», chi è il ladro gentiluomo a cui si ispira il protagonista della serie Netflix?",
+        "Arsenio Lupin",
+        "Robin Hood",
+        "Sherlock Holmes",
+        "Lo creò lo scrittore Maurice Leblanc."
+      ],
+      [
+        "In «La casa di carta», chi è la mente della rapina?",
+        "Il Professore",
+        "Berlino",
+        "Tokyo",
+        "Il suo vero nome è Sergio Marquina."
+      ],
+      [
+        "Dove è ambientata la serie «Mare fuori»?",
+        "In un carcere minorile di Napoli",
+        "In una scuola di musica",
+        "In un ospedale",
+        "È molto seguita dai ragazzi."
+      ],
+      [
+        "Chi ha diretto «Io capitano», candidato all’Oscar 2024?",
+        "Matteo Garrone",
+        "Paolo Sorrentino",
+        "Gabriele Muccino",
+        "Racconta il viaggio di due ragazzi dal Senegal all’Italia."
+      ],
+      [
+        "Quale film d’animazione racconta il viaggio di Miles Morales nel Multiverso?",
+        "Spider-Man: Across the Spider-Verse",
+        "Big Hero 6",
+        "Wish",
+        "È il seguito di «Un nuovo universo»."
+      ],
+      [
+        "Quale film del 2023 ha come protagonista una famosa bambola?",
+        "Barbie",
+        "Wonka",
+        "Elemental",
+        "È diretto da Greta Gerwig."
+      ],
+      [
+        "Chi interpreta Barbie nel film del 2023?",
+        "Margot Robbie",
+        "Emma Stone",
+        "Zendaya",
+        "Ken è Ryan Gosling."
+      ],
+      [
+        "In «Wonka» (2023), chi interpreta il giovane Willy Wonka?",
+        "Timothée Chalamet",
+        "Tom Holland",
+        "Daniel Radcliffe",
+        "Chalamet recita anche in «Dune»."
+      ],
+      [
+        "Quale film Pixar del 2024 è il seguito di «Inside Out»?",
+        "Inside Out 2",
+        "Elemental",
+        "Luca",
+        "È stato uno dei film più visti dell’anno."
+      ],
+      [
+        "Quale Pokémon accompagna sempre Ash nei cartoni animati?",
+        "Pikachu",
+        "Charizard",
+        "Squirtle",
+        "Non vuole stare nella Poké Ball."
+      ],
+      [
+        "Da quale videogioco è tratta la serie animata «Arcane»?",
+        "League of Legends",
+        "Fortnite",
+        "Minecraft",
+        "Le protagoniste sono le sorelle Vi e Jinx."
+      ],
+      [
+        "In «Avatar – La leggenda di Aang», quanti sono gli elementi da dominare?",
+        "4",
+        "3",
+        "5",
+        "Acqua, Terra, Fuoco e Aria."
+      ],
+      [
+        "Quale saga horror ha un clown chiamato Pennywise?",
+        "It",
+        "Saw",
+        "Scream",
+        "È tratta da un romanzo di Stephen King."
+      ],
+      [
+        "In «Ritorno al futuro», chi è lo scienziato che costruisce la macchina del tempo?",
+        "Doc Brown",
+        "Marty McFly",
+        "Biff",
+        "Marty è il ragazzo protagonista."
+      ],
+      [
+        "In «Matrix», chi interpreta Neo?",
+        "Keanu Reeves",
+        "Tom Cruise",
+        "Will Smith",
+        "Ha interpretato anche John Wick."
       ]
     ],
     "vg": [
@@ -11189,6 +15697,342 @@
         "Basket",
         "Baseball",
         "È il trofeo del campionato nordamericano NHL."
+      ],
+      [
+        "Quale tennista serbo ha vinto 24 titoli del Grande Slam?",
+        "Novak Djokovic",
+        "Rafael Nadal",
+        "Roger Federer",
+        "È il record maschile."
+      ],
+      [
+        "Quale giovane tennista spagnolo ha vinto Wimbledon nel 2023 e nel 2024?",
+        "Carlos Alcaraz",
+        "Rafael Nadal",
+        "Pablo Carreño",
+        "Ha battuto Djokovic in entrambe le finali."
+      ],
+      [
+        "In quale torneo di tennis si gioca sull’erba?",
+        "Wimbledon",
+        "Roland Garros",
+        "US Open",
+        "Gli Australian Open e gli US Open si giocano sul cemento."
+      ],
+      [
+        "Su quale superficie si gioca il Roland Garros?",
+        "Terra rossa",
+        "Erba",
+        "Cemento",
+        "Si gioca a Parigi."
+      ],
+      [
+        "Quale nazionale ha vinto più Europei di calcio?",
+        "Spagna",
+        "Germania",
+        "Italia",
+        "La Spagna ne ha vinti quattro."
+      ],
+      [
+        "Chi era «il Divin Codino»?",
+        "Roberto Baggio",
+        "Paolo Rossi",
+        "Alessandro Del Piero",
+        "Vinse il Pallone d’Oro nel 1993."
+      ],
+      [
+        "Chi fu il capocannoniere dell’Italia ai Mondiali del 1982?",
+        "Paolo Rossi",
+        "Roberto Baggio",
+        "Marco Tardelli",
+        "Lo chiamavano «Pablito»."
+      ],
+      [
+        "Quale portiere italiano è soprannominato «Gigi»?",
+        "Gianluigi Buffon",
+        "Dino Zoff",
+        "Walter Zenga",
+        "Ha giocato a lungo nella Juventus."
+      ],
+      [
+        "Quale squadra italiana ha vinto più Champions League?",
+        "Milan",
+        "Inter",
+        "Juventus",
+        "Il Milan ne ha vinte sette."
+      ],
+      [
+        "Quanti giocatori ci sono in campo in totale in una partita di calcio?",
+        "22",
+        "11",
+        "20",
+        "11 per squadra."
+      ],
+      [
+        "Quanto dura un tempo supplementare nel calcio?",
+        "15 minuti",
+        "10 minuti",
+        "30 minuti",
+        "I supplementari sono due."
+      ],
+      [
+        "Da quanti metri si tira un calcio di rigore?",
+        "11",
+        "9",
+        "16",
+        "La distanza è misurata dalla linea di porta."
+      ],
+      [
+        "Quanti giocatori ha in campo una squadra di pallanuoto?",
+        "7",
+        "6",
+        "11",
+        "Uno è il portiere."
+      ],
+      [
+        "In quale sport l’Italia è chiamata «Settebello»?",
+        "Pallanuoto",
+        "Pallavolo",
+        "Calcio a 5",
+        "La nazionale maschile di pallanuoto."
+      ],
+      [
+        "Quale pilota italiano ha vinto il Mondiale MotoGP nel 2022 e nel 2023?",
+        "Francesco Bagnaia",
+        "Valentino Rossi",
+        "Andrea Dovizioso",
+        "Corre con la Ducati."
+      ],
+      [
+        "Quale pilota monegasco corre con la Ferrari dal 2019?",
+        "Charles Leclerc",
+        "Carlos Sainz",
+        "Max Verstappen",
+        "È nato a Monte Carlo."
+      ],
+      [
+        "Quale scuderia di F1 ha i colori papaya (arancione)?",
+        "McLaren",
+        "Ferrari",
+        "Mercedes",
+        "È una scuderia britannica."
+      ],
+      [
+        "Quante gare si corrono circa in una stagione di Formula 1 moderna?",
+        "Circa 24",
+        "Circa 10",
+        "Circa 50",
+        "Si corre in tutti i continenti."
+      ],
+      [
+        "Quale nuotatore italiano è uno specialista dei 1500 metri e delle acque libere?",
+        "Gregorio Paltrinieri",
+        "Thomas Ceccon",
+        "Filippo Magnini",
+        "Ha vinto l’oro olimpico nei 1500 a Rio 2016."
+      ],
+      [
+        "Quale atleta giamaicano detiene il record dei 100 metri?",
+        "Usain Bolt",
+        "Asafa Powell",
+        "Yohan Blake",
+        "Corse in 9,58 secondi nel 2009."
+      ],
+      [
+        "Quale saltatore con l’asta svedese ha battuto molte volte il record del mondo?",
+        "Armand Duplantis",
+        "Sergey Bubka",
+        "Renaud Lavillenie",
+        "Lo chiamano «Mondo»."
+      ],
+      [
+        "Quale ginnasta americana è considerata tra le più grandi di sempre?",
+        "Simone Biles",
+        "Nadia Comăneci",
+        "Gabby Douglas",
+        "Ha diversi movimenti che portano il suo nome."
+      ],
+      [
+        "Quante volte si può servire nel tennis prima di fare doppio fallo?",
+        "2",
+        "1",
+        "3",
+        "Se sbagli anche il secondo servizio, il punto va all’avversario."
+      ],
+      [
+        "In quale sport si gioca il padel?",
+        "In una gabbia di vetro con racchette senza corde",
+        "Su un campo d’erba",
+        "In piscina",
+        "È diventato molto popolare in Italia."
+      ],
+      [
+        "Quale videogioco di calcio era chiamato PES?",
+        "Pro Evolution Soccer",
+        "Player Esports Soccer",
+        "Pro Every Season",
+        "Era prodotto da Konami."
+      ],
+      [
+        "In «Fortnite», come si chiama l’area che si restringe durante la partita?",
+        "La tempesta",
+        "Il vulcano",
+        "La nebbia",
+        "Chi resta fuori perde salute."
+      ],
+      [
+        "In «Minecraft», quale materiale è il più resistente?",
+        "La netherite",
+        "Il diamante",
+        "Il ferro",
+        "Si ottiene dai detriti antichi del Nether."
+      ],
+      [
+        "In «Minecraft», come si chiama la dimensione infernale?",
+        "Il Nether",
+        "L’End",
+        "L’Overworld",
+        "Si raggiunge con un portale di ossidiana."
+      ],
+      [
+        "In «Clash of Clans», cosa si costruisce?",
+        "Un villaggio da difendere",
+        "Un’astronave",
+        "Una città sottomarina",
+        "Si attaccano i villaggi degli altri giocatori."
+      ],
+      [
+        "In «Pokémon», qual è il tipo forte contro il tipo Acqua?",
+        "Erba (ed Elettro)",
+        "Fuoco",
+        "Roccia",
+        "L’Acqua invece batte il Fuoco."
+      ],
+      [
+        "Come si chiamano le tartarughe nemiche di Mario?",
+        "Koopa",
+        "Goomba",
+        "Boo",
+        "Il loro re è Bowser."
+      ],
+      [
+        "Come si chiamano i funghetti nemici di Mario?",
+        "Goomba",
+        "Koopa",
+        "Boo",
+        "I Koopa invece sono tartarughe."
+      ],
+      [
+        "Quale saga di videogiochi ha come protagonista il soldato Master Chief?",
+        "Halo",
+        "Call of Duty",
+        "Gears of War",
+        "È una serie Xbox."
+      ],
+      [
+        "Quale saga di videogiochi di corse realistiche è prodotta da Polyphony Digital?",
+        "Gran Turismo",
+        "Need for Speed",
+        "Mario Kart",
+        "È un’esclusiva PlayStation."
+      ],
+      [
+        "Quale console ha il controller chiamato DualSense?",
+        "PlayStation 5",
+        "Xbox Series X",
+        "Nintendo Switch",
+        "Ha un feedback aptico molto preciso."
+      ],
+      [
+        "Quale gioco di carte digitale è ambientato nel mondo di Warcraft?",
+        "Hearthstone",
+        "Yu-Gi-Oh!",
+        "Pokémon GCC",
+        "È prodotto da Blizzard."
+      ],
+      [
+        "Come si chiama la nuova console ibrida di Nintendo uscita nel 2025?",
+        "Nintendo Switch 2",
+        "Nintendo Wii U 2",
+        "Nintendo DS 2",
+        "È il seguito della Switch del 2017."
+      ],
+      [
+        "Quale gioco di ruolo giapponese ha come protagonista Cloud Strife?",
+        "Final Fantasy VII",
+        "Kingdom Hearts",
+        "Dragon Quest",
+        "Fu pubblicato nel 1997."
+      ],
+      [
+        "Quale videogioco chiede di costruire e gestire una città?",
+        "SimCity",
+        "The Sims",
+        "Animal Crossing",
+        "Il primo SimCity è del 1989."
+      ],
+      [
+        "In quale gioco ci sono i «Rabbids» impazziti?",
+        "Rayman Raving Rabbids",
+        "Crash Bandicoot",
+        "Spyro",
+        "Sono conigli urlanti creati da Ubisoft."
+      ],
+      [
+        "Qual è il nome del drago viola protagonista di una serie di videogiochi PlayStation?",
+        "Spyro",
+        "Smaug",
+        "Charizard",
+        "Il suo amico è la libellula Sparx."
+      ],
+      [
+        "Quale sport combina sci di fondo e tiro con la carabina?",
+        "Biathlon",
+        "Combinata nordica",
+        "Pentathlon",
+        "L’Italia ha avuto campioni come Dorothea Wierer."
+      ],
+      [
+        "Quale sciatrice italiana ha vinto l’oro olimpico nella discesa libera a PyeongChang 2018?",
+        "Sofia Goggia",
+        "Federica Brignone",
+        "Deborah Compagnoni",
+        "Goggia è bergamasca."
+      ],
+      [
+        "Come si chiama la maglia del vincitore della classifica scalatori al Giro?",
+        "Maglia azzurra",
+        "Maglia rosa",
+        "Maglia bianca",
+        "La maglia bianca è per i giovani."
+      ],
+      [
+        "Quante volte si salta nel salto triplo?",
+        "3",
+        "2",
+        "4",
+        "Hop, step and jump."
+      ],
+      [
+        "Quale scacco si chiama quando il re non può muoversi ma non è sotto scacco?",
+        "Stallo",
+        "Scacco matto",
+        "Arrocco",
+        "Lo stallo finisce in parità."
+      ],
+      [
+        "Come si chiama la mossa in cui re e torre si spostano insieme?",
+        "Arrocco",
+        "Stallo",
+        "En passant",
+        "Si può fare una sola volta per partita."
+      ],
+      [
+        "Quale nazionale ha vinto gli Europei di calcio del 2024?",
+        "Spagna",
+        "Inghilterra",
+        "Italia",
+        "La finale fu giocata a Berlino."
       ]
     ]
   },
@@ -11865,6 +16709,335 @@
         "Il papavero",
         "La digitale",
         "Il chinino dà anche il sapore amaro all’acqua tonica."
+      ],
+      [
+        "Quanti litri d’aria respira circa un adulto a riposo ogni minuto?",
+        "Circa 6–8 litri",
+        "Circa 1 litro",
+        "Circa 50 litri",
+        "Fa circa 12–16 respiri al minuto."
+      ],
+      [
+        "Quale ghiandola produce l’adrenalina?",
+        "Le surrenali",
+        "La tiroide",
+        "L’ipofisi",
+        "Si trovano sopra i reni."
+      ],
+      [
+        "Come si chiama il più lungo nervo del corpo umano?",
+        "Il nervo sciatico",
+        "Il nervo ottico",
+        "Il nervo vago",
+        "Va dalla schiena fino al piede."
+      ],
+      [
+        "Qual è l’unico osso del corpo umano che non si articola con altre ossa?",
+        "L’osso ioide",
+        "La rotula",
+        "Il coccige",
+        "Si trova nel collo e sostiene la lingua."
+      ],
+      [
+        "Quante paia di costole ha normalmente un essere umano?",
+        "12",
+        "10",
+        "14",
+        "Le ultime due paia sono dette «fluttuanti»."
+      ],
+      [
+        "Quale cellula del sangue aiuta la coagulazione?",
+        "Le piastrine",
+        "I globuli rossi",
+        "I linfociti",
+        "Si attivano quando ci si taglia."
+      ],
+      [
+        "Quale parte del cervello regola fame, sete e temperatura?",
+        "L’ipotalamo",
+        "Il cervelletto",
+        "Il bulbo",
+        "È piccolo ma fondamentale."
+      ],
+      [
+        "Quale medico greco è considerato il padre della medicina?",
+        "Ippocrate",
+        "Galeno",
+        "Aristotele",
+        "Da lui prende il nome il giuramento dei medici."
+      ],
+      [
+        "Chi scoprì i gruppi sanguigni A, B e 0 nel 1901?",
+        "Karl Landsteiner",
+        "Robert Koch",
+        "Alexander Fleming",
+        "Ricevette il Nobel nel 1930."
+      ],
+      [
+        "Chi scoprì il bacillo della tubercolosi?",
+        "Robert Koch",
+        "Louis Pasteur",
+        "Joseph Lister",
+        "La scoperta è del 1882."
+      ],
+      [
+        "Quale medico ungherese capì l’importanza di lavarsi le mani prima di visitare le partorienti?",
+        "Ignaz Semmelweis",
+        "Joseph Lister",
+        "Florence Nightingale",
+        "All’inizio non fu creduto."
+      ],
+      [
+        "Chi è considerata la fondatrice dell’infermieristica moderna?",
+        "Florence Nightingale",
+        "Marie Curie",
+        "Clara Barton",
+        "Era chiamata «la signora con la lanterna»."
+      ],
+      [
+        "Quale scienziata contribuì con le sue immagini a raggi X alla scoperta della struttura del DNA?",
+        "Rosalind Franklin",
+        "Marie Curie",
+        "Barbara McClintock",
+        "La sua «Foto 51» fu decisiva."
+      ],
+      [
+        "Qual è il nome della tecnica di modifica genetica premiata col Nobel nel 2020?",
+        "CRISPR-Cas9",
+        "PCR",
+        "Clonazione",
+        "Funziona come delle «forbici molecolari»."
+      ],
+      [
+        "Quale pecora fu il primo mammifero clonato da una cellula adulta?",
+        "Dolly",
+        "Molly",
+        "Polly",
+        "Nacque in Scozia nel 1996."
+      ],
+      [
+        "Come si chiama la scienza che studia i fossili?",
+        "Paleontologia",
+        "Archeologia",
+        "Antropologia",
+        "L’archeologia studia invece le tracce dell’uomo."
+      ],
+      [
+        "In quale era geologica vissero i dinosauri?",
+        "Mesozoica",
+        "Paleozoica",
+        "Cenozoica",
+        "Comprende Triassico, Giurassico e Cretaceo."
+      ],
+      [
+        "Quale fu il più grande dinosauro carnivoro conosciuto?",
+        "Lo spinosauro",
+        "Il velociraptor",
+        "Lo stegosauro",
+        "Aveva una grande «vela» sulla schiena."
+      ],
+      [
+        "Il velociraptor era grande all’incirca come…",
+        "Un tacchino",
+        "Un elefante",
+        "Un cavallo",
+        "Nel cinema è stato reso molto più grande."
+      ],
+      [
+        "Quale uccello estinto della Nuova Zelanda era alto oltre 3 metri?",
+        "Il moa",
+        "Il dodo",
+        "Il kiwi",
+        "Fu estinto dagli esseri umani circa 600 anni fa."
+      ],
+      [
+        "Quale squalo preistorico gigante viveva fino a circa 3,6 milioni di anni fa?",
+        "Il megalodonte",
+        "Lo squalo balena",
+        "Lo squalo bianco",
+        "I suoi denti erano grandi come una mano."
+      ],
+      [
+        "Quale animale ha il veleno più potente al mondo, tra i pesci?",
+        "Il pesce pietra",
+        "Il pesce palla",
+        "Lo squalo",
+        "Si mimetizza perfettamente tra gli scogli."
+      ],
+      [
+        "Quale medusa australiana è tra gli animali più velenosi al mondo?",
+        "La vespa di mare",
+        "La medusa luna",
+        "La caravella portoghese",
+        "Si chiama anche cubomedusa."
+      ],
+      [
+        "Qual è il mammifero terrestre più veloce in lunghe distanze, dopo il ghepardo negli scatti?",
+        "L’antilocapra",
+        "Il leone",
+        "Il cavallo",
+        "Vive nelle praterie del Nord America."
+      ],
+      [
+        "Quale animale ha la gestazione più breve tra i mammiferi?",
+        "L’opossum",
+        "Il topo",
+        "Il coniglio",
+        "Dura circa 12–13 giorni."
+      ],
+      [
+        "Quale uccello vola più in alto, fino a oltre 11.000 metri?",
+        "Il grifone di Rüppell",
+        "L’aquila reale",
+        "Il condor",
+        "Una volta fu colpito da un aereo."
+      ],
+      [
+        "Quale animale ha il cuore più grande?",
+        "La balenottera azzurra",
+        "L’elefante",
+        "La giraffa",
+        "Pesa centinaia di chili."
+      ],
+      [
+        "Qual è l’animale più rumoroso del mondo?",
+        "Il capodoglio",
+        "Il leone",
+        "L’urlatore",
+        "I suoi «clic» superano i 200 decibel sott’acqua."
+      ],
+      [
+        "Come si chiama l’animale marino che produce la porpora usata dagli antichi?",
+        "Il murice",
+        "La seppia",
+        "L’ostrica",
+        "Serviva migliaia di molluschi per un po’ di colore."
+      ],
+      [
+        "Da quale insetto si ricava il colorante rosso carminio?",
+        "La cocciniglia",
+        "La coccinella",
+        "La formica rossa",
+        "Si usa ancora in cosmetici e alimenti."
+      ],
+      [
+        "Qual è la pianta più diffusa coltivata al mondo per peso raccolto?",
+        "La canna da zucchero",
+        "Il riso",
+        "Il grano",
+        "Seguono mais e grano."
+      ],
+      [
+        "Quale Paese è il primo produttore mondiale di vaniglia?",
+        "Il Madagascar",
+        "Il Messico",
+        "L’India",
+        "La vaniglia è originaria del Messico."
+      ],
+      [
+        "Quale albero produce la noce moscata?",
+        "La miristica",
+        "Il noce",
+        "Il castagno",
+        "Viene dalle isole Molucche, le «isole delle spezie»."
+      ],
+      [
+        "Da quale pianta si ricava il tè?",
+        "La Camellia sinensis",
+        "La menta",
+        "Il rooibos",
+        "Tè verde e nero vengono dalla stessa pianta."
+      ],
+      [
+        "Quale fungo ha permesso di produrre la penicillina?",
+        "Il Penicillium",
+        "Il porcino",
+        "Il lievito",
+        "Fleming lo notò per caso in una piastra contaminata."
+      ],
+      [
+        "Quale pianta tossica fu usata per uccidere Socrate?",
+        "La cicuta",
+        "La digitale",
+        "La belladonna",
+        "Socrate fu condannato nel 399 a.C."
+      ],
+      [
+        "Quale pianta medicinale è all’origine dell’aspirina?",
+        "Il salice",
+        "Il papavero",
+        "La camomilla",
+        "La corteccia di salice contiene salicina."
+      ],
+      [
+        "Quale fiore è il simbolo dei Paesi Bassi, originario dell’Asia centrale?",
+        "Il tulipano",
+        "La rosa",
+        "Il giglio",
+        "Nel Seicento scatenò una vera «febbre» speculativa."
+      ],
+      [
+        "Cosa misura la «scala di Scoville»?",
+        "La piccantezza dei peperoncini",
+        "La durezza dei minerali",
+        "La forza del vento",
+        "Si basa sulla quantità di capsaicina."
+      ],
+      [
+        "Qual è uno dei peperoncini più piccanti al mondo?",
+        "Il Carolina Reaper",
+        "Il jalapeño",
+        "Il peperone dolce",
+        "Supera 1,5 milioni di unità Scoville."
+      ],
+      [
+        "Quale vitamina manca nel rachitismo?",
+        "Vitamina D",
+        "Vitamina C",
+        "Vitamina A",
+        "Senza vitamina D le ossa si indeboliscono."
+      ],
+      [
+        "Quale pianta è stata la prima a essere sequenziata geneticamente, nel 2000?",
+        "L’Arabidopsis",
+        "Il riso",
+        "Il mais",
+        "È una piccola pianta molto usata nei laboratori."
+      ],
+      [
+        "Quale animale è stato il primo a orbitare intorno alla Terra?",
+        "La cagnetta Laika",
+        "La scimmia Ham",
+        "Il gatto Félicette",
+        "Fu lanciata dall’URSS nel 1957."
+      ],
+      [
+        "Quale primate del Madagascar ha una lunga coda ad anelli bianchi e neri?",
+        "Il lemure catta",
+        "Il gibbone",
+        "Il macaco",
+        "I lemuri vivono solo in Madagascar."
+      ],
+      [
+        "Quale uccello marino dal becco multicolore nidifica in Islanda e Norvegia?",
+        "La pulcinella di mare",
+        "Il gabbiano",
+        "Il cormorano",
+        "In inglese si chiama «puffin»."
+      ],
+      [
+        "Quale insetto è il più forte in proporzione al suo peso?",
+        "Lo scarabeo stercorario",
+        "La formica",
+        "La cavalletta",
+        "Può tirare oltre 1.000 volte il suo peso."
+      ],
+      [
+        "Quale animale ha l’occhio più complesso per la percezione dei colori?",
+        "La canocchia (squilla mantide)",
+        "L’aquila",
+        "Il gatto",
+        "Ha 12–16 tipi di fotorecettori."
       ]
     ],
     "sc": [
@@ -12553,6 +17726,356 @@
         "8",
         "12",
         "Usa le cifre da 0 a 9 e le lettere da A a F."
+      ],
+      [
+        "Qual è la somma degli angoli interni di un pentagono?",
+        "540°",
+        "360°",
+        "720°",
+        "La formula è (n − 2) × 180°."
+      ],
+      [
+        "Quanto vale la radice quadrata di 2, approssimata?",
+        "1,414",
+        "1,732",
+        "1,5",
+        "Fu il primo numero irrazionale conosciuto."
+      ],
+      [
+        "Quanto vale il numero aureo, approssimato?",
+        "1,618",
+        "3,14",
+        "2,718",
+        "Si indica con la lettera greca φ."
+      ],
+      [
+        "Quanto fa 2 elevato a 0?",
+        "1",
+        "0",
+        "2",
+        "Ogni numero (diverso da zero) elevato a 0 fa 1."
+      ],
+      [
+        "Quanti anagrammi ha la parola «ROMA»?",
+        "24",
+        "12",
+        "16",
+        "4! = 24."
+      ],
+      [
+        "Quante combinazioni diverse ha un lucchetto con 3 rotelle da 0 a 9?",
+        "1.000",
+        "30",
+        "999",
+        "Da 000 a 999."
+      ],
+      [
+        "Una stanza ha 4 angoli; in ogni angolo c’è un gatto, e ogni gatto vede 3 gatti. Quanti gatti ci sono?",
+        "4",
+        "12",
+        "16",
+        "Ogni gatto vede gli altri tre."
+      ],
+      [
+        "Se un uovo impiega 3 minuti a cuocere, quanto ne impiegano 3 uova insieme?",
+        "3 minuti",
+        "9 minuti",
+        "6 minuti",
+        "Cuociono contemporaneamente."
+      ],
+      [
+        "Un contadino ha 17 pecore e ne muoiono tutte tranne 9. Quante ne restano?",
+        "9",
+        "8",
+        "17",
+        "«Tutte tranne 9» vuol dire che ne restano 9."
+      ],
+      [
+        "Quante volte puoi sottrarre 10 da 100?",
+        "Una volta",
+        "Dieci volte",
+        "Infinite volte",
+        "Dopo la prima volta stai sottraendo da 90."
+      ],
+      [
+        "Un orologio impiega 5 secondi a battere le 6. Quanto ci mette a battere le 12?",
+        "11 secondi",
+        "10 secondi",
+        "12 secondi",
+        "Tra 6 rintocchi ci sono 5 intervalli da 1 secondo."
+      ],
+      [
+        "Qual è il prossimo numero: 1, 11, 21, 1211, 111221…?",
+        "312211",
+        "1112221",
+        "122111",
+        "Ogni termine «descrive» il precedente."
+      ],
+      [
+        "Quale numero è il più piccolo numero perfetto?",
+        "6",
+        "28",
+        "1",
+        "6 = 1 + 2 + 3, la somma dei suoi divisori."
+      ],
+      [
+        "Quale celebre teorema fu dimostrato da Andrew Wiles nel 1994?",
+        "L’ultimo teorema di Fermat",
+        "Il teorema di Pitagora",
+        "La congettura di Goldbach",
+        "Era rimasto aperto per oltre 350 anni."
+      ],
+      [
+        "Quale matematico è noto come «il principe dei matematici»?",
+        "Carl Friedrich Gauss",
+        "Eulero",
+        "Newton",
+        "Era tedesco."
+      ],
+      [
+        "Quale matematica italiana del Settecento scrisse un famoso trattato di analisi?",
+        "Maria Gaetana Agnesi",
+        "Ada Lovelace",
+        "Emmy Noether",
+        "Una curva porta il suo nome: «versiera di Agnesi»."
+      ],
+      [
+        "Quale matematico pisano diffuse in Europa i numeri arabi?",
+        "Leonardo Fibonacci",
+        "Galileo Galilei",
+        "Luca Pacioli",
+        "Il suo «Liber abaci» è del 1202."
+      ],
+      [
+        "Chi è considerato il padre della partita doppia in contabilità?",
+        "Luca Pacioli",
+        "Fibonacci",
+        "Cardano",
+        "Era amico di Leonardo da Vinci."
+      ],
+      [
+        "Cos’è un numero irrazionale?",
+        "Un numero che non si può scrivere come frazione",
+        "Un numero negativo",
+        "Un numero molto grande",
+        "π e √2 sono irrazionali."
+      ],
+      [
+        "Quanti metri ci sono in un miglio terrestre?",
+        "Circa 1.609",
+        "1.000",
+        "1.852",
+        "Il miglio nautico invece è di 1.852 metri."
+      ],
+      [
+        "Quanto vale un nodo, unità di velocità nautica?",
+        "1 miglio nautico all’ora",
+        "1 km all’ora",
+        "1 metro al secondo",
+        "Circa 1,85 km/h."
+      ],
+      [
+        "Qual è la temperatura del corpo umano in gradi Fahrenheit?",
+        "Circa 98,6 °F",
+        "Circa 37 °F",
+        "Circa 120 °F",
+        "Corrisponde a 37 °C."
+      ],
+      [
+        "A quale temperatura la scala Celsius e la Fahrenheit coincidono?",
+        "−40",
+        "0",
+        "100",
+        "−40 °C = −40 °F."
+      ],
+      [
+        "Quanto vale l’accelerazione di gravità sulla Terra?",
+        "Circa 9,81 m/s²",
+        "Circa 1 m/s²",
+        "Circa 100 m/s²",
+        "Si indica con la lettera g."
+      ],
+      [
+        "Chi formulò il principio di indeterminazione?",
+        "Werner Heisenberg",
+        "Niels Bohr",
+        "Erwin Schrödinger",
+        "Non si possono conoscere insieme con precisione posizione e velocità."
+      ],
+      [
+        "Quale paradosso racconta di Achille che non raggiunge mai la tartaruga?",
+        "Il paradosso di Zenone",
+        "Il paradosso del mentitore",
+        "Il paradosso di Russell",
+        "Zenone di Elea era un filosofo greco."
+      ],
+      [
+        "Chi propose per primo la teoria del Big Bang?",
+        "Georges Lemaître",
+        "Edwin Hubble",
+        "Albert Einstein",
+        "Era un sacerdote e fisico belga."
+      ],
+      [
+        "Quale scienziato scoprì che l’universo è in espansione?",
+        "Edwin Hubble",
+        "Galileo",
+        "Copernico",
+        "Il telescopio spaziale porta il suo nome."
+      ],
+      [
+        "Quanti anni ha circa l’universo?",
+        "13,8 miliardi",
+        "4,5 miliardi",
+        "100 milioni",
+        "La Terra ha circa 4,5 miliardi di anni."
+      ],
+      [
+        "Qual è la stella più luminosa del cielo notturno?",
+        "Sirio",
+        "La Stella Polare",
+        "Betelgeuse",
+        "Si trova nella costellazione del Cane Maggiore."
+      ],
+      [
+        "In quale costellazione si trova la Stella Polare?",
+        "Orsa Minore",
+        "Orsa Maggiore",
+        "Cassiopea",
+        "Indica quasi esattamente il Nord."
+      ],
+      [
+        "Cos’è una nana bianca?",
+        "Il nucleo caldo di una stella morta",
+        "Un pianeta gelato",
+        "Una galassia piccola",
+        "Anche il Sole diventerà una nana bianca."
+      ],
+      [
+        "Quale missione portò per prima l’uomo sulla Luna?",
+        "Apollo 11",
+        "Apollo 13",
+        "Gemini 4",
+        "Allunò il 20 luglio 1969."
+      ],
+      [
+        "Quale missione Apollo ebbe un’esplosione e tornò fortunosamente a Terra?",
+        "Apollo 13",
+        "Apollo 11",
+        "Apollo 1",
+        "Da qui la frase «Houston, abbiamo un problema»."
+      ],
+      [
+        "Come si chiama il rover NASA atterrato su Marte nel 2021?",
+        "Perseverance",
+        "Curiosity",
+        "Sojourner",
+        "Con lui volò il piccolo elicottero Ingenuity."
+      ],
+      [
+        "Quale fu il primo satellite artificiale?",
+        "Lo Sputnik 1",
+        "L’Explorer 1",
+        "Il Vanguard",
+        "Fu lanciato dall’URSS nel 1957."
+      ],
+      [
+        "Qual è l’elemento più abbondante nella crosta terrestre?",
+        "Ossigeno",
+        "Silicio",
+        "Ferro",
+        "Il silicio è secondo."
+      ],
+      [
+        "Qual è il metallo più conduttivo di elettricità?",
+        "L’argento",
+        "Il rame",
+        "L’oro",
+        "Il rame si usa di più perché costa meno."
+      ],
+      [
+        "Quale elemento ha il punto di fusione più alto tra i metalli?",
+        "Il tungsteno",
+        "Il ferro",
+        "Il titanio",
+        "Fonde a oltre 3.400 °C."
+      ],
+      [
+        "Quale gas compone gran parte dell’atmosfera di Marte?",
+        "Anidride carbonica",
+        "Azoto",
+        "Ossigeno",
+        "È circa il 95%."
+      ],
+      [
+        "Come si chiama il legame chimico in cui gli atomi condividono elettroni?",
+        "Covalente",
+        "Ionico",
+        "Metallico",
+        "Nell’acqua i legami tra H e O sono covalenti."
+      ],
+      [
+        "Cosa misura la costante di Planck?",
+        "Il legame tra energia e frequenza dei quanti di luce",
+        "La velocità della luce",
+        "La gravità",
+        "Ha un valore piccolissimo."
+      ],
+      [
+        "Chi inventò il transistor nel 1947?",
+        "Bardeen, Brattain e Shockley",
+        "Edison e Tesla",
+        "Jobs e Wozniak",
+        "Fu realizzato ai Bell Labs."
+      ],
+      [
+        "Quale italiano ideò il primo personal computer da tavolo, la Programma 101?",
+        "Pier Giorgio Perotto (Olivetti)",
+        "Federico Faggin",
+        "Adriano Olivetti",
+        "Fu presentata nel 1965."
+      ],
+      [
+        "Quale fisico vicentino progettò il primo microprocessore commerciale?",
+        "Federico Faggin",
+        "Pier Giorgio Perotto",
+        "Enrico Fermi",
+        "Era l’Intel 4004 del 1971."
+      ],
+      [
+        "Cosa afferma la legge di Moore?",
+        "Il numero di transistor nei chip raddoppia circa ogni due anni",
+        "La velocità della luce è costante",
+        "I computer si scaldano con l’uso",
+        "Fu formulata da Gordon Moore."
+      ],
+      [
+        "Cosa significa la sigla «HTTP»?",
+        "HyperText Transfer Protocol",
+        "High Tech Transfer Program",
+        "Home Text Transfer Point",
+        "È il protocollo del web."
+      ],
+      [
+        "Quale azienda ha creato il sistema operativo Android?",
+        "Google (Android Inc.)",
+        "Apple",
+        "Microsoft",
+        "Google lo acquistò nel 2005."
+      ],
+      [
+        "Come si chiama un attacco informatico che cerca di rubare dati con e-mail ingannevoli?",
+        "Phishing",
+        "Firewall",
+        "Backup",
+        "Il nome viene da «fishing», pescare."
+      ],
+      [
+        "Quanti bit ha un indirizzo IPv4?",
+        "32",
+        "64",
+        "128",
+        "IPv6 usa invece 128 bit."
       ]
     ],
     "ge": [
@@ -13241,6 +18764,349 @@
         "Catalogna",
         "Galizia",
         "È una lingua non indoeuropea."
+      ],
+      [
+        "Quale provincia canadese parla soprattutto francese?",
+        "Il Québec",
+        "L’Ontario",
+        "La Columbia Britannica",
+        "Ottawa, la capitale, si trova in Ontario."
+      ],
+      [
+        "Qual è lo Stato più piccolo dell’Unione Europea?",
+        "Malta",
+        "Lussemburgo",
+        "Cipro",
+        "Malta ha circa 316 km²."
+      ],
+      [
+        "Quale Paese ha la maggiore estensione di foresta pluviale?",
+        "Il Brasile",
+        "Il Congo",
+        "L’Indonesia",
+        "Gran parte dell’Amazzonia è brasiliana."
+      ],
+      [
+        "Quale Paese ha tre capitali?",
+        "Il Sudafrica",
+        "La Bolivia",
+        "La Svizzera",
+        "Pretoria, Città del Capo e Bloemfontein."
+      ],
+      [
+        "Qual è la capitale del Myanmar?",
+        "Naypyidaw",
+        "Yangon",
+        "Mandalay",
+        "Yangon è stata la capitale fino al 2005."
+      ],
+      [
+        "Qual è la capitale più alta del mondo, sede del governo boliviano?",
+        "La Paz",
+        "Quito",
+        "Bogotá",
+        "Si trova a circa 3.600 metri."
+      ],
+      [
+        "Quale Paese è attraversato sia dall’Equatore sia da un Tropico?",
+        "Il Brasile",
+        "L’India",
+        "L’Egitto",
+        "Il Tropico del Capricorno passa vicino a San Paolo."
+      ],
+      [
+        "Qual è il fiume con il bacino idrografico più grande al mondo?",
+        "Il Rio delle Amazzoni",
+        "Il Nilo",
+        "Il Mississippi",
+        "Il suo bacino copre circa 7 milioni di km²."
+      ],
+      [
+        "Quale lago africano è il più profondo?",
+        "Il lago Tanganica",
+        "Il lago Vittoria",
+        "Il lago Ciad",
+        "È il secondo lago più profondo del mondo."
+      ],
+      [
+        "Quale fiume forma le cascate Vittoria?",
+        "Lo Zambesi",
+        "Il Nilo",
+        "Il Congo",
+        "Si trovano tra Zambia e Zimbabwe."
+      ],
+      [
+        "Qual è la più lunga catena montuosa sottomarina dell’Atlantico?",
+        "La dorsale medio-atlantica",
+        "Le Ande",
+        "L’Himalaya",
+        "Emerge in Islanda."
+      ],
+      [
+        "Quale isola del Mediterraneo è divisa da una «linea verde» dal 1974?",
+        "Cipro",
+        "Corsica",
+        "Malta",
+        "La capitale Nicosia è divisa in due."
+      ],
+      [
+        "Quale regione italiana ha il maggior numero di comuni?",
+        "Lombardia",
+        "Piemonte",
+        "Veneto",
+        "Ne ha più di 1.500."
+      ],
+      [
+        "Qual è la regione italiana meno popolosa?",
+        "Valle d’Aosta",
+        "Molise",
+        "Basilicata",
+        "Ha poco più di 120.000 abitanti."
+      ],
+      [
+        "In quale regione si trova il Parco nazionale dello Stelvio?",
+        "Lombardia e Trentino-Alto Adige",
+        "Valle d’Aosta",
+        "Veneto",
+        "È uno dei parchi più grandi delle Alpi."
+      ],
+      [
+        "Quale passo alpino collega la Valtellina con l’Alto Adige ed è celebre per i tornanti?",
+        "Il passo dello Stelvio",
+        "Il Brennero",
+        "Il San Gottardo",
+        "È uno dei valichi più alti d’Europa."
+      ],
+      [
+        "Quale valico collega l’Italia all’Austria?",
+        "Il Brennero",
+        "Il Monginevro",
+        "Il Gran San Bernardo",
+        "È uno dei passaggi più trafficati delle Alpi."
+      ],
+      [
+        "Qual è il comune italiano con più abitanti dopo Roma e Milano?",
+        "Napoli",
+        "Torino",
+        "Palermo",
+        "Napoli supera i 900.000 abitanti."
+      ],
+      [
+        "Quale città è detta «la città dei due mari»?",
+        "Taranto",
+        "Messina",
+        "Brindisi",
+        "Si affaccia sul Mar Piccolo e sul Mar Grande."
+      ],
+      [
+        "Quale città italiana è chiamata «la Grassa»?",
+        "Bologna",
+        "Parma",
+        "Modena",
+        "Per la sua cucina ricca."
+      ],
+      [
+        "Quale città toscana è famosa per le sue torri medievali?",
+        "San Gimignano",
+        "Lucca",
+        "Pistoia",
+        "È chiamata «la Manhattan del Medioevo»."
+      ],
+      [
+        "In quale regione si trovano le Dolomiti di Brenta?",
+        "Trentino",
+        "Veneto",
+        "Friuli",
+        "Le Dolomiti sono patrimonio UNESCO dal 2009."
+      ],
+      [
+        "Qual è il punto più alto dell’Appennino umbro-marchigiano?",
+        "Il Monte Vettore",
+        "Il Monte Cucco",
+        "Il Monte Subasio",
+        "Si trova nei Monti Sibillini."
+      ],
+      [
+        "Quale cascata artificiale umbra fu creata dai Romani?",
+        "La Cascata delle Marmore",
+        "Le cascate del Niagara",
+        "La cascata del Toce",
+        "Si trova vicino a Terni."
+      ],
+      [
+        "Quale fiume nasce dal Monte Fumaiolo?",
+        "Il Tevere",
+        "L’Arno",
+        "Il Po",
+        "Il monte è in Emilia-Romagna."
+      ],
+      [
+        "Qual è il Paese più lungo del mondo da nord a sud?",
+        "Il Cile",
+        "L’Argentina",
+        "Il Brasile",
+        "Supera i 4.000 km."
+      ],
+      [
+        "Quale deserto si trova tra Messico e Stati Uniti?",
+        "Il deserto di Sonora",
+        "Il Gobi",
+        "Il Kalahari",
+        "È famoso per i cactus saguaro."
+      ],
+      [
+        "Quale catena montuosa contiene le 14 vette sopra gli 8.000 metri?",
+        "L’Himalaya (con il Karakorum)",
+        "Le Ande",
+        "Le Montagne Rocciose",
+        "Il K2 è nel Karakorum."
+      ],
+      [
+        "Qual è la seconda montagna più alta del mondo?",
+        "Il K2",
+        "Il Kangchenjunga",
+        "Il Lhotse",
+        "Fu scalata per la prima volta da una spedizione italiana nel 1954."
+      ],
+      [
+        "Chi furono i primi a scalare l’Everest nel 1953?",
+        "Edmund Hillary e Tenzing Norgay",
+        "Reinhold Messner e Peter Habeler",
+        "Walter Bonatti e Achille Compagnoni",
+        "Hillary era neozelandese."
+      ],
+      [
+        "Chi fu il primo a scalare tutti i 14 «ottomila»?",
+        "Reinhold Messner",
+        "Edmund Hillary",
+        "Walter Bonatti",
+        "È altoatesino."
+      ],
+      [
+        "Quale Stato africano ha come lingua ufficiale il portoghese, oltre all’Angola?",
+        "Il Mozambico",
+        "Il Kenya",
+        "Il Senegal",
+        "Furono colonie portoghesi."
+      ],
+      [
+        "In quale Paese si parla lo swahili come lingua principale?",
+        "Tanzania",
+        "Nigeria",
+        "Marocco",
+        "È diffuso anche in Kenya."
+      ],
+      [
+        "Quale Paese ha più lingue ufficiali riconosciute a livello nazionale?",
+        "Lo Zimbabwe",
+        "La Svizzera",
+        "Il Belgio",
+        "Ne riconosce 16."
+      ],
+      [
+        "Quale lingua ha il maggior numero di madrelingua al mondo?",
+        "Il cinese mandarino",
+        "L’inglese",
+        "Lo spagnolo",
+        "Lo spagnolo è secondo."
+      ],
+      [
+        "Quale capitale europea è attraversata dalla Moscova?",
+        "Mosca",
+        "Kiev",
+        "Varsavia",
+        "Il fiume dà il nome alla città."
+      ],
+      [
+        "Quale città giapponese è famosa per i cervi liberi nel parco?",
+        "Nara",
+        "Osaka",
+        "Sapporo",
+        "Fu la prima capitale stabile del Giappone."
+      ],
+      [
+        "Quale città fu rinominata San Pietroburgo dopo essere stata Leningrado?",
+        "San Pietroburgo",
+        "Volgograd",
+        "Mosca",
+        "Il nome tornò nel 1991."
+      ],
+      [
+        "Come si chiamava anticamente Istanbul, prima di diventare Costantinopoli?",
+        "Bisanzio",
+        "Smirne",
+        "Troia",
+        "Fu fondata dai Greci."
+      ],
+      [
+        "Quale isola greca è la più grande?",
+        "Creta",
+        "Rodi",
+        "Corfù",
+        "Era il regno del mitico re Minosse."
+      ],
+      [
+        "Quale arcipelago portoghese si trova nell’Atlantico, famoso per un vino omonimo?",
+        "Madera",
+        "Le Canarie",
+        "Le Baleari",
+        "Le Canarie sono spagnole."
+      ],
+      [
+        "A quale Paese appartengono le isole Fær Øer?",
+        "Danimarca",
+        "Norvegia",
+        "Islanda",
+        "Sono un territorio autonomo."
+      ],
+      [
+        "Quale stretto collega il Mar Nero al Mar d’Azov?",
+        "Lo stretto di Kerč",
+        "Il Bosforo",
+        "I Dardanelli",
+        "Separa la Crimea dalla Russia continentale."
+      ],
+      [
+        "Quale stretto si trova all’estremo sud del Sud America?",
+        "Lo stretto di Magellano",
+        "Lo stretto di Bering",
+        "Lo stretto di Drake",
+        "Prende il nome dal navigatore portoghese."
+      ],
+      [
+        "Per quale stretto passa gran parte del petrolio del Golfo Persico?",
+        "Lo stretto di Hormuz",
+        "Lo stretto di Gibilterra",
+        "Il Bosforo",
+        "Collega il Golfo Persico al Golfo di Oman."
+      ],
+      [
+        "Qual è il Paese più densamente popolato del mondo (tra gli Stati sovrani)?",
+        "Monaco",
+        "Singapore",
+        "Bangladesh",
+        "Monaco ha oltre 18.000 abitanti per km²."
+      ],
+      [
+        "Quale Paese ha più vulcani tra quelli europei?",
+        "L’Islanda",
+        "L’Italia",
+        "La Grecia",
+        "Si trova sulla dorsale medio-atlantica."
+      ],
+      [
+        "Quale Paese è soprannominato «il Paese delle mille colline»?",
+        "Ruanda",
+        "Svizzera",
+        "Nepal",
+        "È nel cuore dell’Africa."
+      ],
+      [
+        "Come si chiama la regione artica del nord della Scandinavia abitata dai Sami?",
+        "La Lapponia",
+        "La Groenlandia",
+        "La Siberia",
+        "Lì si vedono spesso le aurore boreali."
       ]
     ],
     "st": [
@@ -13929,6 +19795,356 @@
         "Giotto",
         "Cimabue",
         "Masaccio morì a soli 26 anni."
+      ],
+      [
+        "In che anno avvenne la scoperta dell’America da parte dei Vichinghi, secondo le saghe?",
+        "Intorno all’anno 1000",
+        "Nel 1492",
+        "Nel 1200",
+        "Leif Erikson arrivò in Terranova."
+      ],
+      [
+        "Chi era Ramses II?",
+        "Un potente faraone egizio",
+        "Un re babilonese",
+        "Un imperatore persiano",
+        "Fece costruire i templi di Abu Simbel."
+      ],
+      [
+        "Quale re babilonese è famoso per un antico codice di leggi?",
+        "Hammurabi",
+        "Nabucodonosor",
+        "Ciro il Grande",
+        "Il codice è inciso su una stele conservata al Louvre."
+      ],
+      [
+        "Quale battaglia del 480 a.C. vide 300 spartani resistere ai Persiani?",
+        "Le Termopili",
+        "Maratona",
+        "Salamina",
+        "Erano guidati dal re Leonida."
+      ],
+      [
+        "Chi fu il maestro di Alessandro Magno?",
+        "Aristotele",
+        "Platone",
+        "Socrate",
+        "Aristotele fu allievo di Platone."
+      ],
+      [
+        "Quale filosofo greco scrisse «La Repubblica»?",
+        "Platone",
+        "Aristotele",
+        "Epicuro",
+        "Vi si trova il mito della caverna."
+      ],
+      [
+        "Quale grande biblioteca dell’antichità fu distrutta in Egitto?",
+        "La Biblioteca di Alessandria",
+        "La Biblioteca di Pergamo",
+        "La Biblioteca di Ninive",
+        "Conteneva centinaia di migliaia di rotoli."
+      ],
+      [
+        "Chi attraversò il Rubicone pronunciando «il dado è tratto»?",
+        "Giulio Cesare",
+        "Pompeo",
+        "Augusto",
+        "Fu l’inizio della guerra civile, nel 49 a.C."
+      ],
+      [
+        "Quale imperatore fece costruire il Pantheon come lo vediamo oggi?",
+        "Adriano",
+        "Augusto",
+        "Traiano",
+        "La sua cupola è ancora la più grande in calcestruzzo non armato."
+      ],
+      [
+        "Chi fu l’ultimo imperatore romano d’Occidente?",
+        "Romolo Augustolo",
+        "Costantino",
+        "Teodosio",
+        "Fu deposto da Odoacre nel 476."
+      ],
+      [
+        "Quale imperatore bizantino fece redigere il «Corpus iuris civilis»?",
+        "Giustiniano",
+        "Costantino",
+        "Teodosio",
+        "È alla base di molti codici moderni."
+      ],
+      [
+        "Chi fu il condottiero che sconfisse gli Arabi a Poitiers nel 732?",
+        "Carlo Martello",
+        "Carlo Magno",
+        "Pipino il Breve",
+        "Era il nonno di Carlo Magno."
+      ],
+      [
+        "Quale re inglese fu decapitato nel 1649?",
+        "Carlo I",
+        "Enrico VIII",
+        "Giacomo I",
+        "Fu l’unico re inglese giustiziato dopo un processo."
+      ],
+      [
+        "Quale guerra tra Francia e Inghilterra durò in realtà 116 anni?",
+        "La guerra dei Cent’anni",
+        "La guerra dei Trent’anni",
+        "La guerra delle Due Rose",
+        "Si concluse nel 1453."
+      ],
+      [
+        "Quale famiglia regnante inglese si scontrò nella guerra delle Due Rose?",
+        "Lancaster e York",
+        "Tudor e Stuart",
+        "Windsor e Hannover",
+        "Le rose erano rossa e bianca."
+      ],
+      [
+        "Quale conflitto religioso devastò l’Europa centrale dal 1618 al 1648?",
+        "La guerra dei Trent’anni",
+        "La guerra dei Cent’anni",
+        "La guerra di successione spagnola",
+        "Si chiuse con la pace di Vestfalia."
+      ],
+      [
+        "In che anno la schiavitù fu abolita negli Stati Uniti con il XIII emendamento?",
+        "1865",
+        "1776",
+        "1920",
+        "Fu approvato alla fine della guerra di secessione."
+      ],
+      [
+        "Chi scrisse la Dichiarazione d’indipendenza americana?",
+        "Thomas Jefferson",
+        "George Washington",
+        "Benjamin Franklin",
+        "Jefferson fu il terzo presidente."
+      ],
+      [
+        "Quale documento francese del 1789 proclamò i diritti dell’uomo?",
+        "La Dichiarazione dei diritti dell’uomo e del cittadino",
+        "Il Codice napoleonico",
+        "La Magna Carta",
+        "Fu approvata durante la Rivoluzione."
+      ],
+      [
+        "Quale congresso ridisegnò l’Europa dopo Napoleone nel 1815?",
+        "Il Congresso di Vienna",
+        "Il Congresso di Berlino",
+        "La pace di Versailles",
+        "Fu guidato dal principe di Metternich."
+      ],
+      [
+        "Quale battaglia del 1859 ha dato il nome a un colore?",
+        "Magenta",
+        "Solferino",
+        "Custoza",
+        "Il colore fu chiamato così per celebrare la vittoria."
+      ],
+      [
+        "Come viene chiamato il 1848 per le rivoluzioni in tutta Europa?",
+        "La primavera dei popoli",
+        "La belle époque",
+        "L’età dei lumi",
+        "Da qui il modo di dire «fare un quarantotto»."
+      ],
+      [
+        "Quale evento del 28 giugno 1914 scatenò la Prima guerra mondiale?",
+        "L’assassinio dell’arciduca Francesco Ferdinando a Sarajevo",
+        "L’invasione della Polonia",
+        "L’affondamento del Lusitania",
+        "Lo uccise Gavrilo Princip."
+      ],
+      [
+        "Quale battaglia del 1917 fu una grave sconfitta italiana?",
+        "Caporetto",
+        "Vittorio Veneto",
+        "Isonzo",
+        "Da allora «Caporetto» indica una disfatta."
+      ],
+      [
+        "Quale battaglia del 1918 segnò la vittoria italiana nella Grande Guerra?",
+        "Vittorio Veneto",
+        "Caporetto",
+        "Piave",
+        "Portò all’armistizio del 4 novembre."
+      ],
+      [
+        "In che anno avvenne la marcia su Roma?",
+        "1922",
+        "1919",
+        "1925",
+        "Segnò l’arrivo di Mussolini al potere."
+      ],
+      [
+        "Quale operazione militare fu lo sbarco alleato in Sicilia nel 1943?",
+        "Operazione Husky",
+        "Operazione Overlord",
+        "Operazione Barbarossa",
+        "Overlord fu lo sbarco in Normandia."
+      ],
+      [
+        "Quale data segnò l’armistizio dell’Italia nella Seconda guerra mondiale?",
+        "8 settembre 1943",
+        "25 aprile 1945",
+        "2 giugno 1946",
+        "Fu annunciato da Badoglio."
+      ],
+      [
+        "Chi fu il primo presidente del Consiglio della Repubblica italiana?",
+        "Alcide De Gasperi",
+        "Aldo Moro",
+        "Palmiro Togliatti",
+        "Fu tra i padri fondatori dell’Europa unita."
+      ],
+      [
+        "Quale presidente della Repubblica è stato rieletto nel 2022?",
+        "Sergio Mattarella",
+        "Giorgio Napolitano",
+        "Carlo Azeglio Ciampi",
+        "Anche Napolitano era stato rieletto, nel 2013."
+      ],
+      [
+        "Quale presidente della Repubblica fu chiamato «il presidente più amato dagli italiani»?",
+        "Sandro Pertini",
+        "Carlo Azeglio Ciampi",
+        "Giorgio Napolitano",
+        "Esultò allo stadio per la vittoria ai Mondiali del 1982."
+      ],
+      [
+        "In che anno le donne italiane votarono per la prima volta a livello nazionale?",
+        "1946",
+        "1918",
+        "1960",
+        "Per il referendum Monarchia-Repubblica."
+      ],
+      [
+        "Quale muro difensivo fece costruire in Scozia l’imperatore Antonino Pio?",
+        "Il Vallo Antonino",
+        "Il Vallo di Adriano",
+        "La Grande Muraglia",
+        "Si trova più a nord del Vallo di Adriano."
+      ],
+      [
+        "In quale città fu rubata la Gioconda nel 1911?",
+        "Parigi",
+        "Firenze",
+        "Milano",
+        "Fu ritrovata a Firenze nel 1913."
+      ],
+      [
+        "Chi era il ladro che rubò la Gioconda nel 1911?",
+        "Vincenzo Peruggia",
+        "Arsenio Lupin",
+        "Gaetano Bresci",
+        "Voleva riportarla in Italia."
+      ],
+      [
+        "Quale pittore fiammingo dipinse «I coniugi Arnolfini»?",
+        "Jan van Eyck",
+        "Rubens",
+        "Bruegel",
+        "Nello specchio c’è il riflesso del pittore."
+      ],
+      [
+        "Chi dipinse «Il Giudizio Universale» della Cappella Sistina?",
+        "Michelangelo",
+        "Raffaello",
+        "Perugino",
+        "Lo dipinse tra il 1536 e il 1541."
+      ],
+      [
+        "Quale pittore umbro fu il maestro di Raffaello?",
+        "Il Perugino",
+        "Pinturicchio",
+        "Signorelli",
+        "Il suo vero nome era Pietro Vannucci."
+      ],
+      [
+        "Quale pittore dipinse gli affreschi della Cappella di San Brizio a Orvieto?",
+        "Luca Signorelli",
+        "Il Perugino",
+        "Giotto",
+        "Ispirarono anche Michelangelo."
+      ],
+      [
+        "Chi dipinse «La Tempesta»?",
+        "Giorgione",
+        "Tiziano",
+        "Tintoretto",
+        "Il significato del quadro è ancora un mistero."
+      ],
+      [
+        "Chi scolpì «Apollo e Dafne» alla Galleria Borghese?",
+        "Gian Lorenzo Bernini",
+        "Antonio Canova",
+        "Michelangelo",
+        "Dafne si trasforma in alloro."
+      ],
+      [
+        "Quale movimento artistico è legato a Kandinskij e all’astrattismo?",
+        "Der Blaue Reiter",
+        "Il Futurismo",
+        "La Pop Art",
+        "Significa «Il Cavaliere azzurro»."
+      ],
+      [
+        "Chi dipinse «I nottambuli» (Nighthawks)?",
+        "Edward Hopper",
+        "Andy Warhol",
+        "Jackson Pollock",
+        "Mostra un bar notturno di New York."
+      ],
+      [
+        "Chi scrisse «La vita è sogno»?",
+        "Pedro Calderón de la Barca",
+        "Lope de Vega",
+        "Miguel de Cervantes",
+        "È un capolavoro del teatro barocco spagnolo."
+      ],
+      [
+        "Chi scrisse «La Gerusalemme liberata»?",
+        "Torquato Tasso",
+        "Ludovico Ariosto",
+        "Dante Alighieri",
+        "Racconta la prima crociata."
+      ],
+      [
+        "Chi scrisse «Il giorno», satira della nobiltà milanese?",
+        "Giuseppe Parini",
+        "Vittorio Alfieri",
+        "Carlo Goldoni",
+        "È un poema in endecasillabi sciolti."
+      ],
+      [
+        "Quale commediografo veneziano scrisse «La locandiera»?",
+        "Carlo Goldoni",
+        "Carlo Gozzi",
+        "Pietro Aretino",
+        "Riformò la commedia dell’arte."
+      ],
+      [
+        "Chi scrisse «Sei personaggi in cerca d’autore»?",
+        "Luigi Pirandello",
+        "Eduardo De Filippo",
+        "Dario Fo",
+        "Alla prima del 1921 il pubblico protestò."
+      ],
+      [
+        "Quale autore italiano vinse il Nobel per la letteratura nel 1997?",
+        "Dario Fo",
+        "Eugenio Montale",
+        "Umberto Eco",
+        "Era anche attore e drammaturgo."
+      ],
+      [
+        "Chi compose il «Canone» più famoso in re maggiore?",
+        "Johann Pachelbel",
+        "Bach",
+        "Vivaldi",
+        "È molto usato nei matrimoni."
       ]
     ],
     "ca": [
@@ -14617,6 +20833,356 @@
         "Milo Manara",
         "Hugo Pratt",
         "Valentina è una fotografa milanese."
+      ],
+      [
+        "Chi ha diretto «Schindler’s List»?",
+        "Steven Spielberg",
+        "Roman Polanski",
+        "Martin Scorsese",
+        "Vinse 7 Oscar nel 1994."
+      ],
+      [
+        "Chi ha diretto «Il silenzio degli innocenti»?",
+        "Jonathan Demme",
+        "David Fincher",
+        "Ridley Scott",
+        "Vinse i cinque Oscar principali."
+      ],
+      [
+        "Chi ha diretto «Taxi Driver»?",
+        "Martin Scorsese",
+        "Francis Ford Coppola",
+        "Sidney Lumet",
+        "Robert De Niro interpreta Travis Bickle."
+      ],
+      [
+        "Chi ha diretto «Blade Runner»?",
+        "Ridley Scott",
+        "James Cameron",
+        "Denis Villeneuve",
+        "È tratto da un romanzo di Philip K. Dick."
+      ],
+      [
+        "Chi ha diretto «Fight Club» e «Seven»?",
+        "David Fincher",
+        "Quentin Tarantino",
+        "Christopher Nolan",
+        "Brad Pitt recita in entrambi."
+      ],
+      [
+        "Chi ha diretto «Arancia meccanica»?",
+        "Stanley Kubrick",
+        "Ken Russell",
+        "Ridley Scott",
+        "È tratto da un romanzo di Anthony Burgess."
+      ],
+      [
+        "Chi ha diretto «Apocalypse Now»?",
+        "Francis Ford Coppola",
+        "Oliver Stone",
+        "Michael Cimino",
+        "È liberamente ispirato a «Cuore di tenebra»."
+      ],
+      [
+        "Chi ha diretto «Gli uccelli» (1963)?",
+        "Alfred Hitchcock",
+        "Roger Corman",
+        "John Carpenter",
+        "È tratto da un racconto di Daphne du Maurier."
+      ],
+      [
+        "Quale film di Hitchcock ha come protagonista un fotografo immobilizzato su una sedia a rotelle?",
+        "La finestra sul cortile",
+        "La donna che visse due volte",
+        "Intrigo internazionale",
+        "Lo interpreta James Stewart."
+      ],
+      [
+        "Quale film del 1939 è ambientato durante la guerra di secessione americana?",
+        "Via col vento",
+        "Casablanca",
+        "Il mago di Oz",
+        "La protagonista è Rossella O’Hara."
+      ],
+      [
+        "Quale attore interpretò Rick in «Casablanca»?",
+        "Humphrey Bogart",
+        "Cary Grant",
+        "Clark Gable",
+        "La co-protagonista è Ingrid Bergman."
+      ],
+      [
+        "Quale attrice è famosa per «Colazione da Tiffany»?",
+        "Audrey Hepburn",
+        "Marilyn Monroe",
+        "Grace Kelly",
+        "Interpreta Holly Golightly."
+      ],
+      [
+        "Quale attrice divenne principessa di Monaco nel 1956?",
+        "Grace Kelly",
+        "Audrey Hepburn",
+        "Rita Hayworth",
+        "Lasciò il cinema dopo il matrimonio."
+      ],
+      [
+        "Quale attore ha vinto più Oscar come protagonista (3)?",
+        "Daniel Day-Lewis",
+        "Jack Nicholson",
+        "Tom Hanks",
+        "Tra i suoi film: «Il mio piede sinistro» e «Lincoln»."
+      ],
+      [
+        "Quale attrice ha vinto più Oscar in assoluto (4)?",
+        "Katharine Hepburn",
+        "Meryl Streep",
+        "Frances McDormand",
+        "Meryl Streep ha il record di candidature."
+      ],
+      [
+        "Chi interpreta Jack Torrance in «Shining»?",
+        "Jack Nicholson",
+        "Robert De Niro",
+        "Al Pacino",
+        "La frase «Ecco Johnny!» è diventata celebre."
+      ],
+      [
+        "Chi interpretò il Joker in «Il cavaliere oscuro»?",
+        "Heath Ledger",
+        "Joaquin Phoenix",
+        "Jack Nicholson",
+        "Vinse l’Oscar postumo."
+      ],
+      [
+        "Chi interpretò il Joker nel film del 2019 vincendo l’Oscar?",
+        "Joaquin Phoenix",
+        "Heath Ledger",
+        "Jared Leto",
+        "Il film è diretto da Todd Phillips."
+      ],
+      [
+        "Quale film di Christopher Nolan è raccontato al contrario, scena per scena?",
+        "Memento",
+        "Inception",
+        "Tenet",
+        "Il protagonista non riesce a formare nuovi ricordi."
+      ],
+      [
+        "Quale film di Tarantino è ambientato nella Seconda guerra mondiale?",
+        "Bastardi senza gloria",
+        "Django Unchained",
+        "Kill Bill",
+        "Christoph Waltz vinse l’Oscar."
+      ],
+      [
+        "Quale saga di film ha come protagonista il mago Gandalf?",
+        "Il Signore degli Anelli",
+        "Harry Potter",
+        "Le cronache di Narnia",
+        "Lo interpreta Ian McKellen."
+      ],
+      [
+        "Quale film di fantascienza del 1968 si chiude con la Statua della Libertà sulla spiaggia?",
+        "Il pianeta delle scimmie",
+        "2001: Odissea nello spazio",
+        "Solaris",
+        "Il protagonista è Charlton Heston."
+      ],
+      [
+        "Quale film di Sergio Leone vede Henry Fonda nel ruolo del cattivo?",
+        "C’era una volta il West",
+        "Per qualche dollaro in più",
+        "Giù la testa",
+        "La colonna sonora è di Ennio Morricone."
+      ],
+      [
+        "Chi ha diretto «Roma città aperta»?",
+        "Roberto Rossellini",
+        "Vittorio De Sica",
+        "Luchino Visconti",
+        "Anna Magnani vi recita in una scena storica."
+      ],
+      [
+        "Chi ha diretto «Il Gattopardo» al cinema?",
+        "Luchino Visconti",
+        "Federico Fellini",
+        "Michelangelo Antonioni",
+        "Vinse la Palma d’oro nel 1963."
+      ],
+      [
+        "Quale attore interpretò il principe di Salina ne «Il Gattopardo»?",
+        "Burt Lancaster",
+        "Marcello Mastroianni",
+        "Alain Delon",
+        "Delon interpretò Tancredi."
+      ],
+      [
+        "Quale film di Fellini vinse l’Oscar con Giulietta Masina come protagonista?",
+        "La strada",
+        "Le notti di Cabiria",
+        "8½",
+        "Vinse l’Oscar per il miglior film straniero."
+      ],
+      [
+        "Chi ha diretto «Il sorpasso» con Vittorio Gassman?",
+        "Dino Risi",
+        "Mario Monicelli",
+        "Ettore Scola",
+        "È un capolavoro della commedia all’italiana."
+      ],
+      [
+        "Chi ha diretto «La grande guerra» con Sordi e Gassman?",
+        "Mario Monicelli",
+        "Dino Risi",
+        "Luigi Comencini",
+        "Vinse il Leone d’oro nel 1959."
+      ],
+      [
+        "Quale film di Monicelli racconta un gruppo di amici fiorentini burloni?",
+        "Amici miei",
+        "I soliti ignoti",
+        "L’armata Brancaleone",
+        "Famose le «supercazzole»."
+      ],
+      [
+        "Chi ha diretto «Mediterraneo», Oscar nel 1992?",
+        "Gabriele Salvatores",
+        "Giuseppe Tornatore",
+        "Nanni Moretti",
+        "È ambientato su un’isola greca."
+      ],
+      [
+        "Quale film di Nanni Moretti vinse la Palma d’oro nel 2001?",
+        "La stanza del figlio",
+        "Caro diario",
+        "Habemus Papam",
+        "Racconta il dolore di una famiglia."
+      ],
+      [
+        "Quale film di Sorrentino racconta la vita di Giulio Andreotti?",
+        "Il divo",
+        "La grande bellezza",
+        "Youth",
+        "Toni Servillo interpreta Andreotti."
+      ],
+      [
+        "Quale attore italiano ha interpretato il commissario Montalbano?",
+        "Luca Zingaretti",
+        "Giuseppe Fiorello",
+        "Raoul Bova",
+        "I romanzi sono di Andrea Camilleri."
+      ],
+      [
+        "Quale serie racconta la storia dell’avvocato Saul Goodman?",
+        "Better Call Saul",
+        "Breaking Bad",
+        "Ozark",
+        "È il prequel di «Breaking Bad»."
+      ],
+      [
+        "Quale serie TV è ambientata in un’agenzia pubblicitaria di New York negli anni Sessanta?",
+        "Mad Men",
+        "Succession",
+        "Suits",
+        "Il protagonista è Don Draper."
+      ],
+      [
+        "Quale serie racconta la famiglia Roy, proprietaria di un impero mediatico?",
+        "Succession",
+        "Billions",
+        "Dallas",
+        "Ha vinto molti Emmy."
+      ],
+      [
+        "In quale serie TV c’è il personaggio di Sheldon Cooper?",
+        "The Big Bang Theory",
+        "Friends",
+        "How I Met Your Mother",
+        "Sheldon è un fisico teorico."
+      ],
+      [
+        "In «Friends», quale dei sei amici lavora come chef?",
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Monica è la sorella di Ross."
+      ],
+      [
+        "Quale serie è ambientata a Westeros?",
+        "Il trono di spade",
+        "The Witcher",
+        "Gli anelli del potere",
+        "È tratta dai romanzi di George R. R. Martin."
+      ],
+      [
+        "Quale serie racconta un’ipotetica dittatura religiosa negli Stati Uniti, dal romanzo di Margaret Atwood?",
+        "The Handmaid’s Tale",
+        "Black Mirror",
+        "Westworld",
+        "La protagonista è June."
+      ],
+      [
+        "Quale serie antologica britannica racconta i lati oscuri della tecnologia?",
+        "Black Mirror",
+        "Doctor Who",
+        "Sherlock",
+        "Ogni episodio è una storia a sé."
+      ],
+      [
+        "Chi interpreta Sherlock Holmes nella serie BBC «Sherlock»?",
+        "Benedict Cumberbatch",
+        "Martin Freeman",
+        "Robert Downey Jr.",
+        "Martin Freeman è il dottor Watson."
+      ],
+      [
+        "Quale serie italiana racconta la camorra a Scampia?",
+        "Gomorra",
+        "Suburra",
+        "Romanzo criminale",
+        "È tratta dal libro di Roberto Saviano."
+      ],
+      [
+        "Quale fumetto di Bonelli ha un protagonista che vive nel futuro, nel 2099?",
+        "Nathan Never",
+        "Dylan Dog",
+        "Martin Mystère",
+        "È un agente speciale."
+      ],
+      [
+        "Chi creò Paperon de’ Paperoni nel 1947?",
+        "Carl Barks",
+        "Walt Disney",
+        "Romano Scarpa",
+        "È il papero più ricco del mondo."
+      ],
+      [
+        "Quale supereroe italiano dei fumetti Disney è l’alter ego di Paperino?",
+        "Paperinik",
+        "Superpippo",
+        "Topolino",
+        "È nato da un’idea di Elisa Penna e Guido Martina."
+      ],
+      [
+        "Quale disegnatore italiano è famoso per i fumetti erotici e la collaborazione con Fellini?",
+        "Milo Manara",
+        "Hugo Pratt",
+        "Guido Crepax",
+        "Insieme realizzarono «Viaggio a Tulum»."
+      ],
+      [
+        "Quale romanzo a fumetti di Art Spiegelman racconta l’Olocausto con topi e gatti?",
+        "Maus",
+        "Persepolis",
+        "Watchmen",
+        "Vinse il Premio Pulitzer nel 1992."
+      ],
+      [
+        "Quale graphic novel di Alan Moore ha come simbolo uno smile macchiato di sangue?",
+        "Watchmen",
+        "V per Vendetta",
+        "Batman: The Killing Joke",
+        "È ambientata in un 1985 alternativo."
       ]
     ],
     "vg": [
@@ -15305,6 +21871,356 @@
         "Il beach volley",
         "Il triathlon",
         "Insieme a surf e arrampicata sportiva."
+      ],
+      [
+        "Quale velocista italiano corse per primo i 100 metri sotto i 10 secondi, nel 2018?",
+        "Filippo Tortu",
+        "Marcell Jacobs",
+        "Pietro Mennea",
+        "Corse in 9,99 secondi a Madrid."
+      ],
+      [
+        "Quale velocista italiano detenne per 17 anni il record mondiale dei 200 metri?",
+        "Pietro Mennea",
+        "Livio Berruti",
+        "Marcell Jacobs",
+        "Corse in 19,72 nel 1979."
+      ],
+      [
+        "Quale italiana vinse l’oro olimpico nel salto in alto a Mosca 1980?",
+        "Sara Simeoni",
+        "Antonella Palmisano",
+        "Fiona May",
+        "Fu anche primatista mondiale."
+      ],
+      [
+        "Quale marciatrice italiana ha vinto l’oro a Tokyo 2020?",
+        "Antonella Palmisano",
+        "Valentina Vezzali",
+        "Federica Pellegrini",
+        "Vinse la 20 km di marcia."
+      ],
+      [
+        "Quale schermidore italiano ha vinto più medaglie olimpiche nella storia dello sport italiano?",
+        "Edoardo Mangiarotti",
+        "Valentina Vezzali",
+        "Aldo Montano",
+        "Vinse 13 medaglie olimpiche."
+      ],
+      [
+        "Quale ciclista sloveno ha vinto più volte il Tour de France negli anni 2020?",
+        "Tadej Pogačar",
+        "Primož Roglič",
+        "Jonas Vingegaard",
+        "Nel 2024 vinse anche il Giro d’Italia."
+      ],
+      [
+        "Quale corridore italiano vinse Giro e Tour nel 1949 e nel 1952?",
+        "Fausto Coppi",
+        "Gino Bartali",
+        "Marco Pantani",
+        "Fu il primo a fare la «doppietta»."
+      ],
+      [
+        "Quale ciclista italiano vinse tutti e tre i grandi giri?",
+        "Vincenzo Nibali",
+        "Marco Pantani",
+        "Gino Bartali",
+        "Insieme a Gimondi, è tra i pochi italiani."
+      ],
+      [
+        "Quale pilota italiano vinse il primo Mondiale di Formula 1 nel 1950?",
+        "Nino Farina",
+        "Alberto Ascari",
+        "Tazio Nuvolari",
+        "Correva con l’Alfa Romeo."
+      ],
+      [
+        "Quale pilota era soprannominato «il Mantovano volante»?",
+        "Tazio Nuvolari",
+        "Alberto Ascari",
+        "Enzo Ferrari",
+        "Era famoso per il suo stile spericolato."
+      ],
+      [
+        "Quale circuito ospita la 24 Ore di Le Mans?",
+        "Il circuito della Sarthe",
+        "Monza",
+        "Spa-Francorchamps",
+        "È una gara di durata in Francia."
+      ],
+      [
+        "Quale pugile italiano vinse l’oro olimpico a Roma 1960 e divenne campione del mondo?",
+        "Nino Benvenuti",
+        "Primo Carnera",
+        "Rocky Marciano",
+        "Rivale storico di Emile Griffith."
+      ],
+      [
+        "Quale pugile italo-americano si ritirò imbattuto da campione dei pesi massimi?",
+        "Rocky Marciano",
+        "Primo Carnera",
+        "Jake LaMotta",
+        "Chiuse la carriera con 49 vittorie su 49."
+      ],
+      [
+        "Quale nuotatore australiano era soprannominato «Thorpedo»?",
+        "Ian Thorpe",
+        "Michael Phelps",
+        "Mark Spitz",
+        "Vinse 5 ori olimpici."
+      ],
+      [
+        "Quale tennista italiana vinse gli US Open nel 2015 in una finale tutta italiana?",
+        "Flavia Pennetta",
+        "Roberta Vinci",
+        "Francesca Schiavone",
+        "Batté Roberta Vinci in finale."
+      ],
+      [
+        "Quale tennista italiana ha raggiunto la finale di Wimbledon e del Roland Garros nel 2024?",
+        "Jasmine Paolini",
+        "Sara Errani",
+        "Camila Giorgi",
+        "Vinse anche l’oro olimpico in doppio con Errani."
+      ],
+      [
+        "Quale nazionale ha vinto la Coppa Davis 2023 e 2024?",
+        "Italia",
+        "Australia",
+        "Spagna",
+        "Guidata da Jannik Sinner."
+      ],
+      [
+        "Con quale squadra Michael Jordan vinse sei titoli NBA?",
+        "Chicago Bulls",
+        "Los Angeles Lakers",
+        "Boston Celtics",
+        "Li vinse in due «three-peat»."
+      ],
+      [
+        "Quale giocatore di basket è soprannominato «King James»?",
+        "LeBron James",
+        "Michael Jordan",
+        "Kobe Bryant",
+        "È il miglior marcatore di sempre della NBA."
+      ],
+      [
+        "Come si chiama la finale del campionato di football americano?",
+        "Super Bowl",
+        "World Series",
+        "Stanley Cup",
+        "Lo spettacolo dell’intervallo è seguitissimo."
+      ],
+      [
+        "Quale squadra di calcio inglese è soprannominata «i Red Devils»?",
+        "Manchester United",
+        "Liverpool",
+        "Arsenal",
+        "Gioca all’Old Trafford."
+      ],
+      [
+        "In quale stadio gioca il Barcellona?",
+        "Camp Nou",
+        "Santiago Bernabéu",
+        "Wanda Metropolitano",
+        "È uno dei più grandi d’Europa."
+      ],
+      [
+        "Quale nazionale ha vinto i Mondiali di calcio femminili del 2023?",
+        "Spagna",
+        "Inghilterra",
+        "Stati Uniti",
+        "La finale si giocò a Sydney."
+      ],
+      [
+        "Quale calciatore francese ha vinto il Mondiale 2018 a 19 anni?",
+        "Kylian Mbappé",
+        "Antoine Griezmann",
+        "Paul Pogba",
+        "Segnò anche in finale."
+      ],
+      [
+        "Quale calciatore norvegese è famoso per i suoi gol a raffica nel Manchester City?",
+        "Erling Haaland",
+        "Martin Ødegaard",
+        "Ole Gunnar Solskjær",
+        "Nella stagione 2022-23 batté il record di gol in Premier League."
+      ],
+      [
+        "Quale videogioco di Hideo Kojima ha come protagonista un corriere in un’America devastata?",
+        "Death Stranding",
+        "Metal Gear Solid",
+        "Silent Hill",
+        "Il protagonista è interpretato da Norman Reedus."
+      ],
+      [
+        "Quale gioco del 2022 di FromSoftware è ambientato nell’Interregno?",
+        "Elden Ring",
+        "Dark Souls III",
+        "Bloodborne",
+        "Ha collaborato George R. R. Martin."
+      ],
+      [
+        "Quale videogioco del 2023 è ambientato nel mondo di Dungeons & Dragons?",
+        "Baldur’s Gate 3",
+        "Diablo IV",
+        "Starfield",
+        "È stato sviluppato da Larian Studios."
+      ],
+      [
+        "Quale serie di videogiochi ha come protagonista il demone-cacciatore Dante?",
+        "Devil May Cry",
+        "Bayonetta",
+        "Castlevania",
+        "Il nome si ispira alla Divina Commedia."
+      ],
+      [
+        "In quale videogioco si esplora il mondo di Teyvat?",
+        "Genshin Impact",
+        "Final Fantasy XIV",
+        "Zelda",
+        "È stato sviluppato in Cina."
+      ],
+      [
+        "Quale gioco di strategia a turni permette di guidare una civiltà dalla preistoria all’era spaziale?",
+        "Civilization",
+        "Age of Empires",
+        "StarCraft",
+        "Fu ideato da Sid Meier."
+      ],
+      [
+        "Quale gioco di strategia in tempo reale ha le razze Terran, Zerg e Protoss?",
+        "StarCraft",
+        "Warcraft",
+        "Command & Conquer",
+        "In Corea del Sud è stato uno sport nazionale."
+      ],
+      [
+        "Quale gioco ha reso famosi i «Lemmings» che camminano verso il burrone?",
+        "Lemmings",
+        "Worms",
+        "Pikmin",
+        "Bisognava assegnare loro dei compiti per salvarli."
+      ],
+      [
+        "Quale gioco da tavolo tedesco del 1995 ha come tema la colonizzazione di un’isola?",
+        "I coloni di Catan",
+        "Carcassonne",
+        "Ticket to Ride",
+        "Si scambiano grano, legno, argilla, lana e minerale."
+      ],
+      [
+        "Quale gioco da tavolo prende il nome da una città fortificata francese?",
+        "Carcassonne",
+        "Catan",
+        "Azul",
+        "Si posano tessere per costruire città e strade."
+      ],
+      [
+        "In quale gioco di carte si dice «busso, striscio e volo»?",
+        "Tressette",
+        "Briscola",
+        "Scopa",
+        "Sono segnali consentiti per comunicare col compagno."
+      ],
+      [
+        "Nella scopa, quanti punti vale fare tutte le carte di denari?",
+        "1",
+        "2",
+        "3",
+        "Si chiama «denari» o «ori»."
+      ],
+      [
+        "Quale gioco di carte ha la «primiera» tra i punti?",
+        "Scopa",
+        "Briscola",
+        "Burraco",
+        "La primiera si calcola con i valori delle carte."
+      ],
+      [
+        "Quale gioco di carte italiano assomiglia alla canasta e si gioca con le «pinelle»?",
+        "Burraco",
+        "Ramino",
+        "Scala 40",
+        "Si gioca spesso a coppie."
+      ],
+      [
+        "Nel gioco degli scacchi, come si chiama la cattura speciale di un pedone appena avanzato di due caselle?",
+        "En passant",
+        "Arrocco",
+        "Promozione",
+        "Si può fare solo subito dopo la mossa."
+      ],
+      [
+        "Quale campione di scacchi americano vinse il titolo mondiale nel 1972 contro Spasskij?",
+        "Bobby Fischer",
+        "Garri Kasparov",
+        "Anatolij Karpov",
+        "La sfida si giocò a Reykjavík in piena guerra fredda."
+      ],
+      [
+        "Quale campionessa di scacchi ungherese è considerata la più forte giocatrice di sempre?",
+        "Judit Polgár",
+        "Hou Yifan",
+        "Vera Menčik",
+        "Batté molti campioni del mondo maschili."
+      ],
+      [
+        "Come si chiama il rompicapo cinese con sette pezzi geometrici?",
+        "Il tangram",
+        "Il sudoku",
+        "Il domino",
+        "Con i sette pezzi si compongono tantissime figure."
+      ],
+      [
+        "Quale gioco cinese con tessere è diventato popolarissimo in tutto il mondo?",
+        "Il Mahjong",
+        "Il Go",
+        "Lo Shogi",
+        "Si gioca con 144 tessere."
+      ],
+      [
+        "Quale gioco da tavolo cinese si gioca con pietre bianche e nere su una griglia 19×19?",
+        "Il Go",
+        "Il Mahjong",
+        "Lo Xiangqi",
+        "È più antico degli scacchi."
+      ],
+      [
+        "Come si chiamano gli scacchi giapponesi?",
+        "Shogi",
+        "Go",
+        "Xiangqi",
+        "I pezzi catturati possono essere rimessi in gioco."
+      ],
+      [
+        "Quale quiz televisivo americano ha come formula «la risposta prima della domanda»?",
+        "Jeopardy!",
+        "Wheel of Fortune",
+        "The Price Is Right",
+        "In Italia si chiamava «Rischiatutto»."
+      ],
+      [
+        "Chi condusse «Rischiatutto» negli anni Settanta?",
+        "Mike Bongiorno",
+        "Pippo Baudo",
+        "Corrado",
+        "Famosa la concorrente «signora Longari»."
+      ],
+      [
+        "Chi è stato a lungo il conduttore di «Chi vuol essere milionario?» in Italia?",
+        "Gerry Scotti",
+        "Paolo Bonolis",
+        "Carlo Conti",
+        "La domanda finale valeva un milione."
+      ],
+      [
+        "Quale gioco televisivo italiano prevede la «Ghigliottina» finale?",
+        "L’eredità",
+        "Affari tuoi",
+        "Reazione a catena",
+        "Bisogna trovare la parola che lega cinque indizi."
       ]
     ]
   }
