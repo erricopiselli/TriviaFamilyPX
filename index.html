@@ -8,27 +8,28 @@
 <link rel="icon" type="image/png" href="icon-512.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Trivia">
-<meta name="theme-color" content="#7c4dff">
+<meta name="theme-color" content="#1f3b63">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@500;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600;700;800&family=Mulish:wght@500;700;800&display=swap" rel="stylesheet">
 <style>
 :root{
-  --bg1:#ffe8c7;--bg2:#e9ddff;--card:#fffdf8;--card2:#f6f0ff;--tx:#2b2540;--mut:#6d6786;
-  --pri:#7c4dff;--pri2:#5a36c9;--ok:#2ea66a;--ko:#e5484d;--bd:#ebe2d3;--track:#efe6d8;
-  --gold:#ffc83d;
-  --ff-d:"Fredoka","Trebuchet MS",system-ui,sans-serif;
-  --ff-b:"Nunito","Segoe UI",system-ui,sans-serif;
+  /* tabellone: cartoncino crema, blu notte e i sei colori classici delle categorie */
+  --bg1:#f6eedb;--bg2:#e9dcbd;--card:#fffdf6;--card2:#f3ecdb;--tx:#1b2b40;--mut:#5f6b78;
+  --pri:#1f4e8c;--pri2:#13345f;--ok:#2f9e44;--ko:#d6453d;--bd:#dccfae;--track:#e7dcc2;
+  --gold:#e8b10f;
+  --ff-d:"Roboto Slab",Rockwell,Georgia,serif;
+  --ff-b:"Mulish","Segoe UI",system-ui,sans-serif;
 }
 @media(prefers-color-scheme:dark){
   :root:not([data-theme="light"]){
-    --bg1:#1d1838;--bg2:#2a1f4f;--card:#2a2548;--card2:#332c58;--tx:#f3efff;
-    --mut:#b1aacd;--pri:#7c4dff;--pri2:#4b2bb0;--ok:#3fc384;--ko:#ff6b70;--bd:#41397a;--track:#3a3266;
+    --bg1:#13233a;--bg2:#0b1626;--card:#182c45;--card2:#203853;--tx:#f3ead4;
+    --mut:#a9b4c2;--pri:#3d7bd9;--pri2:#24508f;--ok:#43b45a;--ko:#ef6a5f;--bd:#2d4664;--track:#24395a;
   }
 }
 :root[data-theme="dark"]{
-  --bg1:#1d1838;--bg2:#2a1f4f;--card:#2a2548;--card2:#332c58;--tx:#f3efff;
-  --mut:#b1aacd;--pri:#7c4dff;--pri2:#4b2bb0;--ok:#3fc384;--ko:#ff6b70;--bd:#41397a;--track:#3a3266;
+  --bg1:#13233a;--bg2:#0b1626;--card:#182c45;--card2:#203853;--tx:#f3ead4;
+  --mut:#a9b4c2;--pri:#3d7bd9;--pri2:#24508f;--ok:#43b45a;--ko:#ef6a5f;--bd:#2d4664;--track:#24395a;
 }
 *{box-sizing:border-box;margin:0;padding:0}
 html{-webkit-text-size-adjust:100%;background:var(--bg2)}
@@ -228,6 +229,37 @@ body.land .dev .big{font-size:clamp(2.4rem,8vh,5rem)}
 .rc input{margin-top:8px}
 .rst{font-size:.8rem;font-weight:800;text-align:center;color:var(--mut)}
 .rst.ok{color:var(--ok)}
+/* look da gioco da tavolo */
+body{background:radial-gradient(circle at 20% 0%,rgba(255,255,255,.55),transparent 45%),repeating-linear-gradient(45deg,rgba(27,43,64,.025) 0 2px,transparent 2px 9px),linear-gradient(170deg,var(--bg1),var(--bg2)) fixed}
+h1,h2,.disp,.qtext,.res,.who,button{letter-spacing:0}
+.brand h1{font-weight:800;color:var(--pri2)}
+.card{border:2px solid var(--bd);box-shadow:0 3px 0 var(--bd),0 14px 30px rgba(27,43,64,.10);border-radius:18px}
+button{border-radius:12px}
+.qcard{border-width:0}
+.qhead{font-weight:700;letter-spacing:.02em;text-transform:uppercase;font-size:.95rem}
+.qtext{font-weight:700}
+.opt{border:2px solid var(--bd);box-shadow:0 3px 0 var(--bd)}
+.opt .k{font-family:var(--ff-d);font-weight:800}
+@media(prefers-color-scheme:dark){:root:not([data-theme="light"]) .brand h1{color:var(--tx)}}
+:root[data-theme="dark"] .brand h1{color:var(--tx)}
+/* dado 3D */
+.dov{position:fixed;inset:0;z-index:25;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2vh;background:rgba(9,20,36,.55);backdrop-filter:blur(2px)}
+.dt{font-family:var(--ff-d);font-weight:800;color:#fff;font-size:clamp(1.3rem,4vh,2.6rem);text-shadow:0 2px 6px rgba(0,0,0,.4)}
+.table{position:relative;width:min(92vw,120vh);height:min(52vh,70vw);border-radius:28px;background:radial-gradient(ellipse at 50% 40%,#2f7d5a,#17523a 70%,#0f3d2b);box-shadow:inset 0 0 0 10px #6b4423,inset 0 0 0 14px #8a5a2b,inset 0 10px 40px rgba(0,0,0,.45),0 20px 50px rgba(0,0,0,.4);perspective:900px;overflow:hidden}
+.die3{--ds:min(22vh,26vw,170px);position:absolute;left:50%;top:50%;width:var(--ds);height:var(--ds);margin:calc(var(--ds)/-2) 0 0 calc(var(--ds)/-2);transform-style:preserve-3d}
+.die3 .f{position:absolute;inset:0;background:linear-gradient(145deg,#fffdf6,#efe6d2);border-radius:18%;box-shadow:inset 0 0 0 2px rgba(0,0,0,.06),inset 0 -6px 12px rgba(0,0,0,.08);display:grid;grid-template:repeat(3,1fr)/repeat(3,1fr);padding:14%;backface-visibility:hidden}
+.die3 .f i{width:62%;height:62%;border-radius:50%;background:#1b2b40;place-self:center;visibility:hidden;box-shadow:inset 0 2px 3px rgba(0,0,0,.5)}
+.die3 .f i.on{visibility:visible}
+.die3 .f1 i.on{background:#d6453d}
+.dshadow{position:absolute;left:50%;top:50%;width:min(22vh,26vw,170px);height:30px;margin-left:calc(min(22vh,26vw,170px)/-2);border-radius:50%;background:rgba(0,0,0,.35);filter:blur(8px)}
+.dres{font-family:var(--ff-d);font-weight:800;color:#fff;font-size:clamp(1.6rem,6vh,3.6rem);min-height:1.3em;text-shadow:0 2px 8px rgba(0,0,0,.45)}
+/* immagini per i più piccoli */
+.qpic{font-size:clamp(3rem,10vh,6rem);text-align:center;line-height:1.1;margin:4px 0 6px}
+.pic{flex:none;display:grid;place-items:center;min-width:2.1em;height:2.1em;font-size:1.5em;line-height:1}
+.pic .sw{width:1.5em;height:1.5em;border-radius:50%;border:3px solid rgba(0,0,0,.15)}
+.pic .dots{font-size:.42em;line-height:1.05;letter-spacing:.05em;text-align:center;max-width:3.2em;word-break:break-all;color:var(--pri)}
+.pic .big{font-family:var(--ff-d);font-weight:800;font-size:1.1em}
+.kid .opt{gap:14px}
 </style>
 </head>
 <body>
@@ -235,12 +267,12 @@ body.land .dev .big{font-size:clamp(2.4rem,8vh,5rem)}
 <script>
 // ── CATEGORIES ──────────────────────────────────────────────────────────
 var C=[
-  {k:"an",n:"Animali & Natura",e:"🐾",c:"#2ea66a"},
-  {k:"sc",n:"Scienza & Logica",  e:"🔬",c:"#3b82f6"},
-  {k:"ge",n:"Geografia",        e:"🌍",c:"#f59e0b"},
-  {k:"st",n:"Storia & Arte",    e:"🏛️",c:"#a855f7"},
-  {k:"ca",n:"Cinema & Cartoni", e:"🎬",c:"#ec4899"},
-  {k:"vg",n:"Videogiochi & Sport",e:"🎮",c:"#ef4444"}
+  {k:"an",n:"Animali & Natura",e:"🐾",c:"#2f9e44"},
+  {k:"sc",n:"Scienza & Logica",  e:"🔬",c:"#8a5a2b"},
+  {k:"ge",n:"Geografia",        e:"🌍",c:"#1f6fd1"},
+  {k:"st",n:"Storia & Arte",    e:"🏛️",c:"#e8b10f",dark:true},
+  {k:"ca",n:"Cinema & Cartoni", e:"🎬",c:"#df3f7e"},
+  {k:"vg",n:"Videogiochi & Sport",e:"🎮",c:"#ec7417"}
 ];
 var G={p:"Piccoli 3–5 🧸",b:"Bambini 6–11 🧒",r:"Ragazzi 12–17 🧑",a:"Adulti 🧔"};
 var GA=[{k:"p",e:"🧸",n:"Piccoli",a:"3–5 anni"},{k:"b",e:"🧒",n:"Bambini",a:"6–11 anni"},{k:"r",e:"🧑",n:"Ragazzi",a:"12–17 anni"},{k:"a",e:"🧔",n:"Adulti",a:"18+"}];
@@ -281,7 +313,7 @@ function shuffle(a){
   }
   return a;
 }
-// Le 6 caselle spicchio (ogni 4) hanno ciascuna una categoria diversa
+// Le 6 caselle laurea (ogni 4) hanno ciascuna una categoria diversa
 function catAt(pos){return pos%4===0?C[pos/4]:C[pos%6]}
 function f1(n){return n.toFixed(1)}
 // Arc segment of a ring between angles (degrees, 0 = top)
@@ -304,8 +336,8 @@ function ringSVG(w,center){
 function logoSVG(){
   var s='<svg viewBox="0 0 40 40" aria-hidden="true">';
   C.forEach(function(c,i){s+='<path d="'+arc(20,20,11,19,i*60+34,(i+1)*60+26)+'" fill="'+c.c+'"/>';});
-  s+='<circle cx="20" cy="20" r="9.5" fill="#7c4dff"/>'+
-     '<text x="20" y="25" text-anchor="middle" font-size="14" font-family="Fredoka,sans-serif" font-weight="700" fill="#fff">?</text>';
+  s+='<circle cx="20" cy="20" r="9.5" fill="#1b2b40"/>'+
+     '<text x="20" y="25" text-anchor="middle" font-size="14" font-family="Roboto Slab,Georgia,serif" font-weight="800" fill="#fff">?</text>';
   return s+'</svg>';
 }
 function brand(sm){return '<div class="brand'+(sm?' sm':'')+'">'+logoSVG()+'<h1>TriviaFamilyPX</h1></div>';}
@@ -404,6 +436,16 @@ function tac(when,vol,freq){
   src.buffer=NOISE;bp.type='bandpass';bp.frequency.value=freq||1800;bp.Q.value=1.1;g.gain.value=vol||.22;
   src.connect(bp);bp.connect(g);g.connect(a.destination);src.start(t);
 }
+function thud(when,vol){
+  if(!SND)return;var a=ac();if(!a)return;
+  if(!NOISE)tac(0,0);
+  var t=a.currentTime+(when||0),src=a.createBufferSource(),lp=a.createBiquadFilter(),g=a.createGain();
+  src.buffer=NOISE;lp.type='lowpass';lp.frequency.value=900;g.gain.value=vol||.5;
+  src.connect(lp);lp.connect(g);g.connect(a.destination);src.start(t);
+  var o=a.createOscillator(),og=a.createGain();o.type='sine';o.frequency.setValueAtTime(190,t);o.frequency.exponentialRampToValueAtTime(70,t+.08);
+  og.gain.setValueAtTime((vol||.5)*.7,t);og.gain.exponentialRampToValueAtTime(.001,t+.1);o.connect(og);og.connect(a.destination);o.start(t);o.stop(t+.12);
+  tac(when+.005,(vol||.5)*.35,3200);
+}
 function sfx(n){
   if(!SND)return;
   if(n==='ok'){tone(880,.25,'sine',.18);tone(1320,.3,'sine',.1,.07);}
@@ -468,7 +510,7 @@ document.addEventListener('keydown',function(e){
 function setup(){
   render(
     brand()+
-    '<p class="sub">Tira il dado, gira il tabellone, conquista i 6 spicchi!</p>'+
+    '<p class="sub">Tira il dado, gira il tabellone, conquista le 6 lauree!</p>'+
     '<p class="ver">Database: '+DBN+' domande · '+DEVN[DEV]+' · <a href="#" id="chDev" style="color:inherit">cambia</a></p>'+
     (DEV==='cast'?castBadge():'')+
     '<div class="cols"><div>'+
@@ -597,22 +639,70 @@ function turn(){
   document.getElementById('rollBtn').addEventListener('click',function(){
     var btn=this;
     btn.disabled=true;btn.textContent='…';
-    var die=document.getElementById('die');
-    die.classList.add('roll');
-    var n=0;
-    var iv=setInterval(function(){
-      setDie(die,1+Math.floor(Math.random()*6));tac(0,.25,1500+Math.random()*900);
-      if(++n>10){
-        clearInterval(iv);
-        die.classList.remove('roll');
-        var roll=1+Math.floor(Math.random()*6);
-        setDie(die,roll);
-        btn.textContent='Hai fatto '+roll+'!';
-        p.pos=(p.pos+roll)%24;
-        setTimeout(function(){ask(roll);},750);
-      }
-    },80);
+    rollDice(p.n,function(roll){
+      setDie(document.getElementById('die'),roll);
+      btn.textContent='Hai fatto '+roll+'!';
+      p.pos=(p.pos+roll)%24;
+      setTimeout(function(){ask(roll);},350);
+    });
   });
+}
+
+// ── IMMAGINI PER I PIÙ PICCOLI (fascia 3-5) ────────────────────────────────
+// Ogni risposta diventa un disegnino: emoji per animali e oggetti, un cerchio
+// colorato per i colori, i pallini per i numeri, la lettera grande per le lettere.
+var COLS={rosso:'#e53935',rossa:'#e53935',rossi:'#e53935',rosse:'#e53935',red:'#e53935',blu:'#1e5fd6',blue:'#1e5fd6','blu scuro':'#123a7a',azzurro:'#5bb8f5',verde:'#2fa84f',verdi:'#2fa84f',green:'#2fa84f',giallo:'#f7c600',gialla:'#f7c600',gialli:'#f7c600',gialle:'#f7c600',yellow:'#f7c600','giallo dorato':'#e3a700',rosa:'#f48fb1',pink:'#f48fb1',viola:'#8e44ad',purple:'#8e44ad',arancione:'#f57c00',arancioni:'#f57c00',orange:'#f57c00',nero:'#111',nera:'#111',black:'#111',bianco:'#fff',bianca:'#fff',white:'#fff',marrone:'#7b4a24',brown:'#7b4a24','marrone scuro':'#4e2c12',grigio:'#9e9e9e',grey:'#9e9e9e',turchini:'#1aa3b8',biondi:'#e8c46a'};
+var PICS={gatto:'🐱',gatta:'🐱',gattino:'🐱',gattina:'🐱',cat:'🐱',gatti:'🐱',cane:'🐶',cagnolino:'🐶',cagnolina:'🐶',cucciolo:'🐶',vitello:'🐮',dog:'🐶',cani:'🐶',mucca:'🐮',cow:'🐮',pesce:'🐟',fish:'🐟',pesci:'🐟','pesce rosso':'🐠','pesce pagliaccio':'🐠',gallina:'🐔',gallo:'🐓',elefante:'🐘',elefantina:'🐘',pecora:'🐑',agnellino:'🐑',coniglio:'🐰',coniglietto:'🐰',coniglietta:'🐰',rabbit:'🐰',leone:'🦁',leonessa:'🦁',lion:'🦁',leoni:'🦁',lupo:'🐺',topolino:'🐭',topo:'🐭',mouse:'🐭',cavallo:'🐴',cavalla:'🐴',horse:'🐴',cavalli:'🐴',puledro:'🐴',pony:'🐴',giraffa:'🦒',formica:'🐜',drago:'🐉',bird:'🐦',uccello:'🐦',uccellino:'🐦',passero:'🐦',bear:'🐻',orso:'🐻',orsetto:'🐻',orsetta:'🐻',orsi:'🐻',granchio:'🦀',zebra:'🦓',pizza:'🍕',lumaca:'🐌',farfalla:'🦋',stella:'⭐',star:'⭐',stellina:'⭐',pinguino:'🐧',mela:'🍎',apple:'🍎',delfino:'🐬',maiale:'🐷',maialino:'🐷',maialina:'🐷',pig:'🐷',tartaruga:'🐢',carote:'🥕',carota:'🥕',pulcino:'🐥',riccio:'🦔',nido:'🪺',serpente:'🐍',gufo:'🦉',mare:'🌊',mosca:'🪰',coccodrillo:'🐊',capra:'🐐',sasso:'🪨',sassi:'🪨',margherita:'🌼',rosa_fiore:'🌹',cuore:'❤️',gelato:'🍦','ice cream':'🍦',treno:'🚂',macchina:'🚗',car:'🚗',fiori:'🌸',fiore:'🌸',flower:'🌸',re:'🤴',chitarra:'🎸',tamburo:'🥁',torta:'🎂',cake:'🎂','babbo natale':'🎅',befana:'🧹',cuoco:'👨‍🍳',dottore:'🧑‍⚕️',papera:'🦆',paperelle:'🦆',duck:'🦆',anatra:'🦆',papero:'🦆',frog:'🐸',rana:'🐸',sun:'☀️',moon:'🌙',ball:'⚽',palla:'⚽',bed:'🛏️',house:'🏠',water:'💧',acqua:'💧',bread:'🍞',rain:'🌧️',milk:'🥛',book:'📖',tree:'🌳',albero:'🌳',eye:'👁️',egg:'🥚',uovo:'🥚',mouth:'👄',hand:'✋',mano:'✋',head:'🙂',testa:'🙂',cheese:'🧀',formaggio:'🧀',chair:'🪑',window:'🪟',door:'🚪',clock:'⏰',cloud:'☁️',rainbow:'🌈',snow:'❄️',neve:'❄️',polpo:'🐙',ragno:'🕷️',ragnetto:'🕷️',canguro:'🦘',cigno:'🦢',scimmia:'🐒',monkey:'🐒',scoiattolo:'🐿️',tigre:'🐯',tiger:'🐯',volpe:'🦊','volpe rossa':'🦊',fox:'🦊',fennec:'🦊',panda:'🐼',lucertola:'🦎',camaleonte:'🦎',ape:'🐝',bradipo:'🦥',ghepardo:'🐆',leopardo:'🐆',erba:'🌿',pellicano:'🐦',criceto:'🐹',foca:'🦭',medusa:'🪼',balena:'🐋',pianta:'🪴',tulipano:'🌷',girasole:'🌻',cavalletta:'🦗',procione:'🦝',armadillo:'🦔',renne:'🦌',cerbiatto:'🦌',caffè:'☕',aranciata:'🥤',arancio:'🍊',pino:'🌲',quercia:'🌳',cubo:'🧊',fuoco:'🔥','tè bollente':'🍵',orsacchiotto:'🧸',tavolo:'🪑',coccinella:'🐞',piuma:'🪶',foglia:'🍃',sabbia:'🏜️',aereo:'✈️',bicicletta:'🚲',banana:'🍌',carrozza:'🎃',ghiaccio:'🧊',monete:'🪙',stivali:'👢',occhiali:'👓',casco:'⛑️',principe:'🤴',nano:'🧔',pisello:'🫛',caramelle:'🍬',candy:'🍬',mappa:'🗺️',campane:'🔔',notte:'🌙',scuola:'🏫',biscotti:'🍪',flauto:'🪈',strega:'🧙‍♀️',orco:'👹',fata:'🧚',corona:'👑',scarpetta:'👠',scala:'🪜',corda:'🪢',fungo:'🍄',gamba:'🦵',leg:'🦵',fiammiferi:'🔥',bambino:'👦',soldato:'💂',grano:'🌾',giostra:'🎠',mulino:'🌬️',troll:'👹',unicorno:'🦄',dinosauro:'🦖',asino:'🫏',donkey:'🫏',robot:'🤖',money:'💰',ear:'👂',nose:'👃',hat:'🎩',shoe:'👟',shirt:'👕',sock:'🧦',mother:'👩',mum:'👩',father:'👨',dad:'👨',grandma:'👵',grandpa:'👴',friend:'🧑‍🤝‍🧑',family:'👨‍👩‍👧',cherry:'🍒',table:'🪑',tea:'🍵',wind:'🌬️',bow:'🎀',happy:'😀',sad:'😢',angry:'😠',juice:'🧃',box:'📦',sister:'👧',brother:'👦',gioia:'😀',tristezza:'😢',rabbia:'😠',bau:'🐶',abbaia:'🐶',miao:'🐱',miagola:'🐱',muuu:'🐮',oink:'🐷','oink oink':'🐷','cra cra':'🐸','qua qua':'🦆',quack:'🦆',beee:'🐑',meee:'🐐',chicchirichì:'🐓','pio pio':'🐥','cip cip':'🐦',coccodè:'🐔',ruggisce:'🦁',grrr:'🐯',auuu:'🐺',bzzz:'🐝','ih-oh':'🫏',iiih:'🐴','uh uh':'🦉','glu glu':'🦃','tru tru':'🕊️',cuccurucù:'🕊️',pruuu:'🐴',hello:'👋',goodbye:'👋',buongiorno:'🌅','good morning':'🌅','good night':'🌙','thank you':'🙏',please:'🙏',sorry:'😔',yes:'👍',no:'👎',cerchio:'⚪',triangolo:'🔺','a triangolo':'🔺',quadrato:'🟥',quadrata:'🟥',rotonda:'⚪',rettangolare:'▬',ovale:'🥚','a stella':'⭐','a cuore':'❤️','a rombo':'🔷',dorme:'😴','a dormire':'😴',si_dorme:'😴',nuota:'🏊','a volare':'🕊️','a mangiare':'🍽️',canta:'🎤',balla:'💃',soffia:'🌬️'};
+function picKey(a){return a.toLowerCase().replace(/[’']/g,"'").replace(/^(l'|un'|nell'|sull'|il|lo|la|i|gli|le|uno|una|un|dei|delle|degli|di|del|della|nel|nella|nei|sulla|al|alla)\s+|^(l'|un'|nell'|sull')/,'').replace(/[!.,]/g,'').trim();}
+function picFor(a){
+  var t=a.trim(),k=picKey(t);
+  if(/^\d{1,2}$/.test(t)){var n=+t;return '<span class="big">'+t+'</span>'+(n>0&&n<=10?'<span class="dots">'+'●'.repeat(n)+'</span>':'');}
+  if(/^[A-Z]$/.test(t))return '<span class="big">'+t+'</span>';
+  var EN={one:1,two:2,three:3,four:4,five:5,six:6,seven:7,eight:8,nine:9,ten:10};if(EN[k])return '<span class="dots" style="font-size:.6em">'+'●'.repeat(EN[k])+'</span>';
+  if(COLS[k])return '<span class="sw" style="background:'+COLS[k]+'"></span>';
+  var two=k.match(/^(\S+) e (\S+)$/);
+  if(two&&COLS[two[1]]&&COLS[two[2]])return '<span class="sw" style="background:linear-gradient(90deg,'+COLS[two[1]]+' 50%,'+COLS[two[2]]+' 50%)"></span>';
+  if(k==='rosa'&&/fiore/.test(a))k='rosa_fiore';
+  if(PICS[k])return PICS[k];
+  var w=k.split(' ');for(var i=w.length-1;i>=0;i--){if(PICS[w[i]])return PICS[w[i]];}
+  return '';
+}
+function qPic(q){var m=q.match(/((?:\p{Extended_Pictographic}|️|‍|[\u{1F3FB}-\u{1F3FF}]|\d️?⃣)+)\s*$/u);return m?m[1]:'';}
+function qNoPic(q){var p=qPic(q);return p?q.slice(0,q.length-p.length).trim():q;}
+
+// ── DADO 3D CHE ROTOLA SUL TAVOLO ──────────────────────────────────────────
+// Rimbalza e rotola per ~2,8 s; alla fine traballa su uno spigolo prima di
+// fermarsi. Ogni impatto fa il suo "toc" sul tavolo.
+var FACEROT={1:[0,0],2:[90,0],3:[0,-90],4:[0,90],5:[-90,0],6:[0,180]};
+function faceHTML(n){var on=PIPS[n],h='<div class="f f'+n+'">';for(var i=0;i<9;i++)h+='<i'+(on.indexOf(i)>=0?' class="on"':'')+'></i>';return h+'</div>';}
+function rollDice(who,cb){
+  var n=1+Math.floor(Math.random()*6);
+  var ov=document.createElement('div');ov.className='dov';
+  var faces=[[1,'rotateY(0deg)'],[6,'rotateY(180deg)'],[3,'rotateY(90deg)'],[4,'rotateY(-90deg)'],[5,'rotateX(90deg)'],[2,'rotateX(-90deg)']];
+  ov.innerHTML='<div class="dt">'+esc(who)+' tira il dado…</div><div class="table"><div class="dshadow" id="dsh"></div><div class="die3" id="d3">'+
+    faces.map(function(x){return faceHTML(x[0]).replace('class="f','style="transform:'+x[1]+' translateZ(calc(var(--ds)/2))" class="f');}).join('')+'</div></div><div class="dres" id="dres"></div>';
+  document.body.appendChild(ov);
+  var d3=ov.querySelector('#d3'),sh=ov.querySelector('#dsh'),tb=ov.querySelector('.table');
+  var W=tb.clientWidth,H=tb.clientHeight,fr=FACEROT[n];
+  var kx=(2+Math.floor(Math.random()*2))*360*(Math.random()<.5?-1:1),ky=(2+Math.floor(Math.random()*2))*360,kz=(1+Math.floor(Math.random()*2))*360;
+  var T=2800,t0=null,lastS=1,startX=-W*.38,teeter=(Math.random()<.5?1:-1)*(22+Math.random()*14);
+  function frame(now){
+    if(t0===null)t0=now;
+    var t=Math.min(1,(now-t0)/T),e=1-Math.pow(1-t,3);
+    var rx=fr[0]+kx*(1-e),ry=fr[1]+ky*(1-e),rz=kz*(1-e);
+    var u=Math.max(0,(t-.72)/.28),tilt=u>0?teeter*Math.pow(1-u,1.4)*Math.sin(u*Math.PI*2.4):0;
+    var x=startX*(1-e)+(Math.random()-.5)*2*(1-t),
+        bs=Math.sin(Math.min(t,.72)/.72*Math.PI*4.5),y=Math.abs(bs)*H*.32*Math.pow(1-Math.min(t,.72)/.72,1.8);
+    if(t<.74&&bs*lastS<0)thud(0,.5*(1-t)+.12);
+    lastS=bs;
+    d3.style.transform='translate3d('+x+'px,'+(-y)+'px,0) rotateX('+(rx+tilt)+'deg) rotateY('+ry+'deg) rotateZ('+rz+'deg)';
+    var sc=1-Math.min(.5,y/(H*.6));sh.style.transform='translate('+x+'px,'+(H*.16)+'px) scale('+sc+')';sh.style.opacity=.35+.4*sc;
+    if(t<1){requestAnimationFrame(frame);return;}
+    thud(0,.25);
+    ov.querySelector('#dres').textContent='Hai fatto '+n+'!';
+    setTimeout(function(){ov.remove();cb(n);},1200);
+  }
+  requestAnimationFrame(frame);
 }
 
 // ── TURN: QUESTION ────────────────────────────────────────────────────────
@@ -643,7 +733,8 @@ function showQ(){
       else cls+=' dim';
     }
     var k=answered&&o.ok?'✓':answered&&i===c.chosen?'✗':'ABC'[i];
-    return '<button class="'+cls+'" data-i="'+i+'" data-key="'+(i+1)+'"'+(answered?' disabled':'')+'><span class="k">'+k+'</span><span>'+esc(o.t)+'</span></button>';
+    var pic=p.g==='p'?picFor(o.t):'';
+    return '<button class="'+cls+'" data-i="'+i+'" data-key="'+(i+1)+'"'+(answered?' disabled':'')+'><span class="k">'+k+'</span>'+(pic?'<span class="pic">'+pic+'</span>':'')+'<span>'+esc(o.t)+'</span></button>';
   }).join('');
 
   var feedbackHtml='';
@@ -652,7 +743,7 @@ function showQ(){
     var gotWedge=correct&&c.isWedge&&p.w.indexOf(cat.k)>=0&&c.newWedge;
     feedbackHtml=
       '<div class="res">'+(correct
-        ?'🎉 Esatto! +10 punti'+(gotWedge?'<br>Hai conquistato lo spicchio '+cat.e+'!':'')
+        ?'🎉 Esatto! +10 punti'+(gotWedge?'<br>Hai conquistato la laurea '+cat.e+'!':'')
         :(timedOut?'⏰ Tempo scaduto! Tocca al prossimo':'😅 Non è giusto… tocca al prossimo'))+'</div>'+
       '<div class="fact">💡 '+esc(data.fact)+'</div>'+
       '<button id="nxtBtn" class="wide cta" style="margin-top:14px">'+
@@ -666,10 +757,10 @@ function showQ(){
     '<div class="tools"><button class="sec" id="speakBtn">🔊 Leggi ad alta voce</button>'+sndBtn()+'<button class="sec bfs" title="Schermo intero (F)">⛶</button></div>'+
     '</div><div>'+
     '<div class="card qcard pop">'+
-      '<div class="qhead" style="background:'+cat.c+'"><span>'+esc(catLabel(cat,p.g))+'</span>'+(c.isWedge?'<span class="badge">⭐ Spicchio</span>':'')+'</div>'+
+      '<div class="qhead" style="background:'+cat.c+(cat.dark?';color:#1b2b40':'')+'"><span>'+esc(catLabel(cat,p.g))+'</span>'+(c.isWedge?'<span class="badge">🎓 Laurea</span>':'')+'</div>'+
       '<div class="qbody">'+
         '<div class="meta">'+p.av+' '+esc(p.n)+' · dado '+c.roll+'</div>'+
-        '<div class="qtext">'+esc(data.q)+'</div>'+
+        (p.g==='p'&&qPic(data.q)?'<div class="qpic">'+qPic(data.q)+'</div><div class="qtext">'+esc(qNoPic(data.q))+'</div>':'<div class="qtext">'+esc(data.q)+'</div>')+
         (limit&&!answered?'<div class="tmr" id="tmr"><span class="bar"><i id="tbar"></i></span><b id="tsec">'+limit+'</b></div>':'')+
         optsHtml+
         (answered?'':'<p class="kh">Rispondi con 1 2 3 (o A B C), oppure frecce + OK</p>')+
@@ -751,7 +842,7 @@ function end(winner){
     brand(true)+
     '<div class="card" style="text-align:center">'+
       '<h2 style="font-size:1.7rem;margin:0">🏆 Classifica</h2>'+
-      (winner?'<p style="font-weight:800;margin-top:6px">'+winner.av+' '+esc(winner.n)+' ha conquistato tutti gli spicchi!</p>':'')+
+      (winner?'<p style="font-weight:800;margin-top:6px">'+winner.av+' '+esc(winner.n)+' ha conquistato tutte le lauree!</p>':'')+
     '</div>'+
     '<div class="cols"><div>'+
     '<div class="card">'+
