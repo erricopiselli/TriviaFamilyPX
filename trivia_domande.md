@@ -1,9 +1,9 @@
 # Trivia di famiglia — elenco domande
 
-Totale: 3167 domande
+Totale: 3247 domande
 
 
-## Piccoli (3-5) — 509 domande
+## Piccoli (3-5) — 525 domande
 
 
 ### Animali
@@ -272,7 +272,7 @@ Totale: 3167 domande
    ✅ Il cane | ❌ Il leone | ❌ La balena
    💡 Il cane è il migliore amico dell’uomo.
 
-67. **Cosa nasce da un seme che pianti nella terra? 🌱**
+67. **Cosa cresce se metti un seme nella terra e lo annaffi? 🌱**
    ✅ Una pianta | ❌ Un sasso | ❌ Un gattino
    💡 Con acqua e sole il seme cresce.
 
@@ -352,6 +352,14 @@ Totale: 3167 domande
    ✅ L’orso | ❌ Il pesce | ❌ La gallina
    💡 Per il miele sfida anche le api!
 
+87. **Quale animale dorme di giorno e vola di notte? 🌙**
+   ✅ Il pipistrello | ❌ La gallina | ❌ Il cane
+   💡 I pipistrelli trovano la strada al buio ascoltando l’eco dei loro squittii.
+
+88. **Cosa diventa il bruco quando cresce? 🐛**
+   ✅ Una farfalla | ❌ Un serpente | ❌ Un uccellino
+   💡 Il bruco si chiude in un bozzolo e ne esce trasformato: si chiama metamorfosi.
+
 
 ### Colori & Forme
 
@@ -423,9 +431,9 @@ Totale: 3167 domande
    ✅ Verde | ❌ Rosa | ❌ Arancione
    💡 Il verde la aiuta a nascondersi tra le foglie.
 
-18. **Di che colore è l’arancia? 🍊**
-   ✅ Arancione | ❌ Blu | ❌ Nera
-   💡 Il colore arancione prende il nome proprio da questo frutto!
+18. **Di che colore è il mandarino? 🍊**
+   ✅ Arancione | ❌ Blu | ❌ Nero
+   💡 Il mandarino è più piccolo e più dolce dell’arancia, e si sbuccia con le mani.
 
 19. **Di che colore è il semaforo quando bisogna fermarsi? 🚦**
    ✅ Rosso | ❌ Verde | ❌ Blu
@@ -535,7 +543,7 @@ Totale: 3167 domande
    ✅ Rossa | ❌ Blu | ❌ Gialla
    💡 Fuori invece è verde.
 
-46. **Di che colore è il gelato alla fragola? 🍓**
+46. **Di che colore è il gelato alla fragola? 🍨**
    ✅ Rosa | ❌ Verde | ❌ Nero
    💡 Quello al cioccolato è marrone.
 
@@ -571,7 +579,7 @@ Totale: 3167 domande
    ✅ Un sasso grande | ❌ Una piuma | ❌ Una foglia
    💡 La piuma è leggerissima.
 
-55. **Di che colore è il gelato al pistacchio? 🍦**
+55. **Di che colore è il gelato al pistacchio?**
    ✅ Verde | ❌ Rosa | ❌ Blu
    💡 Il pistacchio è un frutto secco.
 
@@ -583,11 +591,11 @@ Totale: 3167 domande
    ✅ Verde | ❌ Rosso | ❌ Giallo
    💡 Il broccolo sembra un piccolo albero.
 
-58. **Di che colore sono i fiori di lavanda? 💜**
+58. **Di che colore sono i fiori di lavanda?**
    ✅ Viola | ❌ Arancioni | ❌ Verdi
    💡 La lavanda ha un profumo buonissimo.
 
-59. **Di che colore disegniamo il cuore? ❤️**
+59. **Di che colore disegniamo il cuore? ✏️**
    ✅ Rosso | ❌ Verde | ❌ Marrone
    💡 Il cuore rosso vuol dire «ti voglio bene».
 
@@ -682,6 +690,18 @@ Totale: 3167 domande
 82. **Che forma ha una moneta? 🪙**
    ✅ Rotonda | ❌ Quadrata | ❌ A triangolo
    💡 Le monete rotolano!
+
+83. **Di che colore è il fenicottero? 🦩**
+   ✅ Rosa | ❌ Blu | ❌ Verde
+   💡 I fenicotteri diventano rosa grazie ai piccoli gamberetti che mangiano.
+
+84. **Che forma ha la fetta di formaggio con i buchi? 🧀**
+   ✅ Un triangolo | ❌ Un cerchio | ❌ Una stella
+   💡 Il formaggio con i buchi si chiama Emmental: i buchi li fanno le bollicine d’aria.
+
+85. **Di che colore è il cetriolo? 🥒**
+   ✅ Verde | ❌ Rosso | ❌ Giallo
+   💡 Il cetriolo è fatto quasi tutto d’acqua: è fresco e croccante.
 
 
 ### Numeri & Lettere
@@ -1030,6 +1050,18 @@ Totale: 3167 domande
    ✅ M | ❌ N | ❌ L
    💡 Me-la: la prima lettera è la M.
 
+87. **Quante ruote ha il triciclo?**
+   ✅ 3 | ❌ 2 | ❌ 4
+   💡 Tri vuol dire tre: il triciclo ha tre ruote e non si ribalta.
+
+88. **Con quale lettera comincia «Torta»? 🎂**
+   ✅ T | ❌ D | ❌ R
+   💡 T come Torta, Treno e Topo.
+
+89. **Quante zampe hanno in tutto due galline? 🐔🐔**
+   ✅ 4 | ❌ 2 | ❌ 6
+   💡 Ogni gallina ha 2 zampe: 2 + 2 fa 4.
+
 
 ### Canzoncine & Fiabe
 
@@ -1145,19 +1177,19 @@ Totale: 3167 domande
    ✅ La ninna nanna | ❌ L’inno nazionale | ❌ Il rock
    💡 Le ninne nanne sono dolci e lente.
 
-29. **Quale canzoncina parla degli animali di una fattoria? 🐄**
+29. **In quale canzoncina c’è un vecchio signore con tanti animali che fanno «ia ia o»? 🐄**
    ✅ Nella vecchia fattoria | ❌ Fra Martino | ❌ Tanti auguri a te
    💡 Ogni animale fa il suo verso!
 
-30. **Di quale animale si parla nella canzone «Il coccodrillo come fa»? 🐊**
-   ✅ Il coccodrillo | ❌ Il leone | ❌ La gallina
+30. **Quale canzone chiede come fa un animale che vive nel fiume e ha tanti denti? 🐊**
+   ✅ Il coccodrillo come fa | ❌ Il pulcino Pio | ❌ Volevo un gatto nero
    💡 È una famosa canzone dello Zecchino d’Oro.
 
 31. **Come si chiama la gara di canzoni cantate dai bambini in TV? 🎤**
    ✅ Lo Zecchino d’Oro | ❌ Il Giro d’Italia | ❌ La Coppa del Mondo
    💡 Si tiene ogni anno a Bologna.
 
-32. **Nella canzone «Il pulcino Pio», chi è Pio? 🐥**
+32. **Quale animaletto fa «pio pio» nella canzone famosa alla radio? 🐥**
    ✅ Un pulcino | ❌ Un cane | ❌ Un gatto
    💡 Nella canzone ci sono tanti animali della fattoria.
 
@@ -1181,8 +1213,8 @@ Totale: 3167 domande
    ✅ I fazzoletti | ❌ I piatti | ❌ La macchina
    💡 È un gioco cantato in cerchio.
 
-38. **Chi balla nella canzone «Il valzer del moscerino»? 🪰**
-   ✅ Un moscerino | ❌ Un elefante | ❌ Un pinguino
+38. **Quale insetto balla il valzer nella canzoncina dello Zecchino d’Oro? 🪰**
+   ✅ Un moscerino | ❌ Un’ape | ❌ Una farfalla
    💡 Il valzer è un ballo che gira gira.
 
 39. **Che animale è Whisky, nella canzoncina? 🕷️**
@@ -1201,7 +1233,7 @@ Totale: 3167 domande
    ✅ Con la voce | ❌ Con i piedi | ❌ Con le orecchie
    💡 Con le orecchie invece ascoltiamo.
 
-43. **Di che colore sono i capelli della Fata di Pinocchio? 🧚**
+43. **Di che colore sono i capelli della Fata di Pinocchio?**
    ✅ Turchini | ❌ Rossi | ❌ Biondi
    💡 Turchino è un colore azzurro.
 
@@ -1221,7 +1253,7 @@ Totale: 3167 domande
    ✅ 2 | ❌ 3 | ❌ 7
    💡 Sono gelose e dispettose.
 
-48. **Quale bambina, piccola come un pollice, nasce da un fiore? 🌷**
+48. **Quale bambina, alta quanto un dito, nasce da un fiore? 🌷**
    ✅ Pollicina | ❌ Biancaneve | ❌ Rapunzel
    💡 Dorme in un guscio di noce.
 
@@ -1241,7 +1273,7 @@ Totale: 3167 domande
    ✅ Jingle Bells | ❌ Tanti auguri a te | ❌ Fra Martino
    💡 È una canzone americana di tanto tempo fa.
 
-53. **Chi porta i regali la notte di Natale? 🎅**
+53. **Chi porta i regali la notte del 24 dicembre? 🎅**
    ✅ Babbo Natale | ❌ Il lupo | ❌ La Befana
    💡 Arriva con la slitta e le renne.
 
@@ -1269,7 +1301,7 @@ Totale: 3167 domande
    ✅ Una palla d’oro | ❌ Una corona | ❌ Una scarpetta
    💡 Era caduta nel pozzo.
 
-60. **Chi suona il piffero e si fa seguire dai topi? 🎶**
+60. **Chi suona e si fa seguire da tutti i topi della città, nella fiaba? 🎶**
    ✅ Il pifferaio magico | ❌ Il lupo | ❌ Il gatto
    💡 La fiaba si svolge in una città tedesca.
 
@@ -1309,7 +1341,7 @@ Totale: 3167 domande
    ✅ Una gamba | ❌ Una mano | ❌ La testa
    💡 Ma sta sempre dritto e coraggioso!
 
-70. **Cosa vende la piccola fiammiferaia? 🔥**
+70. **Cosa vende la bambina povera nella neve, nella fiaba di Andersen? 🔥**
    ✅ Fiammiferi | ❌ Fiori | ❌ Caramelle
    💡 È una fiaba di Andersen.
 
@@ -1321,7 +1353,7 @@ Totale: 3167 domande
    ✅ Il grano | ❌ Le carote | ❌ I fiori
    💡 Con il grano poi fa il pane.
 
-73. **Nella favola, dove preferisce vivere il topo di campagna? 🐭**
+73. **Nella favola, il topolino che va a trovare il cugino in città, dove decide di tornare? 🐭**
    ✅ In campagna | ❌ In città | ❌ Al mare
    💡 In città c’erano troppi pericoli!
 
@@ -1341,7 +1373,7 @@ Totale: 3167 domande
    ✅ Le ruote dell’autobus | ❌ Una giostra | ❌ Un mulino
    💡 «Wheels» in inglese vuol dire ruote.
 
-78. **Di che colore è la pecorella della canzoncina «Baa Baa Black Sheep»? 🐑**
+78. **Di che colore è la pecorella della canzoncina «Baa Baa Black Sheep»? 🎵**
    ✅ Nera | ❌ Bianca | ❌ Rosa
    💡 «Black» in inglese vuol dire nero.
 
@@ -1360,6 +1392,18 @@ Totale: 3167 domande
 82. **Quante ciotole di pappa trova Riccioli d’Oro? 🥣**
    ✅ 3 | ❌ 2 | ❌ 5
    💡 Una troppo calda, una troppo fredda e una giusta!
+
+83. **Chi aiuta Cenerentola ad andare al ballo? 🪄**
+   ✅ La Fata Madrina | ❌ La Befana | ❌ Il lupo
+   💡 Con la bacchetta magica trasforma una zucca in carrozza.
+
+84. **Cosa perde Cenerentola sulla scala del castello? 👠**
+   ✅ Una scarpetta | ❌ Un cappello | ❌ Una collana
+   💡 Il principe la cerca in tutto il regno provando la scarpetta.
+
+85. **Chi costruisce il burattino Pinocchio? 🪵**
+   ✅ Geppetto | ❌ Mangiafuoco | ❌ Il Gatto
+   💡 Geppetto ricava Pinocchio da un pezzo di legno che parlava.
 
 
 ### Cartoni
@@ -1404,7 +1448,7 @@ Totale: 3167 domande
    ✅ Un cerbiatto | ❌ Un coniglio | ❌ Un cagnolino
    💡 Il suo amico coniglio si chiama Tamburino.
 
-11. **Di che colore sono i Puffi? 🍄**
+11. **Di che colore sono i Puffi?**
    ✅ Blu | ❌ Rossi | ❌ Verdi
    💡 Vivono in un villaggio con le case a forma di fungo.
 
@@ -1416,7 +1460,7 @@ Totale: 3167 domande
    ✅ Bluey | ❌ Pluto | ❌ Peppa
    💡 Bluey gioca sempre con la sorellina Bingo.
 
-14. **Di che colore è il vestito di Peppa Pig? 👗**
+14. **Di che colore è il vestito di Peppa Pig? 🐷**
    ✅ Rosso | ❌ Blu | ❌ Verde
    💡 Il vestito di George invece è blu.
 
@@ -1444,7 +1488,7 @@ Totale: 3167 domande
    ✅ Zuma | ❌ Rubble | ❌ Chase
    💡 Zuma ha l’hovercraft.
 
-21. **Di che colore sono i pois della Pimpa? 🔴**
+21. **Di che colore sono i pois della Pimpa? 🐶**
    ✅ Rossi | ❌ Blu | ❌ Verdi
    💡 La Pimpa è una cagnolina bianca.
 
@@ -1452,7 +1496,7 @@ Totale: 3167 domande
    ✅ Minni | ❌ Paperina | ❌ Clarabella
    💡 Minni ha un grande fiocco in testa.
 
-23. **Di che colore sono i pantaloncini di Topolino? 🩳**
+23. **Di che colore sono i pantaloncini di Topolino? 🐭**
    ✅ Rossi | ❌ Verdi | ❌ Gialli
    💡 Con due grandi bottoni bianchi.
 
@@ -1484,7 +1528,7 @@ Totale: 3167 domande
    ✅ Un dinosauro | ❌ Un cane | ❌ Un cavallo
    💡 Rex è un dinosauro molto timido.
 
-31. **Di che colore è il vestito di Pocoyo? 💙**
+31. **Di che colore è il vestito di Pocoyo?**
    ✅ Blu | ❌ Rosso | ❌ Giallo
    💡 Pocoyo è un bambino curiosissimo.
 
@@ -1496,11 +1540,11 @@ Totale: 3167 domande
    ✅ Un pinguino | ❌ Un orso | ❌ Un gatto
    💡 Pingu vive tra i ghiacci.
 
-34. **Di che colore è Po, il più piccolo dei Teletubbies? 🔴**
+34. **Di che colore è Po, il più piccolo dei Teletubbies? 📺**
    ✅ Rosso | ❌ Viola | ❌ Giallo
    💡 Tinky Winky è viola e Laa-Laa è gialla.
 
-35. **Di che colore è Barbapapà? 🩷**
+35. **Di che colore è Barbapapà?**
    ✅ Rosa | ❌ Blu | ❌ Verde
    💡 Barbapapà può cambiare forma!
 
@@ -1532,7 +1576,7 @@ Totale: 3167 domande
    ✅ Un cane | ❌ Un gatto | ❌ Un coniglio
    💡 Il papà di Danny è stato capitano di mare.
 
-43. **Come si chiama il dinosauro di peluche di George? 🦕**
+43. **Come si chiama il peluche preferito di George, il fratellino di Peppa? 🦕**
    ✅ Signor Dinosauro | ❌ Rex | ❌ Dino
    💡 George lo porta sempre con sé.
 
@@ -1564,17 +1608,17 @@ Totale: 3167 domande
    ✅ Un coniglietto | ❌ Un orsetto | ❌ Un gattino
    💡 Bing gioca con il suo amico Flop.
 
-51. **Di che colore è Elmo? ❤️**
+51. **Di che colore è Elmo?**
    ✅ Rosso | ❌ Blu | ❌ Giallo
    💡 Elmo vive in Sesame Street.
 
-52. **Di che colore è il Grinch? 💚**
+52. **Di che colore è il Grinch? 🎄**
    ✅ Verde | ❌ Rosa | ❌ Arancione
    💡 All’inizio il Grinch odia il Natale.
 
-53. **Di che colore è la Pantera Rosa? 🐆**
-   ✅ Rosa | ❌ Verde | ❌ Nera
-   💡 La Pantera Rosa non parla mai.
+53. **Di che colore è il naso di Rudolph, la renna di Babbo Natale? 🦌**
+   ✅ Rosso | ❌ Blu | ❌ Verde
+   💡 Rudolph, con il suo naso rosso luminoso, guida la slitta nelle notti di nebbia.
 
 54. **Che animale è Pandy, l’amico di Gabby? 🐱**
    ✅ Un gatto di peluche | ❌ Un cane | ❌ Un orsetto
@@ -1632,11 +1676,11 @@ Totale: 3167 domande
    ✅ JJ | ❌ Bob | ❌ Leo
    💡 JJ canta tante canzoncine con la sua famiglia.
 
-68. **Di che colore sono le scarpe di Topolino? 👞**
+68. **Di che colore sono le scarpe di Topolino? 🐭**
    ✅ Gialle | ❌ Rosse | ❌ Blu
    💡 E i guanti sono bianchi!
 
-69. **Di che colore è Stitch? 💙**
+69. **Di che colore è Stitch? 👽**
    ✅ Blu | ❌ Verde | ❌ Rosso
    💡 Stitch ha le orecchie grandi grandi.
 
@@ -1680,7 +1724,7 @@ Totale: 3167 domande
    ✅ Pinga | ❌ Pingo | ❌ Pina
    💡 Pingu le vuole tanto bene.
 
-80. **Di che colore è il vestito di ghiaccio di Elsa? 👗**
+80. **Di che colore è il vestito di ghiaccio di Elsa? ❄️**
    ✅ Azzurro | ❌ Rosso | ❌ Verde
    💡 Brilla come il ghiaccio!
 
@@ -1708,11 +1752,11 @@ Totale: 3167 domande
    ✅ Un unicorno | ❌ Un orsetto | ❌ Un coniglio
    💡 È morbidissimo!
 
-87. **Di che colore sono i Minions? 🍌**
+87. **Di che colore sono i Minions?**
    ✅ Gialli | ❌ Blu | ❌ Verdi
    💡 Indossano una salopette blu.
 
-88. **Di che colore è Clifford, il grande cane? 🐕**
+88. **Di che colore è Clifford, il grande cane? 🐾**
    ✅ Rosso | ❌ Blu | ❌ Verde
    💡 Clifford è grande come una casa!
 
@@ -1724,9 +1768,21 @@ Totale: 3167 domande
    ✅ Chickaletta | ❌ Hei Hei | ❌ Gallina Bianca
    💡 La sindaca la porta sempre nella borsa.
 
-91. **Di che colore è Yoshi? 🦖**
+91. **Di che colore è Yoshi? 🎮**
    ✅ Verde | ❌ Rosso | ❌ Viola
    💡 Yoshi aiuta Mario nelle avventure.
+
+92. **Che animale è Simba? 🦁**
+   ✅ Un leoncino | ❌ Un gattino | ❌ Un cagnolino
+   💡 Simba da grande diventa il re della savana.
+
+93. **Che animale è Dory, l’amica smemorata di Nemo? 🐟**
+   ✅ Un pesce | ❌ Una tartaruga | ❌ Un granchio
+   💡 Dory è un pesce chirurgo blu e giallo.
+
+94. **Che animale è Sven, l’amico di Kristoff in «Frozen»? 🦌**
+   ✅ Una renna | ❌ Un cavallo | ❌ Un cane
+   💡 Sven tira la slitta di Kristoff ed è golosissimo di carote.
 
 
 ### Parole in inglese
@@ -2059,58 +2115,66 @@ Totale: 3167 domande
    ✅ Happy | ❌ Sad | ❌ Angry
    💡 «Sad» vuol dire triste.
 
+83. **Come si dice «barca» in inglese? ⛵**
+   ✅ Boat | ❌ Goat | ❌ Coat
+   💡 Attenzione: «goat» è la capra e «coat» il cappotto!
 
-## Bambini (6-11) — 897 domande
+84. **Come si dice «piede» in inglese? 🦶**
+   ✅ Foot | ❌ Food | ❌ Hand
+   💡 Un piede è «foot», due piedi sono «feet».
+
+
+## Bambini (6-11) — 919 domande
 
 
 ### Animali & Natura
 
-1. **Da cosa nasce una farfalla? 🦋**
-   ✅ Da un bruco | ❌ Da un uccellino | ❌ Da un pesce
+1. **Da cosa nasce una farfalla?**
+   ✅ Da un bruco | ❌ Da un girino | ❌ Da un lombrico
    💡 Il bruco si chiude in una crisalide e poi diventa farfalla!
 
-2. **Cosa hanno gli alberi che in autunno si colorano? 🍂**
-   ✅ Le foglie | ❌ Le pinne | ❌ Le piume
-   💡 In autunno diventano gialle, rosse e arancioni, poi cadono.
+2. **Perché in autunno le foglie diventano gialle e rosse?**
+   ✅ Perché smettono di produrre la clorofilla verde | ❌ Perché fa troppo caldo | ❌ Perché le colorano gli insetti
+   💡 Senza la clorofilla, che è verde, si vedono gli altri colori gialli e arancioni che c’erano già nelle foglie.
 
-3. **Come si chiama il piccolo della mucca? 🐮**
-   ✅ Vitello | ❌ Agnello | ❌ Pulcino
+3. **Come si chiama il piccolo della mucca?**
+   ✅ Vitello | ❌ Puledro | ❌ Capretto
    💡 Il piccolo della pecora si chiama agnello.
 
-4. **Quale animale vive nell’acqua e respira con le branchie? 🐟**
-   ✅ Il pesce | ❌ Il gatto | ❌ L’uccello
+4. **Quale animale vive nell’acqua e respira con le branchie?**
+   ✅ Il pesce | ❌ Il delfino | ❌ La balena
    💡 Le branchie servono per respirare sott’acqua.
 
-5. **Quale fiore gira verso il sole? 🌻**
+5. **Quale fiore gira verso il sole?**
    ✅ Il girasole | ❌ La rosa | ❌ La margherita
    💡 I semi del girasole si possono mangiare.
 
-6. **Cosa serve alle piante per crescere? 🌱**
-   ✅ Acqua e luce | ❌ Solo caramelle | ❌ Solo buio
+6. **Cosa serve alle piante per crescere?**
+   ✅ Acqua e luce | ❌ Solo acqua, anche al buio | ❌ Solo terra, senza acqua
    💡 Le radici bevono l’acqua dal terreno.
 
-7. **Quale animale del deserto ha la gobba? 🐪**
-   ✅ Il cammello | ❌ Il pinguino | ❌ Il delfino
+7. **Quale animale del deserto ha la gobba?**
+   ✅ Il cammello | ❌ Il lama | ❌ Il cavallo
    💡 Nelle gobbe tiene riserve di grasso, non di acqua!
 
-8. **Qual è il più grande animale del mare? 🐋**
-   ✅ La balena | ❌ Il pesciolino | ❌ Il granchio
+8. **Qual è il più grande animale del mare?**
+   ✅ La balena | ❌ Lo squalo bianco | ❌ La piovra gigante
    💡 Le balene sono mammiferi: respirano aria.
 
-9. **Quale insetto fa luce di notte? ✨**
-   ✅ La lucciola | ❌ La formica | ❌ La mosca
+9. **Quale insetto fa luce di notte?**
+   ✅ La lucciola | ❌ La cicala | ❌ La falena
    💡 Le lucciole accendono il loro corpo per farsi vedere.
 
-10. **Quale animale dorme tutto l’inverno nella tana? 🐻**
-   ✅ L’orso | ❌ Il gatto | ❌ Il pesce
+10. **Quale animale dorme tutto l’inverno nella tana?**
+   ✅ L’orso | ❌ Il lupo | ❌ La volpe
    💡 Questo lungo sonno si chiama letargo.
 
-11. **Come si chiama la casa delle api? 🐝**
+11. **Come si chiama la casa delle api?**
    ✅ Alveare | ❌ Nido | ❌ Tana
    💡 Dentro un alveare vivono migliaia di api.
 
 12. **Come si chiama il piccolo del leone?**
-   ✅ Il cucciolo | ❌ Il vitello | ❌ Il pulcino
+   ✅ Il cucciolo | ❌ Il puledro | ❌ Il cerbiatto
    💡 Tutti i piccoli dei felini si chiamano cuccioli.
 
 13. **Quale uccello ha la coda a ventaglio coloratissima?**
@@ -2130,7 +2194,7 @@ Totale: 3167 domande
    💡 La diga del castoro può essere lunga decine di metri.
 
 17. **Quale animale ha la lingua lunghissima per mangiare?**
-   ✅ Il camaleonte | ❌ Il cane | ❌ Il gatto
+   ✅ Il camaleonte | ❌ La lucertola | ❌ Il geco
    💡 La sua lingua e lunga quasi quanto tutto il corpo.
 
 18. **Quante zampe ha un insetto?**
@@ -2165,55 +2229,55 @@ Totale: 3167 domande
    ✅ Anfibi | ❌ Rettili | ❌ Mammiferi
    💡 Le rane e le salamandre sono anfibi.
 
-26. **Di cosa si nutre il koala? 🐨**
-   ✅ Di foglie di eucalipto | ❌ Di pesci | ❌ Di formaggio
+26. **Di cosa si nutre il koala?**
+   ✅ Di foglie di eucalipto | ❌ Di bambù | ❌ Di ghiande
    💡 Il koala dorme fino a 20 ore al giorno.
 
-27. **Come si chiama il maschio della mucca? 🐂**
+27. **Come si chiama il maschio della mucca?**
    ✅ Il toro | ❌ Il montone | ❌ Il gallo
    💡 Il maschio della pecora invece è il montone.
 
-28. **Come si chiama la casa del cavallo? 🐴**
+28. **Come si chiama la casa del cavallo?**
    ✅ La stalla | ❌ Il pollaio | ❌ La tana
    💡 Nella stalla il cavallo mangia fieno e biada.
 
-29. **Come si chiama la casa delle galline? 🐔**
+29. **Come si chiama la casa delle galline?**
    ✅ Il pollaio | ❌ La stalla | ❌ L’alveare
    💡 Nel pollaio le galline fanno le uova.
 
-30. **Quale animale ha uno o due corni sul naso? 🦏**
+30. **Quale animale ha uno o due corni sul naso?**
    ✅ Il rinoceronte | ❌ L’ippopotamo | ❌ Il bufalo
    💡 Il corno del rinoceronte è fatto della stessa sostanza delle unghie.
 
-31. **Quale animale passa molte ore in acqua e il cui nome vuol dire «cavallo di fiume»? 🦛**
+31. **Quale animale passa molte ore in acqua e il cui nome vuol dire «cavallo di fiume»?**
    ✅ L’ippopotamo | ❌ Il coccodrillo | ❌ Il castoro
    💡 Ippopotamo in greco vuol dire proprio cavallo di fiume.
 
-32. **Quale uccello sa ripetere le parole? 🦜**
+32. **Quale uccello sa ripetere le parole?**
    ✅ Il pappagallo | ❌ Il passero | ❌ La gallina
    💡 Alcuni pappagalli imparano decine di parole.
 
-33. **Quale uccello notturno riesce a girare la testa quasi tutta intorno? 🦉**
+33. **Quale uccello notturno riesce a girare la testa quasi tutta intorno?**
    ✅ Il gufo | ❌ Il piccione | ❌ Il pinguino
    💡 Può ruotarla di circa 270 gradi.
 
-34. **Quale animale mangia le formiche con una lingua lunghissima? 🐜**
-   ✅ Il formichiere | ❌ Il cane | ❌ Il castoro
-   💡 La lingua del formichiere gigante è lunga circa 60 cm.
+34. **Quale animale mangia insetti con una lingua lunga fino a 60 centimetri?**
+   ✅ Il formichiere | ❌ Il riccio | ❌ Il tasso
+   💡 Il formichiere gigante può mangiare decine di migliaia di formiche e termiti in un giorno.
 
-35. **Quante zampe ha un ragno? 🕷️**
+35. **Quante zampe ha un ragno?**
    ✅ 8 | ❌ 6 | ❌ 10
    💡 Per questo il ragno non è un insetto.
 
-36. **Di cosa si nutrono le api? 🌼**
+36. **Di cosa si nutrono le api?**
    ✅ Del nettare dei fiori | ❌ Delle foglie | ❌ Degli insetti
    💡 Con il nettare producono il miele.
 
-37. **Quante gobbe ha il dromedario? 🐪**
+37. **Quante gobbe ha il dromedario?**
    ✅ 1 | ❌ 2 | ❌ 3
    💡 Il cammello invece ne ha due.
 
-38. **Quale animale perde le corna ogni anno e poi gli ricrescono? 🦌**
+38. **Quale animale perde le corna ogni anno e poi gli ricrescono?**
    ✅ Il cervo | ❌ La mucca | ❌ La capra
    💡 Le corna del cervo si chiamano palchi.
 
@@ -2221,51 +2285,51 @@ Totale: 3167 domande
    ✅ Raglia | ❌ Abbaia | ❌ Nitrisce
    💡 Il cavallo invece nitrisce.
 
-40. **Quale animale marino ha cinque braccia a forma di stella? ⭐**
+40. **Quale animale marino ha cinque braccia e, se ne perde una, la fa ricrescere?**
    ✅ La stella marina | ❌ La medusa | ❌ Il polpo
-   💡 Se perde un braccio, può farlo ricrescere.
+   💡 Le stelle marine possono rigenerare le braccia perse: alcune specie addirittura un corpo intero da un braccio solo!
 
-41. **Quale animale trasparente può pungere in mare? 🪼**
-   ✅ La medusa | ❌ Il granchio | ❌ Il delfino
+41. **Quale animale trasparente può pungere in mare?**
+   ✅ La medusa | ❌ Il polpo | ❌ Il calamaro
    💡 Le meduse sono fatte quasi tutte d’acqua.
 
-42. **Dove depongono le uova le tartarughe marine? 🐢**
-   ✅ Sulla spiaggia | ❌ Su un albero | ❌ In un fiume
+42. **Dove depongono le uova le tartarughe marine?**
+   ✅ Sulla spiaggia | ❌ Sugli scogli | ❌ In fondo al mare
    💡 Appena nati, i piccoli corrono verso il mare.
 
-43. **Da quale albero nascono le mele? 🍎**
+43. **Da quale albero nascono le mele?**
    ✅ Dal melo | ❌ Dal pero | ❌ Dall’ulivo
    💡 Il pero invece fa le pere.
 
-44. **Da quale pianta si raccolgono le olive? 🫒**
+44. **Da quale pianta si raccolgono le olive?**
    ✅ Dall’ulivo | ❌ Dal melo | ❌ Dalla vite
    💡 Dalle olive si fa l’olio.
 
-45. **Da quale pianta nasce l’uva? 🍇**
+45. **Da quale pianta nasce l’uva?**
    ✅ Dalla vite | ❌ Dal pino | ❌ Dalla quercia
    💡 La raccolta dell’uva si chiama vendemmia.
 
-46. **Come si chiamano gli animali che mangiano altri animali? 🥩**
+46. **Come si chiamano gli animali che mangiano altri animali?**
    ✅ Carnivori | ❌ Erbivori | ❌ Vegetariani
    💡 Il leone e il lupo sono carnivori.
 
-47. **Quale uccello della foresta tropicale ha un grande becco colorato? 🌴**
+47. **Quale uccello della foresta tropicale ha un grande becco colorato?**
    ✅ Il tucano | ❌ Il corvo | ❌ Il gabbiano
    💡 Il becco del tucano è grande ma leggerissimo.
 
-48. **In quale stagione sbocciano tanti fiori? 🌸**
+48. **In quale stagione sbocciano tanti fiori?**
    ✅ In primavera | ❌ In inverno | ❌ In autunno
    💡 La primavera comincia a marzo.
 
-49. **Quale insetto giallo e nero punge ma non fa il miele? 🐝**
+49. **Quale insetto giallo e nero punge ma non fa il miele?**
    ✅ La vespa | ❌ L’ape | ❌ La coccinella
    💡 Le api fanno il miele, le vespe no.
 
-50. **Quale animale dorme appeso a testa in giù? 🦇**
+50. **Quale animale dorme appeso a testa in giù?**
    ✅ Il pipistrello | ❌ Il gufo | ❌ Il gatto
    💡 Si aggrappa con le zampe posteriori.
 
-51. **Quale animale vive dentro una conchiglia vuota e la cambia quando cresce? 🐚**
+51. **Quale animale vive dentro una conchiglia vuota e la cambia quando cresce?**
    ✅ Il paguro | ❌ La medusa | ❌ Il delfino
    💡 Il paguro cerca una conchiglia più grande quando cresce.
 
@@ -2277,191 +2341,191 @@ Totale: 3167 domande
    ✅ Di krill | ❌ Di squali | ❌ Di alghe giganti
    💡 Il krill è fatto di minuscoli gamberetti.
 
-54. **Come si chiama un gruppo di lupi? 🐺**
+54. **Come si chiama un gruppo di lupi?**
    ✅ Il branco | ❌ Lo sciame | ❌ Lo stormo
    💡 Nel branco ognuno ha il suo ruolo.
 
-55. **Come si chiama un gruppo di api? 🐝**
+55. **Come si chiama un gruppo di api?**
    ✅ Lo sciame | ❌ Il branco | ❌ La mandria
    💡 Uno sciame può contare migliaia di api.
 
-56. **Come si chiama un gruppo di mucche? 🐄**
+56. **Come si chiama un gruppo di mucche?**
    ✅ La mandria | ❌ Lo stormo | ❌ Lo sciame
    💡 Un gruppo di uccelli invece è uno stormo.
 
-57. **Quale albero resta verde anche d’inverno? 🌲**
+57. **Quale albero resta verde anche d’inverno?**
    ✅ Il pino | ❌ La quercia | ❌ Il castagno
    💡 Gli alberi che non perdono le foglie si chiamano sempreverdi.
 
-58. **Cosa fanno le piante grasse con l’acqua? 🌵**
-   ✅ La conservano nelle foglie e nel fusto | ❌ La buttano via | ❌ La trasformano in latte
+58. **Cosa fanno le piante grasse con l’acqua?**
+   ✅ La conservano nelle foglie e nel fusto | ❌ La spingono fuori dalle spine | ❌ La fanno evaporare subito
    💡 Così sopravvivono nel deserto.
 
-59. **Quale animale spruzza inchiostro per scappare? 🦑**
+59. **Quale animale spruzza inchiostro per scappare?**
    ✅ La seppia | ❌ Il delfino | ❌ La tartaruga
    💡 Con l’inchiostro di seppia si fa anche la pasta nera!
 
-60. **Quale uccello è il simbolo della pace? 🕊️**
+60. **Quale uccello è il simbolo della pace?**
    ✅ La colomba | ❌ Il corvo | ❌ Il gufo
    💡 Spesso è disegnata con un rametto d’ulivo nel becco.
 
-61. **Come si chiama il piccolo della capra? 🐐**
+61. **Come si chiama il piccolo della capra?**
    ✅ Il capretto | ❌ Il vitello | ❌ Il puledro
    💡 Il capretto sa arrampicarsi già da piccolo.
 
-62. **Come si chiama la gallina che cova le uova? 🐔**
+62. **Come si chiama la gallina che cova le uova?**
    ✅ La chioccia | ❌ La papera | ❌ La cicogna
    💡 La chioccia tiene al caldo le uova per circa 21 giorni.
 
-63. **Quale animale africano fa un verso simile a una risata? 🐾**
+63. **Quale animale africano fa un verso simile a una risata?**
    ✅ La iena | ❌ La zebra | ❌ La giraffa
    💡 Per questo si parla di «iena ridens».
 
-64. **Quale di questi animali riesce a dormire in piedi? 🐴**
-   ✅ Il cavallo | ❌ Il serpente | ❌ La balena
+64. **Quale di questi animali riesce a dormire in piedi?**
+   ✅ Il cavallo | ❌ Il gatto | ❌ Il maiale
    💡 Le zampe del cavallo si «bloccano» per non cadere.
 
-65. **Quale mammifero marino ha i baffi e due lunghe zanne? 🦭**
+65. **Quale mammifero marino ha i baffi e due lunghe zanne?**
    ✅ Il tricheco | ❌ Il delfino | ❌ Lo squalo
    💡 Usa le zanne anche per uscire dall’acqua sul ghiaccio.
 
-66. **Quale uccello costruisce il nido sui campanili e sui camini? 🪺**
+66. **Quale uccello costruisce il nido sui campanili e sui camini?**
    ✅ La cicogna | ❌ Il pinguino | ❌ Il pavone
    💡 Nelle storie è lei che porta i bambini!
 
-67. **Quale animale ha un pungiglione velenoso sulla coda? 🦂**
-   ✅ Lo scorpione | ❌ La farfalla | ❌ Il coniglio
+67. **Quale animale ha un pungiglione velenoso sulla coda?**
+   ✅ Lo scorpione | ❌ Il millepiedi | ❌ Il ragno
    💡 Lo scorpione è parente dei ragni.
 
-68. **Quante ali ha un’ape? 🐝**
+68. **Quante ali ha un’ape?**
    ✅ 4 | ❌ 2 | ❌ 6
    💡 Le ali dell’ape battono più di 200 volte al secondo.
 
-69. **Quale pesce si gonfia come un pallone quando ha paura? 🐡**
+69. **Quale abitante del mare si gonfia come un pallone pieno di spine quando ha paura?**
    ✅ Il pesce palla | ❌ Il tonno | ❌ La sardina
-   💡 Così diventa troppo grande da mangiare.
+   💡 Il pesce palla si riempie d’acqua per sembrare più grande e scoraggiare i predatori.
 
-70. **Quale pesce piatto vive appoggiato sul fondò sabbioso del mare? 🐟**
+70. **Quale pesce piatto vive appoggiato sul fondò sabbioso del mare?**
    ✅ La sogliola | ❌ Lo squalo | ❌ Il delfino
    💡 Ha entrambi gli occhi sullo stesso lato del corpo.
 
-71. **Quale grande uccello rapace è il simbolo di molti stemmi e bandiere? 🦅**
+71. **Quale grande uccello rapace è il simbolo di molti stemmi e bandiere?**
    ✅ L’aquila | ❌ Il passero | ❌ La gallina
    💡 L’aquila reale vive anche sulle Alpi.
 
-72. **Come si chiama la parte colorata del fiore? 🌸**
+72. **Come si chiama la parte colorata del fiore?**
    ✅ I petali | ❌ Le radici | ❌ Il fusto
    💡 I colori dei petali attirano gli insetti.
 
-73. **Come si chiama la parte della pianta che la tiene in piedi? 🌿**
+73. **Come si chiama la parte della pianta che la tiene in piedi?**
    ✅ Il fusto | ❌ Il petalo | ❌ Il frutto
    💡 Negli alberi il fusto si chiama tronco.
 
-74. **Cosa c’è dentro un frutto che può far nascere una nuova pianta? 🍑**
-   ✅ Il seme | ❌ Il sasso | ❌ La foglia
+74. **Cosa c’è dentro un frutto che può far nascere una nuova pianta?**
+   ✅ Il seme | ❌ La buccia | ❌ Il picciolo
    💡 Alcuni frutti hanno un solo seme, altri tantissimi.
 
-75. **Quale frutto cresce sulle palme? 🥥**
-   ✅ Il cocco | ❌ La mela | ❌ La pera
+75. **Quale frutto cresce sulle palme?**
+   ✅ Il cocco | ❌ Il kiwi | ❌ L’ananas
    💡 Dentro c’è un succo chiamato acqua di cocco.
 
-76. **Quale parte della carota mangiamo? 🥕**
+76. **Quale parte della carota mangiamo?**
    ✅ La radice | ❌ Il fiore | ❌ Il seme
    💡 Anche la rapa e il ravanello sono radici.
 
-77. **Quale di questi animali nasce da un uovo? 🥚**
-   ✅ Il coccodrillo | ❌ Il cane | ❌ Il cavallo
+77. **Quale di questi animali nasce da un uovo?**
+   ✅ Il coccodrillo | ❌ Il delfino | ❌ Il pipistrello
    💡 Anche serpenti e tartarughe nascono dalle uova.
 
-78. **Quale di questi animali è un mammifero? 🐬**
+78. **Quale di questi animali è un mammifero?**
    ✅ Il delfino | ❌ Lo squalo | ❌ Il pinguino
    💡 I mammiferi allattano i loro piccoli.
 
-79. **Quale di questi animali è un insetto? 🐜**
+79. **Quale di questi animali è un insetto?**
    ✅ La formica | ❌ Il ragno | ❌ Il lombrico
    💡 Gli insetti hanno sei zampe.
 
-80. **Quale anfibio somiglia a una lucertola ma ha la pelle umida? 🦎**
+80. **Quale anfibio somiglia a una lucertola ma ha la pelle umida?**
    ✅ La salamandra | ❌ Il geco | ❌ Il serpente
    💡 La salamandra pezzata è nera e gialla.
 
-81. **Quale scimmia ha un nome che vuol dire «uomo della foresta»? 🦧**
+81. **Quale scimmia ha un nome che vuol dire «uomo della foresta»?**
    ✅ L’orango | ❌ Il gorilla | ❌ Lo scimpanzé
    💡 Vive solo nelle isole di Sumatra e Borneo.
 
-82. **Quale uccello batte il becco sui tronchi degli alberi? 🪵**
+82. **Quale uccello batte il becco sui tronchi degli alberi?**
    ✅ Il picchio | ❌ Il pettirosso | ❌ Il gabbiano
    💡 Così cerca gli insetti sotto la corteccia.
 
-83. **Quale uccellino ha il petto arancione-rosso? 🐦**
+83. **Quale uccellino ha il petto arancione-rosso?**
    ✅ Il pettirosso | ❌ Il corvo | ❌ Il cigno
    💡 D’inverno si avvicina spesso alle case.
 
-84. **Qual è l’animale più alto del mondo? 🦒**
+84. **Qual è l’animale più alto del mondo?**
    ✅ La giraffa | ❌ L’elefante | ❌ Il cammello
    💡 Una giraffa adulta può superare i 5 metri.
 
-85. **Quale animale delle Alpi fischia per avvisare gli altri del pericolo? ⛰️**
+85. **Quale animale delle Alpi fischia per avvisare gli altri del pericolo?**
    ✅ La marmotta | ❌ Lo scoiattolo | ❌ La volpe
    💡 D’inverno la marmotta va in letargo.
 
-86. **Di cosa si nutre il lombrico? 🪱**
-   ✅ Di terra e foglie marce | ❌ Di pesci | ❌ Di frutta fresca
+86. **Di cosa si nutre il lombrico?**
+   ✅ Di terra e foglie marce | ❌ Di piccoli insetti | ❌ Di radici vive
    💡 Il lombrico rende il terreno più fertile.
 
-87. **Quale di questi animali ha i denti che crescono per tutta la vita? 🐰**
+87. **Quale di questi animali ha i denti che crescono per tutta la vita?**
    ✅ Il coniglio | ❌ Il cane | ❌ La mucca
    💡 Per questo deve rosicchiare spesso.
 
-88. **Quale verdura fa lacrimare gli occhi quando la tagli? 🧅**
+88. **Quale verdura fa lacrimare gli occhi quando la tagli?**
    ✅ La cipolla | ❌ La patata | ❌ La lattuga
    💡 La cipolla libera una sostanza che irrita gli occhi.
 
-89. **Da quale pianta si ottiene la farina per il pane? 🌾**
+89. **Da quale pianta si ottiene la farina per il pane?**
    ✅ Il grano | ❌ Il riso | ❌ La patata
    💡 I chicchi di grano vengono macinati nel mulino.
 
-90. **Quale albero produce le noci? 🌳**
+90. **Quale albero produce le noci?**
    ✅ Il noce | ❌ Il pino | ❌ Il pesco
    💡 Il guscio della noce è durissimo.
 
-91. **Quale uccello vive in città e mangia le briciole nelle piazze? 🐦**
+91. **Quale uccello vive in città e mangia le briciole nelle piazze?**
    ✅ Il piccione | ❌ L’aquila | ❌ Il fenicottero
    💡 I piccioni sanno ritrovare la strada di casa.
 
-92. **Quale animale scava gallerie sottoterra e ci vede pochissimo? 🕳️**
-   ✅ La talpa | ❌ L’aquila | ❌ Il gatto
+92. **Quale animale scava gallerie sottoterra e ci vede pochissimo?**
+   ✅ La talpa | ❌ Il riccio | ❌ Lo scoiattolo
    💡 Usa le zampe come pale.
 
-93. **Quanti occhi hanno quasi tutti i ragni? 🕷️**
+93. **Quanti occhi hanno quasi tutti i ragni?**
    ✅ 8 | ❌ 2 | ❌ 4
    💡 Molti però ci vedono poco e «sentono» le vibrazioni.
 
-94. **Quale pesce ha il muso lungo e appuntito come una spada? ⚔️**
+94. **Quale pesce ha il muso lungo e appuntito come una spada?**
    ✅ Il pesce spada | ❌ Il pesce palla | ❌ Il pesce rosso
    💡 È uno dei pesci più veloci.
 
-95. **Quale squalo ha la testa a forma di martello? 🦈**
+95. **Quale squalo ha la testa a forma di martello?**
    ✅ Lo squalo martello | ❌ Lo squalo bianco | ❌ Lo squalo balena
    💡 La testa larga lo aiuta a trovare le prede.
 
-96. **Quale insetto si mimetizza sembrando un rametto? 🌿**
+96. **Quale animaletto si mimetizza sembrando un rametto secco?**
    ✅ L’insetto stecco | ❌ La coccinella | ❌ L’ape
-   💡 Se sta fermo è quasi invisibile.
+   💡 L’insetto stecco resta immobile tra i rami e i predatori non lo distinguono da un legnetto.
 
-97. **Quale insetto canta sugli alberi nelle giornate d’estate? ☀️**
+97. **Quale insetto canta sugli alberi nelle giornate d’estate?**
    ✅ La cicala | ❌ La formica | ❌ La mosca
    💡 Solo i maschi cantano.
 
-98. **Quale insetto salta e canta nei prati di sera? 🌙**
+98. **Quale insetto salta e canta nei prati di sera?**
    ✅ Il grillo | ❌ La farfalla | ❌ L’ape
    💡 Il grillo «canta» sfregando le ali.
 
-99. **Come si chiama l’erba secca che mangiano gli animali d’inverno? 🐄**
-   ✅ Il fieno | ❌ Il miele | ❌ La sabbia
+99. **Come si chiama l’erba secca che mangiano gli animali d’inverno?**
+   ✅ Il fieno | ❌ La paglia | ❌ Il mangime
    💡 Il fieno si raccoglie d’estate.
 
-100. **In quale stagione si raccolgono le castagne? 🍂**
+100. **In quale stagione si raccolgono le castagne?**
    ✅ In autunno | ❌ In primavera | ❌ In estate
    💡 Si mangiano arrosto: le caldarroste!
 
@@ -2478,7 +2542,7 @@ Totale: 3167 domande
    💡 Può battere le ali più di 50 volte al secondo.
 
 104. **Quali animali si usano per cercare i tartufi?**
-   ✅ I cani | ❌ I gatti | ❌ Le galline
+   ✅ I cani | ❌ Le pecore | ❌ I gatti
    💡 Una volta si usavano anche i maiali.
 
 105. **Quando il cane fa «bau», si dice che…**
@@ -2541,12 +2605,12 @@ Totale: 3167 domande
    ✅ Il cinghiale | ❌ Il lupo | ❌ L’orso
    💡 I piccoli del cinghiale hanno il pelo a strisce.
 
-120. **Quale insetto vive in grandi nidi di terra chiamati termitai?**
+120. **Quale insetto costruisce in Africa nidi di terra più alti di un uomo?**
    ✅ La termite | ❌ L’ape | ❌ La vespa
-   💡 Alcuni termitai sono alti più di un uomo.
+   💡 I termitai hanno un sistema di gallerie che fa circolare l’aria e mantiene fresco l’interno.
 
 121. **Quale pesce vive nei torrenti di montagna con l’acqua fredda?**
-   ✅ La trota | ❌ Il tonno | ❌ Lo squalo
+   ✅ La trota | ❌ La sardina | ❌ Il merluzzo
    💡 Le trote hanno la pelle a puntini.
 
 122. **Quale grande pesce si trova spesso in scatola sott’olio?**
@@ -2562,7 +2626,7 @@ Totale: 3167 domande
    💡 Più o meno come quella di una donna.
 
 125. **Quante uova può fare al massimo una gallina in un giorno?**
-   ✅ 1 | ❌ 10 | ❌ 5
+   ✅ 1 | ❌ 2 | ❌ 3
    💡 Una gallina fa circa un uovo al giorno.
 
 126. **Quale animale marino pieno di aculei vive sugli scogli?**
@@ -2590,11 +2654,11 @@ Totale: 3167 domande
    💡 I gabbiani vivono anche in città.
 
 132. **In quale mese comincia l’estate?**
-   ✅ Giugno | ❌ Dicembre | ❌ Marzo
+   ✅ Giugno | ❌ Luglio | ❌ Maggio
    💡 L’estate comincia intorno al 21 giugno.
 
 133. **Quale piccolo rettile riesce a camminare sui muri e sui soffitti?**
-   ✅ Il geco | ❌ Il gatto | ❌ La gallina
+   ✅ Il geco | ❌ La salamandra | ❌ Il camaleonte
    💡 Le sue zampe hanno milioni di peletti speciali.
 
 134. **Quale animale marino sembra un fiore ma è un animale?**
@@ -2654,123 +2718,139 @@ Totale: 3167 domande
    💡 Il camoscio ha piccole corna nere a uncino.
 
 148. **Di cosa si nutrono i bruchi?**
-   ✅ Di foglie | ❌ Di sassi | ❌ Di formaggio
+   ✅ Di foglie | ❌ Di nettare | ❌ Di piccoli insetti
    💡 Mangiano tantissimo prima di diventare farfalle.
 
 149. **Quale insetto succhia il sangue e ronza di notte?**
-   ✅ La zanzara | ❌ La farfalla | ❌ La coccinella
+   ✅ La zanzara | ❌ La mosca | ❌ La falena
    💡 Solo le femmine pungono.
+
+150. **Quale animale ha il cuore più grande del mondo?**
+   ✅ La balenottera azzurra | ❌ L’elefante | ❌ La giraffa
+   💡 Il cuore della balenottera azzurra può pesare più di 150 chili.
+
+151. **Quale uccello non sa volare ma corre fino a 70 km all’ora?**
+   ✅ Lo struzzo | ❌ Il pinguino | ❌ Il kiwi
+   💡 Lo struzzo ha zampe lunghissime e un solo passo può superare i 3 metri.
+
+152. **Come respirano le balene?**
+   ✅ Con i polmoni, salendo in superficie | ❌ Con le branchie | ❌ Attraverso la pelle
+   💡 Lo sbuffo che si vede in mare è l’aria espulsa dallo sfiatatoio.
+
+153. **Quale animale ha gli occhi che si muovono uno indipendente dall’altro?**
+   ✅ Il camaleonte | ❌ Il geco | ❌ L’iguana
+   💡 Il camaleonte può guardare avanti con un occhio e indietro con l’altro.
 
 
 ### Scienza & Logica
 
-1. **Cosa ci scalda durante il giorno? ☀️**
-   ✅ Il Sole | ❌ La Luna | ❌ Le nuvole
-   💡 Il Sole è una stella gigantesca!
+1. **Quanto tempo impiega la luce del Sole ad arrivare sulla Terra?**
+   ✅ Circa 8 minuti | ❌ Un secondo | ❌ Un giorno
+   💡 Il Sole è a circa 150 milioni di chilometri: la luce, velocissima, ci mette poco più di 8 minuti.
 
-2. **Cosa cade dal cielo quando piove? 🌧️**
-   ✅ Acqua | ❌ Sassi | ❌ Foglie
-   💡 Le gocce arrivano dalle nuvole.
+2. **Come si chiama la pioggia che cade a palline di ghiaccio?**
+   ✅ La grandine | ❌ La brina | ❌ La rugiada
+   💡 I chicchi di grandine si formano nelle nuvole dei temporali, dove l’acqua gela salendo e scendendo più volte.
 
-3. **Con quale parte del corpo sentiamo gli odori? 👃**
-   ✅ Con il naso | ❌ Con i piedi | ❌ Con le dita
-   💡 Il naso riconosce migliaia di odori diversi.
+3. **Quale senso usa di più il cane per orientarsi?**
+   ✅ L’olfatto | ❌ La vista | ❌ Il gusto
+   💡 Il naso del cane ha centinaia di milioni di recettori: sente odori che per noi non esistono.
 
-4. **Cosa appare nel cielo con il sole e la pioggia? 🌈**
-   ✅ L’arcobaleno | ❌ Una stella | ❌ Un razzo
+4. **Cosa appare nel cielo con il sole e la pioggia?**
+   ✅ L’arcobaleno | ❌ L’aurora boreale | ❌ Un fulmine
    💡 L’arcobaleno ha 7 colori.
 
-5. **Quale stagione è la più fredda? ❄️**
-   ✅ L’inverno | ❌ L’estate | ❌ La primavera
-   💡 In inverno in montagna cade la neve.
+5. **In quale mese comincia l’inverno?**
+   ✅ Dicembre | ❌ Gennaio | ❌ Novembre
+   💡 L’inverno astronomico comincia con il solstizio, intorno al 21 dicembre.
 
-6. **Con quale parte del corpo ascoltiamo i suoni? 👂**
-   ✅ Con le orecchie | ❌ Con le mani | ❌ Con i piedi
-   💡 Le orecchie sentono anche i suoni più piccoli.
+6. **Qual è l’osso più piccolo del corpo umano, che si trova nell’orecchio?**
+   ✅ La staffa | ❌ La rotula | ❌ La falange
+   💡 La staffa misura circa 3 millimetri e aiuta a trasmettere i suoni.
 
-7. **Quanti sono i sensi? ✋**
-   ✅ 5 | ❌ 3 | ❌ 10
+7. **Quanti sono i sensi?**
+   ✅ 5 | ❌ 4 | ❌ 6
    💡 Vista, udito, olfatto, gusto e tatto.
 
-8. **Cosa ci illumina di notte nel cielo? 🌙**
-   ✅ La Luna | ❌ Il Sole | ❌ Un aereo
-   💡 La Luna non fa luce da sola: riflette quella del Sole.
+8. **Da dove viene la luce della Luna?**
+   ✅ È la luce del Sole riflessa | ❌ La Luna brilla da sola | ❌ Dalle stelle vicine
+   💡 La Luna non ha luce propria: fa da specchio alla luce del Sole.
 
-9. **Come si chiama il nostro pianeta? 🌍**
-   ✅ Terra | ❌ Marte | ❌ Giove
-   💡 La Terra è l’unico pianeta dove sappiamo che c’è vita.
+9. **Qual è il pianeta più grande del Sistema solare?**
+   ✅ Giove | ❌ Saturno | ❌ Nettuno
+   💡 Dentro Giove ci starebbero più di mille pianeti come la Terra.
 
-10. **Cosa fa il magnete? 🧲**
-   ✅ Attira il ferro | ❌ Fa musica | ❌ Cuoce il cibo
+10. **Cosa fa il magnete?**
+   ✅ Attira il ferro | ❌ Attira l’alluminio | ❌ Attira il vetro
    💡 Ha due poli: nord e sud.
 
-11. **Cosa succede all’acqua quando fa molto freddo? 🧊**
-   ✅ Diventa ghiaccio | ❌ Diventa verde | ❌ Sparisce
+11. **Cosa succede all’acqua quando fa molto freddo?**
+   ✅ Diventa ghiaccio | ❌ Diventa vapore | ❌ Diventa più pesante
    💡 Il ghiaccio galleggia sull’acqua.
 
-12. **Cosa succede a un ghiacciolo sotto il sole? 🍦**
-   ✅ Si scioglie | ❌ Diventa più duro | ❌ Vola via
+12. **Cosa succede a un ghiacciolo sotto il sole?**
+   ✅ Si scioglie | ❌ Diventa vapore subito | ❌ Si indurisce
    💡 Il caldo trasforma il ghiaccio in acqua.
 
-13. **Come si chiama il rumore forte che sentiamo durante un temporale? ⛈️**
-   ✅ Tuono | ❌ Eco | ❌ Fischio
+13. **Come si chiama il rumore forte che sentiamo durante un temporale?**
+   ✅ Tuono | ❌ Lampo | ❌ Fulmine
    💡 Il tuono arriva dopo il lampo.
 
-14. **Quale pianeta ha gli anelli più famosi? 🪐**
+14. **Quale pianeta ha gli anelli più famosi?**
    ✅ Saturno | ❌ Marte | ❌ La Terra
    💡 Gli anelli sono fatti di ghiaccio e sassi.
 
-15. **Cosa porta l’astronauta per respirare nello spazio? 👨‍🚀**
-   ✅ Una tuta con ossigeno | ❌ Un ombrello | ❌ Un cappello
-   💡 Nello spazio non c’è aria!
+15. **Perché gli astronauti sulla Stazione Spaziale galleggiano?**
+   ✅ Perché cadono intorno alla Terra insieme alla stazione | ❌ Perché lassù non c’è gravità | ❌ Perché la tuta è piena d’aria
+   💡 La gravità lassù è ancora forte: stazione e astronauti «cadono» insieme in orbita, per questo fluttuano.
 
-16. **Cosa brilla di notte nel cielo, lontanissime? ⭐**
-   ✅ Le stelle | ❌ Le caramelle | ❌ Le scarpe
-   💡 Il Sole è la stella più vicina a noi.
+16. **Perché di giorno non vediamo le stelle?**
+   ✅ Perché la luce del Sole è troppo forte | ❌ Perché di giorno si spengono | ❌ Perché vanno dall’altra parte della Terra
+   💡 Le stelle ci sono anche di giorno, ma il cielo illuminato dal Sole le nasconde.
 
-17. **Con cosa sentiamo il sapore del cibo? 👅**
-   ✅ Con la lingua | ❌ Con il gomito | ❌ Con il ginocchio
-   💡 Sulla lingua ci sono tante piccole papille gustative.
+17. **Con quale parte del corpo sentiamo i sapori, oltre che con la lingua?**
+   ✅ Con il naso | ❌ Con le orecchie | ❌ Con i denti
+   💡 Gran parte del «sapore» è in realtà odore: con il naso tappato il cibo sembra meno saporito.
 
-18. **Cosa pompa il sangue in tutto il corpo? ❤️**
-   ✅ Il cuore | ❌ Lo stomaco | ❌ Il naso
+18. **Cosa pompa il sangue in tutto il corpo?**
+   ✅ Il cuore | ❌ I polmoni | ❌ Il fegato
    💡 Il cuore batte anche mentre dormi.
 
-19. **Cosa ci protegge dal sole quando fa molto caldo? 🧴**
-   ✅ La crema solare | ❌ La sciarpa | ❌ Il guanto
-   💡 Va rimessa spesso, soprattutto dopo il bagno.
+19. **Perché d’estate è meglio vestirsi di chiaro?**
+   ✅ Perché i colori chiari riflettono la luce e scaldano meno | ❌ Perché i vestiti chiari sono più leggeri | ❌ Perché il nero attira le zanzare
+   💡 I colori scuri assorbono più luce e si scaldano; quelli chiari la riflettono.
 
-20. **Cosa dobbiamo lavare spesso per eliminare i germi? 🧼**
+20. **Cosa dobbiamo lavare spesso per eliminare i germi?**
    ✅ Le mani | ❌ Le orecchie | ❌ I capelli
    💡 Lavarsi le mani con il sapone per 20 secondi aiuta molto.
 
-21. **Cosa vediamo attraverso un microscopio? 🔬**
+21. **Cosa vediamo attraverso un microscopio?**
    ✅ Cose piccolissime | ❌ Cose lontanissime | ❌ Le stelle
    💡 Il microscopio ingrandisce ciò che l’occhio non riesce a vedere.
 
-22. **Cosa serve per guardare le stelle da lontano? 🔭**
+22. **Cosa serve per guardare le stelle da lontano?**
    ✅ Il telescopio | ❌ Il microscopio | ❌ La lente d’ingrandimento
    💡 Il telescopio avvicina oggetti lontanissimi.
 
-23. **Cosa fa il vento? 🌬️**
-   ✅ Muove le foglie | ❌ Fa le uova | ❌ Cuoce la pasta
-   💡 Con il vento si possono far volare gli aquiloni.
+23. **Cosa fa nascere il vento?**
+   ✅ L’aria che si sposta tra zone calde e fredde | ❌ Gli alberi che muovono i rami | ❌ Le nuvole che soffiano
+   💡 L’aria calda sale e quella fredda prende il suo posto: questo movimento è il vento.
 
-24. **Cosa cade dal cielo quando fa freddo, a fiocchi? ☃️**
-   ✅ La neve | ❌ La sabbia | ❌ Le foglie
+24. **Cosa cade dal cielo quando fa freddo, a fiocchi?**
+   ✅ La neve | ❌ La grandine | ❌ La brina
    💡 I fiocchi di neve hanno 6 punte.
 
-25. **Come si chiama il liquido bianco che ci dà la mucca? 🥛**
-   ✅ Latte | ❌ Succo | ❌ Acqua
-   💡 Il latte contiene calcio, che fa bene alle ossa.
+25. **Cosa si ottiene sbattendo a lungo la panna?**
+   ✅ Il burro | ❌ Lo yogurt | ❌ La ricotta
+   💡 Sbattendo la panna, il grasso si separa e si compatta: ecco il burro!
 
-26. **Cosa ci dà il Sole, oltre alla luce? 🌡️**
-   ✅ Calore | ❌ Ghiaccio | ❌ Rumore
+26. **Cosa ci dà il Sole, oltre alla luce?**
+   ✅ Calore | ❌ Ossigeno | ❌ Pioggia
    💡 Il calore del Sole scalda la Terra.
 
-27. **Cosa si accende quando premi l’interruttore? 💡**
-   ✅ La luce | ❌ L’acqua | ❌ Il vento
-   💡 Funziona con l’elettricità.
+27. **Come si chiama il materiale che NON fa passare la corrente elettrica?**
+   ✅ Isolante | ❌ Conduttore | ❌ Magnete
+   💡 Plastica, gomma e legno sono isolanti: per questo i fili elettrici sono ricoperti di plastica.
 
 28. **Dove va l’acqua quando evapora?**
    ✅ In aria e forma le nuvole | ❌ Nel terreno | ❌ Nel mare
@@ -2789,11 +2869,11 @@ Totale: 3167 domande
    💡 La reazione crea anidride carbonica.
 
 32. **Quanti colori ha l’arcobaleno?**
-   ✅ 7 | ❌ 3 | ❌ 5
+   ✅ 7 | ❌ 6 | ❌ 9
    💡 Rosso, arancione, giallo, verde, blu, indaco e violetto.
 
 33. **Cosa succede se metti lo zucchero nell’acqua?**
-   ✅ Si scioglie | ❌ Galleggia | ❌ Diventa rosso
+   ✅ Si scioglie | ❌ Va a fondo e resta intero | ❌ Fa le bollicine
    💡 Lo zucchero si dissolve nell’acqua.
 
 34. **Qual è il pianeta più vicino al Sole?**
@@ -2820,95 +2900,95 @@ Totale: 3167 domande
    ✅ Solido, liquido, gassoso | ❌ Caldo, freddo, tiepido | ❌ Duro, molle, rotto
    💡 Esiste anche il plasma, lo stato in cui si trova il Sole.
 
-40. **Quale osso protegge il cervello? 🧠**
+40. **Quale osso protegge il cervello?**
    ✅ Il cranio | ❌ Il gomito | ❌ La rotula
    💡 Il cranio è fatto di ossa dure.
 
-41. **Con quali organi respiriamo? 🫁**
+41. **Con quali organi respiriamo?**
    ✅ Con i polmoni | ❌ Con lo stomaco | ❌ Con il fegato
    💡 Respiriamo anche mentre dormiamo.
 
-42. **In quale organo il cibo viene digerito dopo averlo inghiottito? 🍝**
+42. **In quale organo il cibo viene digerito dopo averlo inghiottito?**
    ✅ Nello stomaco | ❌ Nei polmoni | ❌ Nel cervello
    💡 Poi il cibo passa nell’intestino.
 
-43. **Quanti sono i denti da latte di un bambino? 🦷**
+43. **Quanti sono i denti da latte di un bambino?**
    ✅ 20 | ❌ 32 | ❌ 10
    💡 Da grandi i denti diventano 32.
 
-44. **Quale pianeta è chiamato «pianeta rosso»? 🔴**
+44. **Quale pianeta è chiamato «pianeta rosso»?**
    ✅ Marte | ❌ Venere | ❌ Giove
    💡 È rosso per la polvere di ferro arrugginito sul suo suolo.
 
-45. **Quanto tempo impiega la Terra a fare un giro intorno al Sole? 🌍**
+45. **Quanto tempo impiega la Terra a fare un giro intorno al Sole?**
    ✅ Un anno | ❌ Un giorno | ❌ Un mese
    💡 Su se stessa invece gira in un giorno.
 
-46. **Cosa misura un orologio? ⏰**
-   ✅ Il tempo | ❌ La temperatura | ❌ Il peso
-   💡 Un’ora è fatta di 60 minuti.
+46. **Quanti secondi ci sono in 2 minuti?**
+   ✅ 120 | ❌ 100 | ❌ 200
+   💡 Un minuto ha 60 secondi, quindi due minuti ne hanno 60 + 60 = 120.
 
-47. **Cosa usiamo per sapere quanto pesiamo? ⚖️**
+47. **Cosa usiamo per sapere quanto pesiamo?**
    ✅ La bilancia | ❌ Il righello | ❌ Il termometro
    💡 Il peso si misura in chilogrammi.
 
-48. **Cosa usiamo per misurare la lunghezza di una riga? 📏**
+48. **Cosa usiamo per misurare la lunghezza di una riga?**
    ✅ Il righello | ❌ La bilancia | ❌ L’orologio
    💡 Il righello è diviso in centimetri.
 
-49. **Quale di questi oggetti galleggia nell’acqua? 🪵**
+49. **Quale di questi oggetti galleggia nell’acqua?**
    ✅ Un pezzo di legno | ❌ Un sasso | ❌ Una chiave di ferro
    💡 Il legno è più leggero dell’acqua.
 
-50. **Di cosa ha bisogno il fuoco per bruciare? 🔥**
+50. **Di cosa ha bisogno il fuoco per bruciare?**
    ✅ Dell’ossigeno dell’aria | ❌ Dell’acqua | ❌ Della sabbia
    💡 Per questo si spegne coprendolo con una coperta.
 
-51. **Cosa fa girare le pale eoliche che producono elettricità? 🌬️**
+51. **Cosa fa girare le pale eoliche che producono elettricità?**
    ✅ Il vento | ❌ Il fuoco | ❌ La pioggia
    💡 L’energia del vento si chiama eolica.
 
-52. **Come si chiama il suono che in montagna ci torna indietro? ⛰️**
+52. **Come si chiama il suono che in montagna ci torna indietro?**
    ✅ L’eco | ❌ Il tuono | ❌ Il fischio
    💡 L’eco è il suono che rimbalza sulle rocce.
 
-53. **Quanti mesi ha un anno? 📅**
+53. **Quanti mesi ha un anno?**
    ✅ 12 | ❌ 10 | ❌ 7
    💡 Il primo è gennaio, l’ultimo è dicembre.
 
-54. **Quanti minuti ci sono in un’ora? ⏰**
-   ✅ 60 | ❌ 100 | ❌ 30
-   💡 E in un minuto ci sono 60 secondi.
+54. **Quanti minuti ci sono in un’ora e mezza?**
+   ✅ 90 | ❌ 80 | ❌ 150
+   💡 Un’ora sono 60 minuti, mezz’ora 30: in tutto 90 minuti, quanto una partita di calcio.
 
 55. **Quanti giorni ha un anno normale?**
    ✅ 365 | ❌ 300 | ❌ 400
    💡 Ogni quattro anni c’è un anno bisestile, con 366 giorni.
 
-56. **Cosa usano i pesci per nuotare? 🐟**
-   ✅ Le pinne | ❌ Le ali | ❌ Le zampe
+56. **Cosa usano i pesci per nuotare?**
+   ✅ Le pinne | ❌ Le branchie | ❌ Le squame
    💡 La coda li spinge in avanti.
 
-57. **Cosa succede al pane lasciato fuori per qualche giorno? 🍞**
-   ✅ Diventa duro | ❌ Diventa liquido | ❌ Diventa più morbido
+57. **Cosa succede al pane lasciato fuori per qualche giorno?**
+   ✅ Diventa duro | ❌ Diventa dolce | ❌ Diventa più soffice
    💡 Il pane duro si chiama raffermo.
 
-58. **Quale di questi materiali fa passare la corrente elettrica? ⚡**
+58. **Quale di questi materiali fa passare la corrente elettrica?**
    ✅ Il rame | ❌ La plastica | ❌ Il legno
    💡 Per questo i fili elettrici sono di rame.
 
-59. **Quale materiale si ottiene fondendo la sabbia? 🪟**
+59. **Quale materiale si ottiene fondendo la sabbia?**
    ✅ Il vetro | ❌ La carta | ❌ La lana
    💡 Il vetro si può riciclare all’infinito.
 
-60. **Da cosa si fa la carta? 📄**
+60. **Da cosa si fa la carta?**
    ✅ Dal legno degli alberi | ❌ Dalla sabbia | ❌ Dal latte
    💡 Riciclare la carta salva tanti alberi.
 
-61. **Cosa usa chi non vede bene da lontano? 👓**
-   ✅ Gli occhiali | ❌ I guanti | ❌ Le cuffie
-   💡 Esistono anche le lenti a contatto.
+61. **Come si chiama il difetto di chi non vede bene da lontano?**
+   ✅ La miopia | ❌ Il daltonismo | ❌ La presbiopia
+   💡 Chi è miope vede bene da vicino ma sfocato da lontano: lo correggono occhiali o lenti a contatto.
 
-62. **Quanti centimetri ci sono in un metro? 📏**
+62. **Quanti centimetri ci sono in un metro?**
    ✅ 100 | ❌ 10 | ❌ 1000
    💡 Centi vuol dire «cento».
 
@@ -2952,23 +3032,23 @@ Totale: 3167 domande
    ✅ 5 | ❌ 6 | ❌ 4
    💡 «Penta» in greco vuol dire cinque.
 
-73. **Quanti spigoli ha un cubo? 🧊**
+73. **Quanti spigoli ha un cubo?**
    ✅ 12 | ❌ 6 | ❌ 8
    💡 Ha anche 8 vertici e 6 facce.
 
-74. **Come si chiama un angolo di 90 gradi? 📐**
+74. **Come si chiama un angolo di 90 gradi?**
    ✅ Angolo retto | ❌ Angolo acuto | ❌ Angolo ottuso
    💡 L’angolo di un foglio è un angolo retto.
 
-75. **Quale figura ha tutti i punti alla stessa distanza dal centro? ⚪**
+75. **Quale figura ha tutti i punti alla stessa distanza dal centro?**
    ✅ Il cerchio | ❌ Il quadrato | ❌ Il triangolo
    💡 Quella distanza si chiama raggio.
 
-76. **Che ore sono se la lancetta corta è sul 3 e quella lunga sul 12? 🕒**
+76. **Che ore sono se la lancetta corta è sul 3 e quella lunga sul 12?**
    ✅ Le 3 | ❌ Le 12 | ❌ Le 12 e un quarto
    💡 La lancetta corta segna le ore.
 
-77. **Quanti giorni ha febbraio negli anni normali? 📅**
+77. **Quanti giorni ha febbraio negli anni normali?**
    ✅ 28 | ❌ 30 | ❌ 31
    💡 Negli anni bisestili ne ha 29.
 
@@ -3008,7 +3088,7 @@ Totale: 3167 domande
    ✅ 24 | ❌ 12 | ❌ 60
    💡 In 24 ore la Terra fa un giro su se stessa.
 
-87. **Quale organo pensa e comanda tutto il corpo? 🧠**
+87. **Quale organo pensa e comanda tutto il corpo?**
    ✅ Il cervello | ❌ Lo stomaco | ❌ Il ginocchio
    💡 Il cervello lavora anche mentre dormiamo.
 
@@ -3024,15 +3104,15 @@ Totale: 3167 domande
    ✅ La cassa toracica | ❌ Il cranio | ❌ Il bacino
    💡 È formata dalle costole.
 
-91. **Qual è la stella più vicina alla Terra? ⭐**
+91. **Qual è la stella più vicina alla Terra?**
    ✅ Il Sole | ❌ La Stella Polare | ❌ Sirio
    💡 Il Sole è una stella di media grandezza.
 
-92. **Quale astronauta italiana è stata comandante della Stazione Spaziale Internazionale? 🚀**
+92. **Quale astronauta italiana è stata comandante della Stazione Spaziale Internazionale?**
    ✅ Samantha Cristoforetti | ❌ Federica Pellegrini | ❌ Sofia Goggia
    💡 È stata comandante nel 2022.
 
-93. **Cos’è una cometa? ☄️**
+93. **Cos’è una cometa?**
    ✅ Una palla di ghiaccio e polvere con una lunga coda | ❌ Una stella che cade sulla Terra | ❌ Un piccolo pianeta
    💡 La coda si forma quando si avvicina al Sole.
 
@@ -3040,31 +3120,31 @@ Totale: 3167 domande
    ✅ Perché un oggetto blocca la luce | ❌ Perché fa freddo | ❌ Perché piove
    💡 L’ombra è più lunga al mattino e alla sera.
 
-95. **In quale stato si trova il ghiaccio? 🧊**
+95. **In quale stato si trova il ghiaccio?**
    ✅ Solido | ❌ Liquido | ❌ Gassoso
    💡 Quando si scioglie diventa liquido.
 
-96. **A quanti gradi l’acqua diventa ghiaccio? ❄️**
+96. **A quanti gradi l’acqua diventa ghiaccio?**
    ✅ 0 °C | ❌ 10 °C | ❌ 100 °C
    💡 A 0 gradi l’acqua gela.
 
-97. **Cosa fa la pupilla dell’occhio quando c’è tanta luce? 👁️**
+97. **Cosa fa la pupilla dell’occhio quando c’è tanta luce?**
    ✅ Si restringe | ❌ Si allarga | ❌ Cambia colore
    💡 Al buio invece si allarga per vedere meglio.
 
-98. **Quante volte al giorno è consigliato lavarsi i denti? 🪥**
-   ✅ Almeno 2 | ❌ Una volta a settimana | ❌ Mai
+98. **Quante volte al giorno è consigliato lavarsi i denti?**
+   ✅ Almeno 2 | ❌ Una volta al giorno, la sera | ❌ Solo dopo i dolci
    💡 Meglio dopo i pasti, per circa due minuti.
 
-99. **Cosa fa girare le turbine delle centrali idroelettriche? 💧**
+99. **Cosa fa girare le turbine delle centrali idroelettriche?**
    ✅ L’acqua | ❌ Il carbone | ❌ Il vento
    💡 Spesso l’acqua arriva da una diga.
 
-100. **In quale bidone si butta una bottiglia di vetro? ♻️**
+100. **In quale bidone si butta un barattolo di marmellata vuoto?**
    ✅ Nel vetro | ❌ Nell’umido | ❌ Nella carta
-   💡 Il vetro si può riciclare all’infinito.
+   💡 Il vetro si può fondere e riciclare all’infinito per fare nuovi barattoli e bottiglie.
 
-101. **Cosa si butta nell’umido? 🍌**
+101. **Cosa si butta nell’umido?**
    ✅ Le bucce di frutta | ❌ Le lattine | ❌ I giornali
    💡 Dall’umido si produce il compost, un concime naturale.
 
@@ -3193,11 +3273,11 @@ Totale: 3167 domande
    💡 Anche un rotolo di carta è un cilindro.
 
 133. **Di cosa sono fatte le nuvole?**
-   ✅ Di goccioline d’acqua | ❌ Di fumo | ❌ Di zucchero
+   ✅ Di goccioline d’acqua | ❌ Di vapore invisibile | ❌ Di polvere
    💡 Quando le gocce diventano pesanti, piove.
 
 134. **Perché vediamo il lampo prima di sentire il tuono?**
-   ✅ Perché la luce è più veloce del suono | ❌ Perché il tuono è timido | ❌ Perché il lampo è più vicino
+   ✅ Perché la luce è più veloce del suono | ❌ Perché il tuono parte dopo | ❌ Perché il lampo è più vicino
    💡 Contando i secondi si capisce quanto è lontano il temporale.
 
 135. **Quale pianeta è il terzo partendo dal Sole?**
@@ -3208,9 +3288,9 @@ Totale: 3167 domande
    ✅ Circa un mese | ❌ Un giorno | ❌ Un anno
    💡 Circa 27 giorni.
 
-137. **Cosa sono le fasi della Luna?**
-   ✅ I diversi aspetti della Luna illuminata dal Sole | ❌ Le stagioni | ❌ Le maree
-   💡 Luna piena, nuova, crescente e calante.
+137. **Cosa sono le fasi lunari?**
+   ✅ I diversi aspetti con cui la vediamo, illuminata dal Sole | ❌ Le stagioni | ❌ Le maree
+   💡 Luna nuova, crescente, piena e calante: il ciclo completo dura circa 29 giorni e mezzo.
 
 138. **Come si chiamano i denti che spuntano per ultimi, da grandi?**
    ✅ I denti del giudizio | ❌ I denti da latte | ❌ I canini
@@ -3237,12 +3317,12 @@ Totale: 3167 domande
    💡 Salire su una rampa costa meno fatica che salire dritti.
 
 144. **Cosa esce da un vulcano in eruzione?**
-   ✅ Lava | ❌ Acqua dolce | ❌ Neve
+   ✅ Lava | ❌ Fango | ❌ Sabbia
    💡 La lava è roccia fusa caldissima.
 
-145. **Come si chiama chi studia i vulcani?**
-   ✅ Il vulcanologo | ❌ L’astronauta | ❌ Il dentista
-   💡 In Italia ci sono vulcani molto studiati, come l’Etna.
+145. **Come si chiama lo scienziato che studia l’Etna e il Vesuvio?**
+   ✅ Il vulcanologo | ❌ Il meteorologo | ❌ L’astronomo
+   💡 I vulcanologi misurano gas, terremoti e temperature per capire quando un vulcano può eruttare.
 
 146. **Come si chiama chi studia le stelle e i pianeti?**
    ✅ L’astronomo | ❌ Il geologo | ❌ Il botanico
@@ -3257,7 +3337,7 @@ Totale: 3167 domande
    💡 Si chiama anche «Enter».
 
 149. **Come ci si collega a Internet senza fili?**
-   ✅ Con il Wi-Fi | ❌ Con la presa elettrica | ❌ Con una pila
+   ✅ Con il Wi-Fi | ❌ Con il cavo di rete | ❌ Con la porta USB
    💡 Il Wi-Fi usa le onde radio.
 
 150. **Quanti centesimi ci sono in un euro?**
@@ -3268,127 +3348,139 @@ Totale: 3167 domande
    ✅ 3 | ❌ 4 | ❌ 2
    💡 Tre lati e tre angoli.
 
+152. **Quale gas buttiamo fuori quando espiriamo?**
+   ✅ Anidride carbonica | ❌ Ossigeno | ❌ Elio
+   💡 Le piante usano l’anidride carbonica per crescere e ci restituiscono ossigeno.
+
+153. **Quante ossa ha circa il corpo di un adulto?**
+   ✅ 206 | ❌ 106 | ❌ 306
+   💡 I neonati ne hanno di più: crescendo alcune ossa si saldano insieme.
+
+154. **Qual è il pianeta più caldo del Sistema solare?**
+   ✅ Venere | ❌ Mercurio | ❌ Marte
+   💡 Mercurio è più vicino al Sole, ma Venere ha un’atmosfera densa che trattiene il calore come una coperta.
+
 
 ### Geografia
 
-1. **Come si chiama il nostro Paese? 🇮🇹**
-   ✅ Italia | ❌ Francia | ❌ Giappone
-   💡 L’Italia ha la forma di uno stivale.
+1. **Quale piccolo Stato, oltre al Vaticano, è tutto circondato dall’Italia?**
+   ✅ San Marino | ❌ Monaco | ❌ Andorra
+   💡 San Marino è una delle repubbliche più antiche del mondo: si dice fondata nel 301.
 
-2. **Di che colori è la bandiera italiana?**
-   ✅ Verde, bianco e rosso | ❌ Blu e giallo | ❌ Nero e arancione
-   💡 Si chiama «tricolore».
+2. **Quale Paese ha una bandiera verde, bianca e arancione, simile alla nostra?**
+   ✅ L’Irlanda | ❌ La Spagna | ❌ La Grecia
+   💡 Il tricolore irlandese ha l’arancione al posto del nostro rosso.
 
-3. **Dove vivono i pinguini? 🐧**
-   ✅ Al Polo Sud | ❌ Nel deserto | ❌ Nella giungla
+3. **Dove vivono i pinguini?**
+   ✅ Al Polo Sud | ❌ Al Polo Nord | ❌ In Groenlandia
    💡 I pinguini amano il freddo e nuotano velocissimi.
 
-4. **Cos’è l’Etna? 🌋**
-   ✅ Un vulcano | ❌ Un lago | ❌ Una spiaggia
-   💡 L’Etna, in Sicilia, è uno dei vulcani più attivi d’Europa.
+4. **In quale regione si trova l’Etna?**
+   ✅ Sicilia | ❌ Campania | ❌ Calabria
+   💡 L’Etna è il vulcano attivo più alto d’Europa: supera i 3.300 metri.
 
-5. **Come si chiama un pezzo di terra circondato dal mare? 🏝️**
-   ✅ Isola | ❌ Montagna | ❌ Strada
+5. **Come si chiama un pezzo di terra circondato dal mare?**
+   ✅ Isola | ❌ Penisola | ❌ Arcipelago
    💡 La Sicilia e la Sardegna sono isole italiane.
 
-6. **Come si chiama la capitale d’Italia? 🏛️**
-   ✅ Roma | ❌ Milano | ❌ Napoli
-   💡 A Roma c’è il Colosseo.
+6. **Qual è la capitale del Portogallo?**
+   ✅ Lisbona | ❌ Porto | ❌ Madrid
+   💡 Lisbona sorge sulla foce del fiume Tago, affacciata sull’Oceano Atlantico.
 
-7. **In quale città si trova la Torre Eiffel? 🗼**
+7. **In quale città si trova la Torre Eiffel?**
    ✅ Parigi | ❌ Londra | ❌ Roma
    💡 La Torre Eiffel è alta circa 330 metri.
 
-8. **Come si chiama il fiume che attraversa Roma? 🌉**
+8. **Come si chiama il fiume che attraversa Roma?**
    ✅ Il Tevere | ❌ Il Po | ❌ L’Arno
    💡 Il Po è il fiume più lungo d’Italia.
 
-9. **Come si chiama la città con i canali e le gondole? 🛶**
-   ✅ Venezia | ❌ Roma | ❌ Torino
+9. **Come si chiama la città con i canali e le gondole?**
+   ✅ Venezia | ❌ Chioggia | ❌ Comacchio
    💡 A Venezia le strade sono fatte d’acqua!
 
-10. **Come si chiama il vulcano vicino a Napoli? 🌋**
+10. **Come si chiama il vulcano vicino a Napoli?**
    ✅ Il Vesuvio | ❌ Il Monte Bianco | ❌ L’Everest
    💡 Nel 79 d.C. seppellì la città di Pompei.
 
-11. **Dove vivono i canguri? 🦘**
-   ✅ In Australia | ❌ In Italia | ❌ In Groenlandia
+11. **Dove vivono i canguri?**
+   ✅ In Australia | ❌ In Africa | ❌ In Sud America
    💡 L’Australia è anche un continente!
 
-12. **Come si chiama il grande deserto di sabbia in Africa? 🏜️**
-   ✅ Sahara | ❌ Amazzonia | ❌ Polo Nord
+12. **Come si chiama il grande deserto di sabbia in Africa?**
+   ✅ Sahara | ❌ Gobi | ❌ Atacama
    💡 È il deserto caldo più grande del mondo.
 
-13. **Dove si trova il Polo Nord? 🧊**
-   ✅ In cima alla Terra | ❌ In Egitto | ❌ In Spagna
-   💡 Lì vivono gli orsi polari.
+13. **Cosa c’è al Polo Nord?**
+   ✅ Un mare ghiacciato | ❌ Un continente di roccia | ❌ Una grande isola di sabbia
+   💡 A differenza dell’Antartide, al Polo Nord non c’è terra: solo ghiaccio che galleggia sul mare.
 
-14. **Come si chiama la grande foresta del Sud America? 🌳**
+14. **Come si chiama la grande foresta del Sud America?**
    ✅ Amazzonia | ❌ Sahara | ❌ Savana
    💡 Ci vivono pappagalli, giaguari e tanti insetti.
 
-15. **In quale città si trova il Duomo con la Madonnina? ⛪**
+15. **In quale città si trova il Duomo con la Madonnina?**
    ✅ Milano | ❌ Pisa | ❌ Bari
    💡 La Madonnina è la statua dorata in cima al Duomo.
 
-16. **Cos’è la Sardegna? 🏝️**
-   ✅ Un’isola | ❌ Un fiume | ❌ Una montagna
-   💡 È un’isola italiana con spiagge bellissime.
+16. **Qual è il capoluogo della Sardegna?**
+   ✅ Cagliari | ❌ Sassari | ❌ Olbia
+   💡 Cagliari si affaccia sul golfo degli Angeli, a sud dell’isola.
 
-17. **In quale Paese è nata la pizza? 🍕**
-   ✅ Italia | ❌ Giappone | ❌ Egitto
-   💡 La pizza è nata a Napoli.
+17. **In quale città è nata la pizza Margherita?**
+   ✅ Napoli | ❌ Roma | ❌ Palermo
+   💡 Si racconta che fu dedicata alla regina Margherita nel 1889: rossa, bianca e verde come la bandiera.
 
-18. **Dove si trova il Colosseo? 🏟️**
-   ✅ A Roma | ❌ A Parigi | ❌ A Londra
-   💡 Si dice che ci combattessero i gladiatori.
+18. **Come si chiamava in origine il Colosseo?**
+   ✅ Anfiteatro Flavio | ❌ Circo Massimo | ❌ Pantheon
+   💡 Prende il nome dalla famiglia degli imperatori Flavi; «Colosseo» viene forse da una statua colossale lì vicino.
 
-19. **Dove vive il panda gigante? 🐼**
-   ✅ In Cina | ❌ In Italia | ❌ In Brasile
+19. **Dove vive il panda gigante?**
+   ✅ In Cina | ❌ In Giappone | ❌ In India
    💡 Mangia bambù quasi tutto il giorno.
 
-20. **Qual è l’oceano più grande? 🌊**
+20. **Qual è l’oceano più grande?**
    ✅ Il Pacifico | ❌ L’Atlantico | ❌ L’Indiano
    💡 È più grande di tutte le terre messe insieme.
 
-21. **Quante sono le stagioni dell’anno? 🍁**
-   ✅ 4 | ❌ 2 | ❌ 7
-   💡 Primavera, estate, autunno e inverno.
+21. **In quale stagione le giornate sono più lunghe?**
+   ✅ In estate | ❌ In primavera | ❌ In autunno
+   💡 Il giorno più lungo dell’anno è il solstizio d’estate, intorno al 21 giugno.
 
-22. **In quale Paese c’è la Statua della Libertà? 🗽**
-   ✅ Stati Uniti | ❌ Italia | ❌ Cina
+22. **In quale Paese c’è la Statua della Libertà?**
+   ✅ Stati Uniti | ❌ Francia | ❌ Regno Unito
    💡 Si trova nella città di New York.
 
-23. **Cos’è il Monte Bianco? 🏔️**
-   ✅ La montagna più alta delle Alpi | ❌ Un lago | ❌ Un fiume
-   💡 Si trova tra Italia e Francia.
+23. **Tra quali due Paesi si trova il Monte Bianco?**
+   ✅ Italia e Francia | ❌ Italia e Svizzera | ❌ Italia e Austria
+   💡 Con i suoi 4.800 metri circa è la montagna più alta delle Alpi.
 
-24. **Come si chiama la capitale del Regno Unito, con il Big Ben? 🇬🇧**
+24. **Come si chiama la capitale del Regno Unito, con il Big Ben?**
    ✅ Londra | ❌ Parigi | ❌ Madrid
    💡 Il Big Ben è una grande campana.
 
-25. **Cosa si usa per trovare la strada sulle mappe? 🧭**
-   ✅ La bussola | ❌ Il pennello | ❌ Il forno
+25. **Cosa si usa per trovare la strada sulle mappe?**
+   ✅ La bussola | ❌ Il goniometro | ❌ Il compasso
    💡 L’ago della bussola indica sempre il Nord.
 
-26. **Che forma ha la Terra? 🌍**
-   ✅ Sferica | ❌ Piatta | ❌ Quadrata
+26. **Che forma ha la Terra?**
+   ✅ Sferica | ❌ Piatta | ❌ A forma di cilindro
    💡 La Terra gira su se stessa in un giorno.
 
-27. **In quale continente vivono gli elefanti africani? 🐘**
-   ✅ Africa | ❌ Europa | ❌ Antartide
-   💡 È il secondo continente più grande.
+27. **In quale continente vivono allo stato libero le giraffe e le zebre?**
+   ✅ Africa | ❌ Asia | ❌ America del Sud
+   💡 Giraffe e zebre vivono nelle savane africane, spesso vicine agli stessi branchi di gnu.
 
-28. **Come si chiama il mare tra l’Italia e la Grecia? 🌊**
+28. **Come si chiama il mare tra l’Italia e la Grecia?**
    ✅ Ionio | ❌ Rosso | ❌ Nero
    💡 Il Mar Ionio bagna Sicilia, Calabria e Puglia.
 
 29. **Dove vive l’orso polare?**
-   ✅ Al Polo Nord | ❌ In Africa | ❌ In Italia
+   ✅ Al Polo Nord | ❌ Al Polo Sud | ❌ Nelle Alpi
    💡 Lì fa molto freddo tutto l’anno.
 
 30. **Come si chiama il piccolo paese dentro Roma?**
-   ✅ Vaticano | ❌ Napoli | ❌ Firenze
+   ✅ Vaticano | ❌ San Marino | ❌ Monaco
    💡 Il Papa vive in Vaticano.
 
 31. **Come si chiama il mare che bagna l’Italia a ovest?**
@@ -3419,7 +3511,7 @@ Totale: 3167 domande
    ✅ Perugia | ❌ Terni | ❌ Assisi
    💡 Perugia è famosa per il cioccolato e per Umbria Jazz.
 
-38. **Su quale fiume si trova Firenze? 🌉**
+38. **Su quale fiume si trova Firenze?**
    ✅ L’Arno | ❌ Il Po | ❌ Il Tevere
    💡 Sull’Arno c’è il Ponte Vecchio.
 
@@ -3435,23 +3527,23 @@ Totale: 3167 domande
    ✅ Toscana | ❌ Umbria | ❌ Lazio
    💡 Firenze è il capoluogo della Toscana.
 
-42. **Quale catena di montagne attraversa l’Italia da nord a sud? ⛰️**
+42. **Quale catena di montagne attraversa l’Italia da nord a sud?**
    ✅ Gli Appennini | ❌ Le Alpi | ❌ I Pirenei
    💡 Le Alpi invece si trovano a nord.
 
-43. **In quale Paese si trova la Grande Muraglia? 🧱**
+43. **In quale Paese si trova la Grande Muraglia?**
    ✅ Cina | ❌ Giappone | ❌ India
    💡 È lunga migliaia di chilometri.
 
-44. **Da quale parte sorge il Sole? 🌅**
+44. **Da quale parte sorge il Sole?**
    ✅ A est | ❌ A ovest | ❌ A nord
    💡 Il Sole tramonta a ovest.
 
-45. **Quanti sono i punti cardinali? 🧭**
+45. **Quanti sono i punti cardinali?**
    ✅ 4 | ❌ 2 | ❌ 8
    💡 Nord, sud, est e ovest.
 
-46. **Come si chiama la palla che rappresenta la Terra e si può girare? 🌐**
+46. **Come si chiama la palla che rappresenta la Terra e si può girare?**
    ✅ Il mappamondo | ❌ L’atlante | ❌ Il calendario
    💡 Sul mappamondo si vedono mari e continenti.
 
@@ -3499,7 +3591,7 @@ Totale: 3167 domande
    ✅ Acqua dolce circondata dalla terra | ❌ Acqua salata intorno alla terra | ❌ Una montagna di ghiaccio
    💡 Il lago più grande d’Italia è il Garda.
 
-58. **In quale continente si trova il Giappone? 🗾**
+58. **In quale continente si trova il Giappone?**
    ✅ Asia | ❌ Europa | ❌ Africa
    💡 Il Giappone è fatto di tante isole.
 
@@ -3599,7 +3691,7 @@ Totale: 3167 domande
    ✅ 4 | ❌ 1 | ❌ 2
    💡 Tedesco, francese, italiano e romancio.
 
-83. **Come si chiama il punto più alto di una montagna? 🏔️**
+83. **Come si chiama il punto più alto di una montagna?**
    ✅ La vetta | ❌ La valle | ❌ La foce
    💡 Chi arriva in vetta ha fatto una scalata!
 
@@ -3616,16 +3708,16 @@ Totale: 3167 domande
    💡 Le Eolie sono un arcipelago.
 
 87. **Cos’è un ghiacciaio?**
-   ✅ Una grande massa di ghiaccio in montagna | ❌ Un frigorifero gigante | ❌ Un lago d’acqua calda
-   💡 I ghiacciai si stanno ritirando per il caldo.
+   ✅ Un enorme fiume di neve compattata che scende lentamente dalla montagna | ❌ Un lago che gela d’inverno | ❌ Una grotta piena di stalattiti
+   💡 I ghiacciai si muovono di pochi centimetri o metri al giorno e scavano le valli.
 
 88. **Cos’è una pianura?**
    ✅ Un territorio piatto e basso | ❌ Una montagna alta | ❌ Un mare piccolo
    💡 Le pianure sono adatte all’agricoltura.
 
 89. **Qual è la pianura più grande d’Italia?**
-   ✅ La Pianura Padana | ❌ Il Tavoliere delle Puglie | ❌ La Maremma
-   💡 È attraversata dal fiume Po.
+   ✅ La Padana | ❌ Il Tavoliere delle Puglie | ❌ La Maremma
+   💡 La Pianura Padana è attraversata dal Po e copre parti di diverse regioni del Nord.
 
 90. **Quale sistema usiamo con il telefono per sapere dove siamo?**
    ✅ Il GPS | ❌ Il termometro | ❌ Il barometro
@@ -3671,9 +3763,9 @@ Totale: 3167 domande
    ✅ Campania | ❌ Liguria | ❌ Calabria
    💡 È patrimonio UNESCO.
 
-101. **Qual è il capoluogo della Valle d’Aosta?**
-   ✅ Aosta | ❌ Courmayeur | ❌ Cervinia
-   💡 La Valle d’Aosta è la regione più piccola d’Italia.
+101. **Qual è la regione più piccola d’Italia?**
+   ✅ La Valle d’Aosta | ❌ Il Molise | ❌ La Liguria
+   💡 La Valle d’Aosta ha poco più di 120.000 abitanti ed è circondata da montagne altissime.
 
 102. **Qual è il capoluogo del Lazio?**
    ✅ Roma | ❌ Latina | ❌ Viterbo
@@ -3855,9 +3947,9 @@ Totale: 3167 domande
    ✅ Sicilia | ❌ Liguria | ❌ Veneto
    💡 A Palermo si chiamano «arancine».
 
-147. **In quale città nascono i Baci Perugina?**
-   ✅ Perugia | ❌ Torino | ❌ Napoli
-   💡 Dentro ogni Bacio c’è un bigliettino.
+147. **In quale città umbra si tiene ogni anno la festa del cioccolato Eurochocolate?**
+   ✅ Perugia | ❌ Terni | ❌ Spoleto
+   💡 Perugia è famosa anche per i Baci, i cioccolatini con il bigliettino.
 
 148. **In quale regione si trova Verona?**
    ✅ Veneto | ❌ Lombardia | ❌ Trentino-Alto Adige
@@ -3871,135 +3963,143 @@ Totale: 3167 domande
    ✅ Emilia-Romagna | ❌ Marche | ❌ Veneto
    💡 Rimini è famosa per le spiagge.
 
+151. **Qual è il fiume più lungo d’Italia?**
+   ✅ Il Po | ❌ Il Tevere | ❌ L’Adige
+   💡 Il Po nasce dal Monviso e sfocia nel mare Adriatico dopo circa 650 km.
+
+152. **In quale Paese sono famosi i mulini a vento e i campi di tulipani?**
+   ✅ Paesi Bassi | ❌ Belgio | ❌ Danimarca
+   💡 Gran parte dei Paesi Bassi è sotto il livello del mare: i mulini servivano anche a pompare via l’acqua.
+
 
 ### Storia & Arte
 
-1. **Chi portava spada e armatura nei castelli? 🛡️**
-   ✅ Il cavaliere | ❌ Il cuoco | ❌ Il pilota
+1. **Chi portava spada e armatura nei castelli?**
+   ✅ Il cavaliere | ❌ Il giullare | ❌ Il menestrello
    💡 I cavalieri vivevano nel Medioevo.
 
-2. **Con cosa dipingono i pittori? 🎨**
-   ✅ Con i pennelli | ❌ Con le forchette | ❌ Con le scarpe
-   💡 Leonardo da Vinci dipinse la Gioconda.
+2. **Cosa usa il pittore per mescolare i colori?**
+   ✅ La tavolozza | ❌ Il cavalletto | ❌ La tela
+   💡 La tavolozza ha un buco per il pollice e si tiene con una mano mentre si dipinge.
 
-3. **Come si chiamano i giganteschi animali di tantissimo tempo fa? 🦖**
-   ✅ Dinosauri | ❌ Draghi | ❌ Orsi
-   💡 Vissero milioni di anni prima di noi.
+3. **Quale dinosauro aveva tre corna sulla testa?**
+   ✅ Il triceratopo | ❌ Lo stegosauro | ❌ Il tirannosauro
+   💡 Triceratopo significa «faccia con tre corna».
 
-4. **In quale città c’è la Torre pendente? 🗼**
+4. **In quale città c’è la Torre pendente?**
    ✅ Pisa | ❌ Milano | ❌ Torino
    💡 Si è inclinata già mentre la costruivano!
 
-5. **Dove disegnavano gli uomini primitivi? 🪨**
+5. **Dove disegnavano gli uomini primitivi?**
    ✅ Sulle pareti delle grotte | ❌ Sui quaderni | ❌ Sui telefoni
    💡 Disegnavano soprattutto animali.
 
-6. **Come si chiama una storia scritta con tante pagine e illustrazioni? 📚**
-   ✅ Un libro | ❌ Una torta | ❌ Un televisore
-   💡 In biblioteca ci sono tantissimi libri.
+6. **Come si chiama chi disegna le figure dei libri?**
+   ✅ L’illustratore | ❌ L’editore | ❌ Il tipografo
+   💡 Gli illustratori lavorano insieme agli scrittori per dare un volto ai personaggi.
 
-7. **Come si chiama chi fa il pane e le torte? 🍞**
-   ✅ Il fornaio | ❌ Il pittore | ❌ Il pescatore
+7. **Come si chiama chi fa il pane e le torte?**
+   ✅ Il fornaio | ❌ Il salumiere | ❌ Il lattaio
    💡 Dal forno escono profumi buonissimi.
 
-8. **Di che materiale erano fatte le armature dei cavalieri? ⚔️**
-   ✅ Di ferro | ❌ Di legno | ❌ Di carta
+8. **Di che materiale erano fatte le armature dei cavalieri?**
+   ✅ Di ferro | ❌ Di rame | ❌ Di cuoio
    💡 Le armature pesavano tantissimo.
 
-9. **Cosa facevano i gladiatori nell'antica Roma? 🫵**
-   ✅ Combattevano nel Colosseo | ❌ Cucinavano la pasta | ❌ Disegnavano
+9. **Cosa facevano i gladiatori nell'antica Roma?**
+   ✅ Combattevano nel Colosseo | ❌ Guidavano le legioni | ❌ Proteggevano l’imperatore
    💡 Il Colosseo poteva contenere fino a 80.000 spettatori.
 
-10. **Come si chiama la persona che costruisce case? 🏗️**
-   ✅ Il muratore | ❌ Il pilota | ❌ Il cantante
+10. **Come si chiama la persona che costruisce case?**
+   ✅ Il muratore | ❌ L’idraulico | ❌ L’elettricista
    💡 Usa mattoni, cemento e tanti altri materiali.
 
-11. **Cosa si usa per scrivere sulla lavagna? 📝**
-   ✅ Il gessetto | ❌ Il pennello | ❌ Il coltello
+11. **Cosa si usa per scrivere sulla lavagna?**
+   ✅ Il gessetto | ❌ Il pastello | ❌ Il carboncino
    💡 Il gessetto lascia un segno bianco sul nero.
 
-12. **Chi costruiva le piramidi? 🏟️**
-   ✅ Gli antichi egizi | ❌ I romani | ❌ I pirati
+12. **Chi costruiva le piramidi?**
+   ✅ Gli antichi egizi | ❌ I Babilonesi | ❌ I Greci
    💡 Le piramidi più famose sono a Giza, in Egitto.
 
-13. **Come si chiama chi dipinge i quadri? 🎨**
-   ✅ Il pittore | ❌ Il pilota | ❌ Il cuoco
-   💡 Famosi pittori italiani: Leonardo e Michelangelo.
+13. **Come si chiama chi scolpisce le statue?**
+   ✅ Lo scultore | ❌ Il ceramista | ❌ L’orafo
+   💡 Michelangelo diceva che la statua è già dentro il blocco di marmo: lo scultore deve solo liberarla.
 
-14. **Dove abitava il Faraone nell'antico Egitto? 🏛️**
-   ✅ Nel palazzo | ❌ In campeggio | ❌ Sul treno
-   💡 Il faraone era il re dell'Egitto.
+14. **Come si chiamava il re dell’antico Egitto?**
+   ✅ Faraone | ❌ Imperatore | ❌ Sultano
+   💡 Il faraone era considerato un dio in terra.
 
-15. **Cosa facevano i Vichinghi? 🚣**
+15. **Cosa facevano i Vichinghi?**
    ✅ Navigavano con le barche | ❌ Giocavano a calcio | ❌ Costruivano aerei
    💡 I vichinghi vengono dalla Scandinavia.
 
-16. **Chi scrisse le favole di Cappuccetto Rosso e Biancaneve? 📖**
+16. **Chi scrisse le favole di Cappuccetto Rosso e Biancaneve?**
    ✅ I fratelli Grimm | ❌ Esopo | ❌ Carlo Collodi
    💡 Jacob e Wilhelm Grimm erano fratelli tedeschi.
 
-17. **Che cosa rappresenta la statua del David di Michelangelo? 💪**
+17. **Che cosa rappresenta la statua del David di Michelangelo?**
    ✅ Un giovane eroe biblico | ❌ Un imperatore romano | ❌ Un gladiatore
    💡 Il David si trova a Firenze, alla Galleria dell'Accademia.
 
-18. **Come si chiamano le scritte degli antichi egizi con i disegnini? 🪬**
-   ✅ Geroglifici | ❌ Fumetti | ❌ Hashtag
+18. **Come si chiamano le scritte degli antichi egizi con i disegnini?**
+   ✅ Geroglifici | ❌ Caratteri cuneiformi | ❌ Rune
    💡 I geroglifici erano una forma di scrittura con disegnini.
 
-19. **Come si chiama il luogo dove si conservano i quadri e le sculture? 🎨**
-   ✅ Il museo | ❌ Il cinema | ❌ Lo zoo
+19. **Come si chiama il luogo dove si conservano i quadri e le sculture?**
+   ✅ Il museo | ❌ L’archivio | ❌ L’anfiteatro
    💡 Nei musei ci sono opere d'arte di tanti secoli fa.
 
-20. **Chi era Zeus per i Greci antichi? ⚡**
+20. **Chi era Zeus per i Greci antichi?**
    ✅ Il re degli dei | ❌ Un eroe | ❌ Un gladiatore
    💡 Zeus lanciava i fulmini.
 
-21. **Come si chiama la storia inventata con draghi e magie? 🐉**
-   ✅ Una fiaba | ❌ Un giornale | ❌ Una ricetta
+21. **Come si chiama la storia inventata con draghi e magie?**
+   ✅ Una fiaba | ❌ Una biografia | ❌ Una cronaca
    💡 Le fiabe finiscono quasi sempre con il lieto fine.
 
-22. **Quale strumento a corde si suona sfiorandole? 🎸**
-   ✅ La chitarra | ❌ Il tamburo | ❌ Il flauto
-   💡 La chitarra ha di solito 6 corde.
+22. **Quale strumento a corde si suona pizzicandole con le dita?**
+   ✅ La chitarra | ❌ Il violino | ❌ Il pianoforte
+   💡 Anche il violino ha le corde, ma di solito si suona con l’archetto.
 
-23. **Come si chiama il posto dove si va per vedere uno spettacolo teatrale? 🎭**
-   ✅ Il teatro | ❌ Il supermercato | ❌ L'ospedale
+23. **Come si chiama il posto dove si va per vedere uno spettacolo teatrale?**
+   ✅ Il teatro | ❌ Il circo | ❌ Lo stadio
    💡 Già i Greci antichi avevano i teatri.
 
-24. **Quale eroe greco affrontò il Minotauro nel labirinto? ⚔️**
+24. **Quale eroe greco affrontò il Minotauro nel labirinto?**
    ✅ Teseo | ❌ Achille | ❌ Ulisse
    💡 Il labirinto era nell'isola di Creta.
 
-25. **Come si chiama il lungo poema greco che racconta la guerra di Troia? 📜**
+25. **Come si chiama il lungo poema greco che racconta la guerra di Troia?**
    ✅ L'Iliade | ❌ L'Odissea | ❌ L'Eneide
    💡 L'Iliade è attribuita al poeta Omero.
 
-26. **Come si chiama il cavallo di legno usato per entrare nella città di Troia? 🐴**
-   ✅ Il cavallo di Troia | ❌ Il carro di Achille | ❌ La barca di Ulisse
-   💡 Dentro erano nascosti i soldati greci.
+26. **Cosa usarono i Greci per entrare di nascosto nella città di Troia?**
+   ✅ Un grande cavallo di legno | ❌ Un tunnel sotterraneo | ❌ Una nave volante
+   💡 L’idea del cavallo, secondo il mito, fu di Ulisse.
 
 27. **Come si vestivano gli antichi romani?**
-   ✅ Con la toga | ❌ Con i jeans | ❌ Con il pigiama
+   ✅ Con la toga | ❌ Con il kimono | ❌ Con il kilt
    💡 La toga era un lungo mantello di lana.
 
 28. **Come si chiama uno strumento musicale con i tasti bianchi e neri?**
-   ✅ Il pianoforte | ❌ Il tamburo | ❌ La chitarra
+   ✅ Il pianoforte | ❌ L’arpa | ❌ Lo xilofono
    💡 Schiacciando i tasti si producono suoni diversi.
 
 29. **Come si chiama il posto dove si conservano i libri?**
-   ✅ La biblioteca | ❌ La palestra | ❌ Il parco
+   ✅ La biblioteca | ❌ La libreria | ❌ L’archivio
    💡 In biblioteca puoi prendere i libri in prestito.
 
 30. **Chi viveva nei castelli medievali?**
-   ✅ I re, le regine e i cavalieri | ❌ I pirati | ❌ I robot
+   ✅ I re, le regine e i cavalieri | ❌ I faraoni | ❌ I vichinghi
    💡 I castelli servivano anche per difendersi dai nemici.
 
 31. **Come si chiama lo strumento che fa musica soffiando?**
-   ✅ Il flauto | ❌ La chitarra | ❌ Il pianoforte
+   ✅ Il flauto | ❌ Il violino | ❌ Il tamburo
    💡 Il flauto dolce si usa spesso a scuola.
 
 32. **Dove venivano seppelliti i faraoni?**
-   ✅ Nelle piramidi | ❌ Nei palazzi | ❌ In mare
+   ✅ Nelle piramidi | ❌ Nei templi | ❌ Nelle catacombe
    💡 Le piramidi erano costruite come tombe.
 
 33. **Come si chiama uno strato dipinto su una parete con colori e disegni?**
@@ -4018,7 +4118,7 @@ Totale: 3167 domande
    ✅ Dante Alighieri | ❌ Petrarca | ❌ Boccaccio
    💡 È divisa in Inferno, Purgatorio e Paradiso.
 
-37. **Chi fondò Roma secondo la leggenda? 🐺**
+37. **Chi fondò Roma secondo la leggenda?**
    ✅ Romolo | ❌ Giulio Cesare | ❌ Nerone
    💡 Romolo e Remo erano gemelli.
 
@@ -4026,64 +4126,64 @@ Totale: 3167 domande
    ✅ Il latino | ❌ L’inglese | ❌ Il greco
    💡 Dal latino è nato l’italiano.
 
-39. **Chi dipinse la Gioconda? 🖼️**
+39. **Chi dipinse la Gioconda?**
    ✅ Leonardo da Vinci | ❌ Michelangelo | ❌ Raffaello
    💡 È il ritratto più famoso del mondo.
 
-40. **Chi è famoso per aver inventato una lampadina che durava a lungo? 💡**
+40. **Chi è famoso per aver inventato una lampadina che durava a lungo?**
    ✅ Thomas Edison | ❌ Galileo Galilei | ❌ Leonardo da Vinci
    💡 Edison registrò più di mille invenzioni.
 
-41. **Su cosa scrivevano gli antichi egizi? 📜**
+41. **Su cosa scrivevano gli antichi egizi?**
    ✅ Sul papiro | ❌ Sul tablet | ❌ Sulla carta di giornale
    💡 Il papiro si ricavava da una pianta.
 
-42. **Come si chiama chi scrive poesie? ✍️**
+42. **Come si chiama chi scrive poesie?**
    ✅ Il poeta | ❌ Il pittore | ❌ Lo scultore
    💡 Le poesie spesso hanno le rime.
 
-43. **Quale eroe greco viaggiò per dieci anni per tornare a casa dopo la guerra di Troia? ⛵**
+43. **Quale eroe greco viaggiò per dieci anni per tornare a casa dopo la guerra di Troia?**
    ✅ Ulisse | ❌ Achille | ❌ Ercole
    💡 La sua isola si chiamava Itaca.
 
-44. **Cosa scoprirono gli uomini primitivi che li aiutava a scaldarsi e a cucinare? 🔥**
-   ✅ Il fuoco | ❌ La lampadina | ❌ Il forno a microonde
+44. **Cosa scoprirono gli uomini primitivi che li aiutava a scaldarsi e a cucinare?**
+   ✅ Il fuoco | ❌ La ruota | ❌ Il ferro
    💡 Il fuoco teneva lontani anche gli animali.
 
-45. **Come si chiama l’arte di fare statue? 🗿**
+45. **Come si chiama l’arte di fare statue?**
    ✅ La scultura | ❌ La pittura | ❌ La danza
    💡 Le statue si fanno in marmo, bronzo o legno.
 
-46. **Quante corde ha di solito un violino? 🎻**
+46. **Quante corde ha di solito un violino?**
    ✅ 4 | ❌ 6 | ❌ 10
    💡 Si suona con l’archetto.
 
-47. **Come si chiama chi guida un’orchestra? 🎼**
-   ✅ Il direttore d’orchestra | ❌ L’arbitro | ❌ Il capitano
-   💡 Dirige i musicisti con una bacchetta.
+47. **Come si chiama chi guida i musicisti con la bacchetta durante un concerto?**
+   ✅ Il direttore d’orchestra | ❌ Il primo violino | ❌ Il compositore
+   💡 Con la bacchetta il direttore indica il tempo e gli attacchi dei vari strumenti.
 
 48. **Che cos’è un mosaico?**
    ✅ Un’immagine fatta con tanti pezzetti colorati | ❌ Una canzone | ❌ Una statua di bronzo
    💡 A Ravenna ci sono mosaici famosissimi.
 
-49. **Quante sono le note musicali? 🎵**
+49. **Quante sono le note musicali?**
    ✅ 7 | ❌ 5 | ❌ 12
    💡 Do, re, mi, fa, sol, la, si.
 
-50. **Cosa usavano gli uomini primitivi per fare utensili e armi? 🪨**
-   ✅ Le pietre | ❌ La plastica | ❌ L’alluminio
+50. **Cosa usavano gli uomini primitivi per fare utensili e armi?**
+   ✅ Le pietre | ❌ Il bronzo | ❌ Il ferro
    💡 Per questo quel periodo si chiama Età della Pietra.
 
-51. **Come si chiamavano i guerrieri giapponesi con la spada? ⚔️**
+51. **Come si chiamavano i guerrieri giapponesi con la spada?**
    ✅ Samurai | ❌ Vichinghi | ❌ Gladiatori
    💡 La loro spada si chiama katana.
 
-52. **Quale popolo antico costruì il Partenone di Atene? 🏛️**
+52. **Quale popolo antico costruì il Partenone di Atene?**
    ✅ I Greci | ❌ Gli Egizi | ❌ I Romani
    💡 Il Partenone era dedicato alla dea Atena.
 
-53. **Cosa portavano in testa i generali romani vittoriosi? 🌿**
-   ✅ Una corona d’alloro | ❌ Un cappello da cowboy | ❌ Un casco
+53. **Cosa portavano in testa i generali romani vittoriosi?**
+   ✅ Una corona d’alloro | ❌ Una corona d’oro | ❌ Un elmo con le piume
    💡 L’alloro era il simbolo della vittoria.
 
 54. **Che cos’è una mummia?**
@@ -4094,17 +4194,17 @@ Totale: 3167 domande
    ✅ Un viaggiatore veneziano arrivato fino in Cina | ❌ Un pittore fiorentino | ❌ Un re di Francia
    💡 Raccontò il suo viaggio nel «Milione».
 
-56. **Quale di questi è uno strumento a fiato? 🎺**
+56. **Quale di questi è uno strumento a fiato?**
    ✅ La tromba | ❌ Il violino | ❌ Il tamburo
    💡 Negli strumenti a fiato il suono nasce soffiando.
 
-57. **Come si chiama chi recita a teatro o al cinema? 🎭**
-   ✅ L’attore | ❌ Il cuoco | ❌ Il pilota
+57. **Come si chiama chi recita a teatro o al cinema?**
+   ✅ L’attore | ❌ Il regista | ❌ Lo scenografo
    💡 Prima di andare in scena gli attori si truccano.
 
-58. **Quale danza si balla sulle punte dei piedi? 🩰**
+58. **Come si chiama il ballo in cui si sta sulle punte, con il tutù?**
    ✅ La danza classica | ❌ Il tango | ❌ La tarantella
-   💡 Le ballerine usano scarpette speciali.
+   💡 Le ballerine usano scarpette speciali, rinforzate in punta.
 
 59. **Quale invenzione permise di produrre tanti libri tutti uguali?**
    ✅ La stampa | ❌ La televisione | ❌ Il telefono
@@ -4198,9 +4298,9 @@ Totale: 3167 domande
    ✅ I fratelli Lumière | ❌ I fratelli Wright | ❌ Thomas Edison
    💡 Erano francesi, di Lione.
 
-82. **Come si chiama ufficialmente l’inno nazionale italiano?**
+82. **Qual è il titolo ufficiale dell’inno di Mameli?**
    ✅ Il Canto degli Italiani | ❌ Va, pensiero | ❌ Nel blu dipinto di blu
-   💡 È conosciuto anche come «Fratelli d’Italia».
+   💡 Il testo fu scritto da Goffredo Mameli nel 1847, a vent’anni.
 
 83. **In quale giorno si festeggia la Festa della Repubblica italiana?**
    ✅ 2 giugno | ❌ 25 aprile | ❌ 1º maggio
@@ -4218,7 +4318,7 @@ Totale: 3167 domande
    ✅ Il cavalletto | ❌ Lo sgabello | ❌ L’attaccapanni
    💡 Il cavalletto ha tre gambe.
 
-87. **Quante linee ha il pentagramma su cui si scrive la musica? 🎼**
+87. **Quante linee ha il pentagramma su cui si scrive la musica?**
    ✅ 5 | ❌ 4 | ❌ 7
    💡 Le note si scrivono sulle linee e negli spazi.
 
@@ -4287,7 +4387,7 @@ Totale: 3167 domande
    💡 Erano tirate da due o più cavalli.
 
 104. **Chi era Giulio Cesare?**
-   ✅ Un grande generale e politico romano | ❌ Un faraone | ❌ Un pittore
+   ✅ Un grande generale e politico romano | ❌ Il primo re di Roma | ❌ Un filosofo greco
    💡 Conquistò la Gallia, l’attuale Francia.
 
 105. **Come si chiama la statua con corpo di leone e testa umana in Egitto?**
@@ -4307,7 +4407,7 @@ Totale: 3167 domande
    💡 La loro capitale era Tenochtitlán.
 
 109. **Chi era san Francesco d’Assisi?**
-   ✅ Un santo che amava la natura e i poveri | ❌ Un re | ❌ Un pittore
+   ✅ Un santo che amava la natura e i poveri | ❌ Un papa | ❌ Un cavaliere crociato
    💡 È il patrono d’Italia.
 
 110. **Come si chiama la preghiera di san Francesco che loda il sole, la luna e l’acqua?**
@@ -4323,7 +4423,7 @@ Totale: 3167 domande
    💡 Si chiamava anche amanuense.
 
 113. **Chi era Leonardo da Vinci?**
-   ✅ Un genio: pittore, scienziato e inventore | ❌ Un re | ❌ Un esploratore
+   ✅ Un genio: pittore, scienziato e inventore | ❌ Un navigatore | ❌ Un poeta
    💡 Era nato a Vinci, in Toscana, nel 1452.
 
 114. **Leonardo disegnò anche una macchina che somiglia a…**
@@ -4411,7 +4511,7 @@ Totale: 3167 domande
    💡 Gulliver arriva nel paese dei minuscoli lillipuziani.
 
 135. **Che cosa si festeggia l’8 marzo?**
-   ✅ La Festa della donna | ❌ Il Natale | ❌ Halloween
+   ✅ La Festa della donna | ❌ La Festa della mamma | ❌ La Festa della Repubblica
    💡 In Italia si regala la mimosa.
 
 136. **Quando si festeggia la Festa dei lavoratori?**
@@ -4451,19 +4551,19 @@ Totale: 3167 domande
    💡 Era al suo primo viaggio.
 
 145. **Come si chiama il racconto della propria vita scritto da sé?**
-   ✅ Autobiografia | ❌ Fiaba | ❌ Ricetta
+   ✅ Autobiografia | ❌ Biografia | ❌ Diario
    💡 Il diario di Anna Frank è autobiografico.
 
 146. **Come si chiama un testo scritto in versi, spesso con le rime?**
-   ✅ Poesia | ❌ Ricetta | ❌ Lettera
+   ✅ Poesia | ❌ Prosa | ❌ Racconto
    💡 Ogni gruppo di versi si chiama strofa.
 
 147. **Come si chiama un breve racconto con animali parlanti e una morale?**
-   ✅ Favola | ❌ Romanzo | ❌ Notizia
+   ✅ Favola | ❌ Fiaba | ❌ Leggenda
    💡 La fiaba invece ha magie, fate e principi.
 
 148. **Chi era Esopo?**
-   ✅ Un antico scrittore greco di favole | ❌ Un re | ❌ Un pittore
+   ✅ Un antico scrittore greco di favole | ❌ Un filosofo romano | ❌ Un re di Atene
    💡 Sua è la favola della volpe e l’uva.
 
 149. **Come si chiamava la donna amata da Dante?**
@@ -4471,77 +4571,93 @@ Totale: 3167 domande
    💡 Nella Divina Commedia lo guida in Paradiso.
 
 150. **Chi era Spartaco?**
-   ✅ Un gladiatore che guidò una rivolta di schiavi | ❌ Un imperatore | ❌ Un pittore
+   ✅ Un gladiatore che guidò una rivolta di schiavi | ❌ Un imperatore romano | ❌ Un generale cartaginese
    💡 Combatté contro Roma nel I secolo a.C.
+
+151. **Quale popolo antico costruì la città di Machu Picchu?**
+   ✅ Gli Inca | ❌ Gli Aztechi | ❌ I Maya
+   💡 Machu Picchu si trova sulle Ande del Perù, a quasi 2.500 metri.
+
+152. **In quale città è ambientata la storia di Romeo e Giulietta?**
+   ✅ Verona | ❌ Venezia | ❌ Mantova
+   💡 A Verona si può visitare la «casa di Giulietta», con il famoso balcone.
+
+153. **Quale scienziato pisano studiò il cielo con il cannocchiale?**
+   ✅ Galileo Galilei | ❌ Isaac Newton | ❌ Leonardo da Vinci
+   💡 Galileo scoprì le quattro lune più grandi di Giove.
+
+154. **In quale anno l’uomo è sbarcato per la prima volta sulla Luna?**
+   ✅ 1969 | ❌ 1959 | ❌ 1979
+   💡 Neil Armstrong fu il primo a camminare sulla Luna, il 20 luglio 1969.
 
 
 ### Cinema & Cartoni
 
-1. **Come si chiama la principessa con i capelli lunghissimi? 👸**
+1. **Come si chiama la principessa con i capelli lunghissimi?**
    ✅ Rapunzel | ❌ Cenerentola | ❌ Biancaneve
    💡 Il film Disney si chiama «Rapunzel – L’intreccio della torre».
 
-2. **Chi dice «Verso l’infinito e oltre!»? 🚀**
+2. **Chi dice «Verso l’infinito e oltre!»?**
    ✅ Buzz Lightyear | ❌ Woody | ❌ Mike
    💡 Buzz è un giocattolo astronauta.
 
-3. **Di che colore è Shrek? 👹**
-   ✅ Verde | ❌ Blu | ❌ Rosso
+3. **Di che colore è Shrek?**
+   ✅ Verde | ❌ Marrone | ❌ Grigio
    💡 Shrek vive in una palude con il suo amico Ciuchino.
 
-4. **Chi insegue sempre Jerry, il topolino? 🐭**
+4. **Chi insegue sempre Jerry, il topolino?**
    ✅ Tom | ❌ Silvestro | ❌ Garfield
    💡 Tom è un gatto e Jerry un topolino furbissimo.
 
-5. **Come si chiama la macchina rossa protagonista di Cars? 🏎️**
+5. **Come si chiama la macchina rossa protagonista di Cars?**
    ✅ Saetta McQueen | ❌ Cricchetto | ❌ Doc Hudson
    💡 Saetta McQueen ha il numero 95.
 
-6. **Chi è la sorella di Elsa in «Frozen»? ❄️**
+6. **Chi è la sorella di Elsa in «Frozen»?**
    ✅ Anna | ❌ Rapunzel | ❌ Ariel
    💡 Elsa ha il potere di creare ghiaccio e neve.
 
-7. **Come si chiama la sirenetta Disney? 🧜‍♀️**
+7. **Come si chiama la sirenetta Disney?**
    ✅ Ariel | ❌ Belle | ❌ Jasmine
    💡 Ariel ha i capelli rossi e vive nel mare.
 
-8. **Quale principessa ha perso la scarpetta di cristallo? 👠**
+8. **Quale principessa ha perso la scarpetta di cristallo?**
    ✅ Cenerentola | ❌ Biancaneve | ❌ Aurora
    💡 Il principe la ritrova grazie alla scarpetta.
 
-9. **Come si chiama il burattino con il naso che si allunga? 🪵**
+9. **Come si chiama il burattino con il naso che si allunga?**
    ✅ Pinocchio | ❌ Geppetto | ❌ Lucignolo
    💡 Gli cresce il naso quando dice le bugie. Geppetto è il suo papà.
 
-10. **Chi è il bambino che non vuole crescere e sa volare? 🧚**
+10. **Chi è il bambino che non vuole crescere e sa volare?**
    ✅ Peter Pan | ❌ Pinocchio | ❌ Aladdin
    💡 La sua amica fatina si chiama Trilly.
 
-11. **Come si chiama il facocero amico di Timon? 🐗**
+11. **Come si chiama il facocero amico di Timon?**
    ✅ Pumbaa | ❌ Zazu | ❌ Rafiki
    💡 Timon è un suricato e insieme cantano «Hakuna Matata».
 
-12. **Come si chiama l’orso de «Il libro della giungla»? 🐻**
+12. **Come si chiama l’orso de «Il libro della giungla»?**
    ✅ Baloo | ❌ Bagheera | ❌ Shere Khan
    💡 Bagheera è una pantera nera e Shere Khan una tigre.
 
-13. **Come si chiamano gli omini gialli con gli occhialoni? 🍌**
+13. **Come si chiamano gli omini gialli con gli occhialoni?**
    ✅ Minions | ❌ Puffi | ❌ Gnomi
    💡 I Minions adorano le banane!
 
-14. **Quale supereroe lancia ragnatele? 🕷️**
+14. **Quale supereroe lancia ragnatele?**
    ✅ Spider-Man | ❌ Batman | ❌ Superman
    💡 Spider-Man si chiama Peter Parker.
 
-15. **Quale principessa si traveste da soldato? ⚔️**
+15. **Quale principessa si traveste da soldato?**
    ✅ Mulan | ❌ Belle | ❌ Tiana
    💡 Mulan salva il suo Paese insieme al draghetto Mushu.
 
-16. **Su cosa vola Aladdin? 🧞**
+16. **Su cosa vola Aladdin?**
    ✅ Su un tappeto magico | ❌ Su una scopa | ❌ Su un drago
    💡 Il suo amico blu è il Genio della lampada.
 
-17. **Come si chiama la principessa che ama i libri e vive con la Bestia? 📚**
+17. **Come si chiama la principessa che ama i libri e vive con la Bestia?**
    ✅ Belle | ❌ Jasmine | ❌ Pocahontas
    💡 Alla fine la Bestia si trasforma in un principe.
 
@@ -4609,11 +4725,11 @@ Totale: 3167 domande
    ✅ Dory | ❌ Marlin | ❌ Bruce
    💡 Dory ha anche un suo film: «Alla ricerca di Dory».
 
-34. **Quale principessa Disney ha una tigre di nome Rajah? 🐯**
+34. **Quale principessa Disney ha una tigre di nome Rajah?**
    ✅ Jasmine | ❌ Ariel | ❌ Belle
    💡 Jasmine è la principessa di «Aladdin».
 
-35. **Quale principessa Disney diventa una rana? 🐸**
+35. **Quale principessa Disney diventa una rana?**
    ✅ Tiana | ❌ Aurora | ❌ Mulan
    💡 Il film è «La principessa e il ranocchio».
 
@@ -4621,55 +4737,55 @@ Totale: 3167 domande
    ✅ Mirabel | ❌ Isabela | ❌ Vaiana
    💡 È l’unica della famiglia Madrigal senza un dono magico.
 
-37. **Di che colore è Tristezza in «Inside Out»? 💧**
+37. **Di che colore è Tristezza in «Inside Out»?**
    ✅ Blu | ❌ Rossa | ❌ Verde
    💡 Rabbia invece è rossa.
 
-38. **Come si chiama il granchio amico di Ariel? 🦀**
+38. **Come si chiama il granchio amico di Ariel?**
    ✅ Sebastian | ❌ Flounder | ❌ Tritone
    💡 Flounder è il pesciolino giallo e blu.
 
-39. **Che animale è Abu, l’amico di Aladdin? 🐒**
+39. **Che animale è Abu, l’amico di Aladdin?**
    ✅ Una scimmietta | ❌ Un pappagallo | ❌ Un cane
    💡 Abu ruba sempre qualcosa!
 
-40. **Come si chiama il pappagallo di Jafar? 🦜**
+40. **Come si chiama il pappagallo di Jafar?**
    ✅ Iago | ❌ Abu | ❌ Zazu
    💡 Zazu è il bucero del «Re Leone».
 
-41. **Che animale è Nick Wilde in «Zootropolis»? 🦊**
+41. **Che animale è Nick Wilde in «Zootropolis»?**
    ✅ Una volpe | ❌ Un coniglio | ❌ Un lupo
    💡 Nick diventa amico della coniglietta Judy.
 
-42. **Come si chiama la bambina di «Monsters & Co.»? 👧**
+42. **Come si chiama la bambina di «Monsters & Co.»?**
    ✅ Boo | ❌ Mary | ❌ Lilo
    💡 Sulley la protegge come un fratello maggiore.
 
-43. **Cos’è Stitch in «Lilo & Stitch»? 👽**
+43. **Cos’è Stitch in «Lilo & Stitch»?**
    ✅ Un alieno | ❌ Un cane vero | ❌ Un orsetto
    💡 È l’Esperimento 626!
 
-44. **Chi è il pirata nemico di Peter Pan? 🏴‍☠️**
+44. **Chi è il pirata nemico di Peter Pan?**
    ✅ Capitan Uncino | ❌ Barbanera | ❌ Jack Sparrow
    💡 Ha una paura matta del coccodrillo.
 
-45. **Come si chiama il mago cattivo dei Puffi? 🧙**
+45. **Come si chiama il mago cattivo dei Puffi?**
    ✅ Gargamella | ❌ Jafar | ❌ Merlino
    💡 Il suo gatto si chiama Birba.
 
-46. **Che animale è Scooby-Doo? 🐕**
-   ✅ Un cane | ❌ Un gatto | ❌ Un fantasma
+46. **Che animale è Scooby-Doo?**
+   ✅ Un cane | ❌ Un cavallo | ❌ Un gatto
    💡 Scooby-Doo è un alano.
 
-47. **Come si chiamano i due scoiattolini della Disney? 🐿️**
+47. **Come si chiamano i due scoiattolini della Disney?**
    ✅ Cip e Ciop | ❌ Qui, Quo, Qua | ❌ Tip e Tap
    💡 Cip ha il naso nero, Ciop rosso.
 
-48. **Come si chiama il gatto cattivo di «Cenerentola»? 🐈**
+48. **Come si chiama il gatto cattivo di «Cenerentola»?**
    ✅ Lucifero | ❌ Silvestro | ❌ Romeo
    💡 I topolini amici di Cenerentola lo temono.
 
-49. **Quale strumento sogna di suonare Miguel in «Coco»? 🎸**
+49. **Quale strumento sogna di suonare Miguel in «Coco»?**
    ✅ La chitarra | ❌ Il violino | ❌ Il pianoforte
    💡 Nella sua famiglia la musica era proibita.
 
@@ -4841,9 +4957,9 @@ Totale: 3167 domande
    ✅ Chat Noir | ❌ Batman | ❌ Black Panther
    💡 Nella vita normale è Adrien.
 
-92. **Come si chiama il gatto azzurro de «Lo straordinario mondo di Gumball»?**
-   ✅ Gumball | ❌ Garfield | ❌ Tom
-   💡 Suo fratello Darwin è un pesciolino con le gambe.
+92. **Che animale è Gumball, nel suo «straordinario mondo»?**
+   ✅ Un gatto | ❌ Un coniglio | ❌ Un pesce
+   💡 Il fratello di Gumball, Darwin, è un pesciolino a cui sono spuntate le gambe!
 
 93. **Come si chiama la stella marina migliore amica di SpongeBob?**
    ✅ Patrick | ❌ Squiddi | ❌ Plankton
@@ -5073,116 +5189,132 @@ Totale: 3167 domande
    ✅ La sua rosa | ❌ Un leone | ❌ Una montagna
    💡 La rosa è unica al mondo per lui.
 
+150. **In «Zootropolis», che animale è la poliziotta Judy Hopps?**
+   ✅ Una coniglietta | ❌ Una volpe | ❌ Una gattina
+   💡 Judy è la prima coniglietta a entrare nella polizia di Zootropolis.
+
+151. **In «Ratatouille», chi sogna di diventare un grande cuoco?**
+   ✅ Un topo | ❌ Un gatto | ❌ Un cane
+   💡 Remy cucina a Parigi nascosto sotto il cappello del giovane Linguini.
+
+152. **Come si chiama la civetta bianca di Harry Potter?**
+   ✅ Edvige | ❌ Grattastinchi | ❌ Fierobecco
+   💡 Edvige porta lettere e pacchi: è il «postino» di Harry.
+
+153. **In «Shrek», che animale è Ciuchino?**
+   ✅ Un asino | ❌ Un cavallo | ❌ Un mulo
+   💡 Ciuchino parla tantissimo e si innamora di una draghessa.
+
 
 ### Videogiochi & Sport
 
-1. **Quale sport si gioca con un pallone e due porte? ⚽**
-   ✅ Il calcio | ❌ Il nuoto | ❌ Il tennis
-   💡 Una squadra di calcio ha 11 giocatori.
+1. **Quanti anelli ci sono nel simbolo delle Olimpiadi?**
+   ✅ 5 | ❌ 6 | ❌ 4
+   💡 I cinque anelli intrecciati rappresentano l’unione dei continenti.
 
-2. **Come si chiama l’idraulico con i baffi e il cappello rosso? 🍄**
+2. **Come si chiama l’idraulico con i baffi e il cappello rosso?**
    ✅ Mario | ❌ Sonic | ❌ Pikachu
    💡 Suo fratello Luigi ha il cappello verde.
 
-3. **Di che colore è Sonic? 💨**
+3. **Di che colore è Sonic?**
    ✅ Blu | ❌ Rosso | ❌ Verde
    💡 Sonic è un porcospino velocissimo.
 
-4. **Quale sport si fa in piscina? 🏊**
-   ✅ Il nuoto | ❌ Lo sci | ❌ Il rugby
-   💡 Nuotare fa bene a tutto il corpo.
+4. **Quale stile di nuoto si fa a pancia in su?**
+   ✅ Il dorso | ❌ La rana | ❌ Il delfino
+   💡 Nel dorso è l’unico stile in cui la partenza si fa dall’acqua.
 
-5. **Quale Pokémon giallo lancia scariche elettriche? ⚡**
+5. **Quale Pokémon giallo lancia scariche elettriche?**
    ✅ Pikachu | ❌ Charmander | ❌ Bulbasaur
    💡 La coda di Pikachu ha la forma di un fulmine.
 
-6. **Quale sport si gioca con racchetta e pallina gialla? 🎾**
-   ✅ Il tennis | ❌ Il nuoto | ❌ Il calcio
-   💡 Il tennis si gioca anche sulla terra rossa.
+6. **Come si chiamano i quattro tornei più importanti del tennis?**
+   ✅ Il Grande Slam | ❌ La Champions League | ❌ Il Giro
+   💡 Australian Open, Roland Garros, Wimbledon e US Open formano il Grande Slam.
 
-7. **Dove si mette la palla nel basket? 🏀**
-   ✅ Nel canestro | ❌ Nella porta | ❌ In una rete da pesca
-   💡 Il canestro è alto più di 3 metri.
+7. **Quanti punti vale un tiro libero nel basket?**
+   ✅ 1 | ❌ 2 | ❌ 3
+   💡 Il tiro libero si tira dalla lunetta, senza avversari che disturbano.
 
-8. **Cosa fa il portiere nel calcio? 🧤**
-   ✅ Para i tiri | ❌ Fischia | ❌ Porta la bandiera
+8. **Cosa fa il portiere nel calcio?**
+   ✅ Para i tiri | ❌ Batte sempre i calci d’angolo | ❌ Tiene il tempo
    💡 Può usare le mani nella sua area!
 
-9. **Quale sport si fa sulla neve con gli sci? ⛷️**
-   ✅ Lo sci | ❌ Il nuoto | ❌ Il tennis
-   💡 In Italia si scia sulle Alpi e sugli Appennini.
+9. **Come si chiama lo sci in cui si scivola su piste pianeggianti nei boschi?**
+   ✅ Lo sci di fondo | ❌ Lo slalom | ❌ Il salto
+   💡 Lo sci di fondo è uno degli sport più faticosi: si usano braccia e gambe insieme.
 
-10. **Come si chiama la principessa che Mario salva? 👑**
+10. **Come si chiama la principessa che Mario salva?**
    ✅ Peach | ❌ Zelda | ❌ Elsa
    💡 Il cattivo che la rapisce si chiama Bowser.
 
-11. **Chi è la tartaruga cattiva con il guscio a spine in Super Mario? 🐢**
+11. **Chi è la tartaruga cattiva con il guscio a spine in Super Mario?**
    ✅ Bowser | ❌ Yoshi | ❌ Toad
    💡 Yoshi invece è un dinosauro verde amico di Mario.
 
-12. **Cosa raccoglie Sonic per proteggersi? 💍**
+12. **Cosa raccoglie Sonic per proteggersi?**
    ✅ Gli anelli | ❌ Le stelle | ❌ Le caramelle
    💡 Se prende un colpo, li perde tutti.
 
-13. **In quale gioco si fanno incastrare blocchi colorati che cadono? 🧱**
+13. **In quale gioco si fanno incastrare blocchi colorati che cadono?**
    ✅ Tetris | ❌ Pac-Man | ❌ Minecraft
    💡 Tetris è nato nel 1984.
 
-14. **Chi mangia i puntini ed è inseguito dai fantasmini? 👻**
+14. **Chi mangia i puntini ed è inseguito dai fantasmini?**
    ✅ Pac-Man | ❌ Mario | ❌ Sonic
    💡 Pac-Man è giallo e rotondo come una pizza con una fetta mancante.
 
-15. **Di che colore è Kirby? 🌸**
+15. **Di che colore è Kirby?**
    ✅ Rosa | ❌ Blu | ❌ Giallo
    💡 Kirby può inghiottire i nemici e copiarne i poteri.
 
-16. **Cosa si cattura nei giochi Pokémon? 🔴**
-   ✅ I Pokémon | ❌ I pesci | ❌ Le farfalle
-   💡 Ce ne sono più di mille diversi!
+16. **Con quale oggetto rosso e bianco si catturano Pikachu e compagni?**
+   ✅ La Poké Ball | ❌ Una rete | ❌ Una gabbia
+   💡 La Poké Ball rimpicciolisce il Pokémon per tenerlo in tasca.
 
-17. **Quale sport si fa in bicicletta? 🚴**
-   ✅ Il ciclismo | ❌ Il tiro con l’arco | ❌ La scherma
-   💡 Il Giro d’Italia è una famosa corsa in bici.
+17. **Di che colore è la maglia del primo in classifica al Giro d’Italia?**
+   ✅ Rosa | ❌ Gialla | ❌ Verde
+   💡 È rosa come le pagine della Gazzetta dello Sport, il giornale che inventò il Giro. Al Tour de France è gialla.
 
-18. **Quale sport si fa sul ghiaccio con i pattini? ⛸️**
-   ✅ Il pattinaggio | ❌ L’equitazione | ❌ Il golf
-   💡 Sul ghiaccio si gioca anche a hockey.
+18. **Quale sport si fa sul ghiaccio, con salti e piroette a ritmo di musica?**
+   ✅ Il pattinaggio artistico | ❌ L’equitazione | ❌ Il golf
+   💡 Carolina Kostner è una delle pattinatrici italiane più famose.
 
-19. **Quale sport si fa con un kimono bianco sul tatami? 🥋**
+19. **Quale sport si fa con un kimono bianco sul tatami?**
    ✅ Il judo | ❌ Il calcio | ❌ Il tennis
    💡 Il judo viene dal Giappone.
 
-20. **Quante ruote ha un monopattino normale? 🛴**
+20. **Quante ruote ha un monopattino normale?**
    ✅ 2 | ❌ 3 | ❌ 5
    💡 Per i più piccoli ce ne sono anche a 3 ruote.
 
-21. **Di che colore è la maglia della nazionale italiana di calcio? 🇮🇹**
+21. **Di che colore è la maglia della nazionale italiana di calcio?**
    ✅ Azzurra | ❌ Rossa | ❌ Gialla
    💡 Per questo i giocatori si chiamano «Azzurri».
 
-22. **Cosa fa l’arbitro quando c’è un fallo? 🟨**
-   ✅ Fischia | ❌ Canta | ❌ Dorme
+22. **Cosa fa l’arbitro quando c’è un fallo?**
+   ✅ Fischia | ❌ Alza la bandierina | ❌ Batte le mani
    💡 Può mostrare anche i cartellini gialli e rossi.
 
-23. **Che palla si usa nel basket? 🏀**
+23. **Che palla si usa nel basket?**
    ✅ Una palla grande e arancione | ❌ Una palla ovale | ❌ Una pallina da ping pong
    💡 Il basket è stato inventato nel 1891.
 
-24. **Quale sport si gioca con una palla ovale? 🏉**
+24. **Quale sport si gioca con una palla ovale?**
    ✅ Il rugby | ❌ Il calcio | ❌ La pallavolo
    💡 La palla ovale rimbalza in modo imprevedibile!
 
-25. **Cosa si colpisce con le mani sopra la rete in pallavolo? 🏐**
-   ✅ Il pallone | ❌ Il tappeto | ❌ Il bastone
-   💡 Una squadra di pallavolo gioca in sei.
+25. **Nella pallavolo, quanti tocchi può fare al massimo una squadra prima di rimandare la palla?**
+   ✅ 3 | ❌ 2 | ❌ 4
+   💡 Di solito: bagher, alzata e schiacciata.
 
-26. **Che animale è Donkey Kong? 🦍**
+26. **Che animale è Donkey Kong?**
    ✅ Un gorilla | ❌ Un leone | ❌ Un cavallo
    💡 Donkey Kong lancia i barili!
 
-27. **Cosa si vince salendo sul gradino più alto del podio? 🥇**
-   ✅ La medaglia d’oro | ❌ Un gelato | ❌ Una macchina
-   💡 Poi ci sono la medaglia d’argento e quella di bronzo.
+27. **Che medaglia vince chi arriva terzo?**
+   ✅ Bronzo | ❌ Argento | ❌ Rame
+   💡 Oro al primo, argento al secondo, bronzo al terzo.
 
 28. **In quale gioco si costruiscono case e si pianta la verdura?**
    ✅ Minecraft | ❌ Fortnite | ❌ Pac-Man
@@ -5192,13 +5324,13 @@ Totale: 3167 domande
    ✅ Yoshi | ❌ Bowser | ❌ Toad
    💡 Yoshi può mangiare i nemici con la lingua.
 
-30. **In quale gioco si muovono le pedine su una scacchiera?**
+30. **In quale gioco ci sono il re, la regina, gli alfieri e le torri?**
    ✅ Gli scacchi | ❌ Le carte | ❌ Il domino
-   💡 Il re degli scacchi non può essere catturato.
+   💡 Negli scacchi la regina è il pezzo più potente: si muove in tutte le direzioni.
 
-31. **Quale sport si fa correndo velocissimi in pista?**
-   ✅ L’atletica | ❌ Il nuoto | ❌ Il calcio
-   💡 La gara di 100 metri dura meno di 10 secondi!
+31. **Quanti metri è lunga la gara di corsa più veloce delle Olimpiadi?**
+   ✅ 100 | ❌ 50 | ❌ 200
+   💡 Usain Bolt corse i 100 metri in 9,58 secondi: è ancora il record del mondo.
 
 32. **Quale sport si fa con la racchetta e il volano?**
    ✅ Il badminton | ❌ Il tennis | ❌ Il ping pong
@@ -5216,75 +5348,75 @@ Totale: 3167 domande
    ✅ 5 | ❌ 6 | ❌ 7
    💡 Le squadre hanno anche i giocatori in panchina per i cambi.
 
-36. **Quanti punti vale un canestro tirato da oltre la linea lontana? 🏀**
+36. **Quanti punti vale un canestro tirato da oltre la linea lontana?**
    ✅ 3 | ❌ 2 | ❌ 5
    💡 I tiri liberi valgono 1 punto.
 
-37. **Quanto dura una partita di calcio, senza recupero? ⚽**
+37. **Quanto dura una partita di calcio, senza recupero?**
    ✅ 90 minuti | ❌ 60 minuti | ❌ 120 minuti
    💡 Due tempi da 45 minuti.
 
-38. **Come si chiama la mossa che vince la partita a scacchi? ♟️**
+38. **Come si chiama la mossa che vince la partita a scacchi?**
    ✅ Scacco matto | ❌ Goal | ❌ Strike
    💡 Il re non può più scappare.
 
-39. **In quale sport si deve mettere la pallina in buca con il minor numero di colpi? ⛳**
+39. **In quale sport si deve mettere la pallina in buca con il minor numero di colpi?**
    ✅ Il golf | ❌ L’hockey | ❌ Il baseball
    💡 Le mazze da golf si chiamano anche ferri.
 
-40. **Quale sport si fa sulle onde con una tavola? 🏄**
+40. **Quale sport si fa sulle onde con una tavola?**
    ✅ Il surf | ❌ Lo sci | ❌ La vela
    💡 Il surf è nato alle Hawaii.
 
-41. **In quale gioco da tavolo si comprano strade e si costruiscono case? 🎩**
+41. **In quale gioco da tavolo si comprano strade e si costruiscono case?**
    ✅ Monopoly | ❌ Scarabeo | ❌ Dama
    💡 Si gioca con i soldi finti.
 
-42. **In quale gioco da tavolo si formano parole con le lettere? 🔤**
+42. **In quale gioco da tavolo si formano parole con le lettere?**
    ✅ Scarabeo | ❌ Monopoly | ❌ Risiko
    💡 Ogni lettera vale dei punti.
 
-43. **In quale gioco le pedine si mangiano saltandole sulla scacchiera? ⚫**
+43. **In quale gioco le pedine si mangiano saltandole sulla scacchiera?**
    ✅ Dama | ❌ Scacchi | ❌ Domino
    💡 Quando una pedina arriva in fondò diventa «dama».
 
-44. **Come si chiama il gioco in cui si salta su caselle disegnate con il gesso? 🖍️**
+44. **Come si chiama il gioco in cui si salta su caselle disegnate con il gesso?**
    ✅ Campana | ❌ Nascondino | ❌ Mosca cieca
    💡 Si lancia un sassolino sulle caselle.
 
-45. **Come si chiama il gioco in cui uno conta e gli altri si nascondono? 🙈**
+45. **Come si chiama il gioco in cui uno conta a occhi chiusi e poi deve trovare gli altri?**
    ✅ Nascondino | ❌ Campana | ❌ Mosca cieca
-   💡 Chi viene trovato per primo, conta alla partita dopo.
+   💡 Chi viene trovato per primo, di solito, conta nel turno dopo.
 
-46. **In Super Mario, cosa fa diventare Mario più grande? 🍄**
+46. **In Super Mario, cosa fa diventare Mario più grande?**
    ✅ Il fungo | ❌ La banana | ❌ La mela
    💡 Il fiore di fuoco invece gli fa lanciare palle di fuoco.
 
-47. **In quale sport si usano i guantoni sul ring? 🥊**
+47. **In quale sport si usano i guantoni sul ring?**
    ✅ Il pugilato | ❌ Il nuoto | ❌ Il golf
    💡 Un incontro è diviso in round.
 
-48. **Quale sport si pratica con arco e frecce? 🏹**
+48. **In quale sport si mira a un bersaglio colorato lontano 70 metri?**
    ✅ Il tiro con l’arco | ❌ La scherma | ❌ Il golf
-   💡 Il centro del bersaglio è giallo.
+   💡 Il centro del bersaglio, giallo, vale 10 punti.
 
-49. **Nella scherma, cosa si usa per sfidarsi? 🤺**
+49. **Nella scherma, cosa si usa per sfidarsi?**
    ✅ La spada | ❌ La racchetta | ❌ La palla
    💡 Le armi sono fioretto, spada e sciabola.
 
-50. **Cosa serve per giocare a ping pong? 🏓**
+50. **Cosa serve per giocare a ping pong?**
    ✅ Racchette e pallina | ❌ Mazza e disco | ❌ Pallone ovale
    💡 Si chiama anche tennis da tavolo.
 
-51. **In quale gioco si lanciano le bocce vicino al pallino?**
+51. **In quale gioco si lanciano delle sfere cercando di avvicinarsi al pallino?**
    ✅ Bocce | ❌ Golf | ❌ Biliardo
-   💡 Vince chi si avvicina di più al pallino.
+   💡 Le bocce si giocano spesso all’aperto, su un campo di terra battuta.
 
 52. **In quale sport ci si tuffa da un trampolino in piscina?**
    ✅ Tuffi | ❌ Sci | ❌ Ciclismo
    💡 I tuffatori fanno capriole e avvitamenti.
 
-53. **Quale sport si pratica a cavallo? 🏇**
+53. **Quale sport si pratica a cavallo?**
    ✅ Equitazione | ❌ Scherma | ❌ Canottaggio
    💡 Nel salto ostacoli il cavallo salta le barriere.
 
@@ -5296,19 +5428,19 @@ Totale: 3167 domande
    ✅ 16 | ❌ 12 | ❌ 20
    💡 8 pedoni, 2 torri, 2 cavalli, 2 alfieri, la regina e il re.
 
-56. **In quale gioco da tavolo si sale con le scale e si scende con i serpenti? 🐍**
-   ✅ Scale e serpenti | ❌ Monopoly | ❌ Dama
-   💡 È un gioco antichissimo nato in India.
+56. **Quale gioco da tavolo si gioca con pedine bianche e nere che si mangiano saltandole?**
+   ✅ La dama | ❌ Il Monopoly | ❌ Scale e serpenti
+   💡 La dama si gioca sulle caselle scure della scacchiera.
 
 57. **Che animale è Crash Bandicoot?**
-   ✅ Un bandicoot, un marsupiale | ❌ Un riccio | ❌ Un gatto
-   💡 I bandicoot vivono in Australia.
+   ✅ Un marsupiale | ❌ Un riccio | ❌ Un gatto
+   💡 Il bandicoot vive davvero in Australia e Nuova Guinea.
 
 58. **A Tetris, quando sparisce una riga?**
    ✅ Quando è completa | ❌ Quando è colorata | ❌ Quando è vuota
    💡 Eliminando 4 righe insieme si fa un «Tetris».
 
-59. **Di che colore è la cintura dei principianti nel judo? 🥋**
+59. **Di che colore è la cintura dei principianti nel judo?**
    ✅ Bianca | ❌ Nera | ❌ Rossa
    💡 La cintura nera è dei più esperti.
 
@@ -5320,9 +5452,9 @@ Totale: 3167 domande
    ✅ Un bastone e del carbone | ❌ Ferro e oro | ❌ Lana e legno
    💡 Le torce tengono lontani i mostri.
 
-62. **In Minecraft, come si chiama il drago dell’End?**
-   ✅ L’Ender Dragon | ❌ Il Wither | ❌ Smaug
-   💡 Sconfiggerlo è come «finire» il gioco.
+62. **In Minecraft, qual è il grande boss che vive nella dimensione dell’End?**
+   ✅ L’Ender Dragon | ❌ Il Wither | ❌ L’Enderman
+   💡 Per raggiungerlo bisogna trovare un portale nascosto in una fortezza.
 
 63. **Come si chiama il fungo amico di Mario?**
    ✅ Toad | ❌ Yoshi | ❌ Boo
@@ -5360,9 +5492,9 @@ Totale: 3167 domande
    ✅ Si balla | ❌ Si guida | ❌ Si cucina
    💡 Bisogna copiare i passi sullo schermo.
 
-72. **Cosa si spruzza in «Splatoon» per colorare il campo?**
+72. **Cosa si spruzza in «Splatoon» per conquistare il campo?**
    ✅ Inchiostro colorato | ❌ Acqua | ❌ Sabbia
-   💡 Vince la squadra che colora di più.
+   💡 Vince la squadra che ha colorato più terreno.
 
 73. **Come si chiama il fantasma timido di Super Mario?**
    ✅ Boo | ❌ Bowser | ❌ Wario
@@ -5388,9 +5520,9 @@ Totale: 3167 domande
    ✅ Beach volley | ❌ Calcio | ❌ Rugby
    💡 È uno sport olimpico.
 
-79. **Quale sport si gioca sul ghiaccio con bastoni e un disco?**
-   ✅ Hockey su ghiaccio | ❌ Curling | ❌ Pattinaggio artistico
-   💡 Il disco si chiama puck.
+79. **Quale sport si gioca sui pattini con bastoni e un dischetto nero chiamato puck?**
+   ✅ L’hockey su ghiaccio | ❌ Il curling | ❌ Il pattinaggio artistico
+   💡 Il puck è di gomma dura e può superare i 150 km all’ora.
 
 80. **Quale sport si fa sulla neve con una sola tavola?**
    ✅ Snowboard | ❌ Sci di fondò | ❌ Slittino
@@ -5456,9 +5588,9 @@ Totale: 3167 domande
    ✅ Steve | ❌ Alex | ❌ Herobrine
    💡 Alex è la versione femminile.
 
-96. **In «Plants vs. Zombies», chi attacca la casa?**
-   ✅ Gli zombie | ❌ I pirati | ❌ Gli alieni
-   💡 Le piante servono per difendersi.
+96. **In «Plants vs. Zombies», con cosa si difende la casa?**
+   ✅ Con piante che sparano | ❌ Con soldati | ❌ Con robot
+   💡 Il girasole produce la luce del sole che serve a piantare le altre piante.
 
 97. **Cosa deve fare la gallina in «Crossy Road»?**
    ✅ Attraversare la strada | ❌ Volare | ❌ Nuotare
@@ -5492,9 +5624,9 @@ Totale: 3167 domande
    ✅ Rende invincibili per qualche secondo | ❌ Fa volare | ❌ Fa diventare piccoli
    💡 Parte anche una musica velocissima!
 
-105. **Come si chiama il regno di Super Mario?**
-   ✅ Regno dei Funghi | ❌ Hyrule | ❌ Arendelle
-   💡 La sua principessa è Peach.
+105. **Come si chiama il mondo dove vivono Mario e la Principessa Peach?**
+   ✅ Il Regno dei Funghi | ❌ Hyrule | ❌ Arendelle
+   💡 Gli abitanti del regno, come Toad, hanno il cappello a forma di fungo.
 
 106. **In Mario Kart, quale oggetto si lascia per far scivolare gli avversari?**
    ✅ La buccia di banana | ❌ Il fungo | ❌ La stella
@@ -5632,9 +5764,9 @@ Totale: 3167 domande
    ✅ Inter | ❌ Juventus | ❌ Lazio
    💡 Per questo si chiamano «nerazzurri».
 
-140. **Quale squadra di Perugia gioca allo stadio Renato Curi?**
-   ✅ Perugia | ❌ Ternana | ❌ Foligno
-   💡 I giocatori sono chiamati «grifoni».
+140. **Quale squadra di calcio gioca allo stadio Renato Curi?**
+   ✅ Il Perugia | ❌ La Ternana | ❌ Il Foligno
+   💡 Lo stadio porta il nome di un calciatore del Perugia scomparso nel 1977.
 
 141. **Quanti dadi si usano a Monopoly?**
    ✅ 2 | ❌ 1 | ❌ 3
@@ -5652,9 +5784,9 @@ Totale: 3167 domande
    ✅ 4 | ❌ 3 | ❌ 5
    💡 In orizzontale, verticale o diagonale.
 
-145. **In quale gioco si grida «Strega comanda color…»?**
-   ✅ Strega comanda colore | ❌ Nascondino | ❌ Campana
-   💡 Bisogna toccare qualcosa del colore detto.
+145. **Nel gioco «Strega comanda color…», cosa devono fare i giocatori?**
+   ✅ Toccare un oggetto di quella tinta | ❌ Nascondersi | ❌ Saltare su un piede
+   💡 Chi viene preso prima di toccare il colore diventa la nuova strega.
 
 146. **Quante carte riceve ogni giocatore all’inizio di una partita a UNO?**
    ✅ 7 | ❌ 5 | ❌ 10
@@ -5668,8 +5800,28 @@ Totale: 3167 domande
    ✅ Ring Fit Adventure | ❌ Mario Kart | ❌ Zelda
    💡 Si gioca muovendosi davvero!
 
+149. **Quanti giocatori per squadra sono in acqua nella pallanuoto?**
+   ✅ 7 | ❌ 6 | ❌ 11
+   💡 Sei giocatori di movimento più il portiere.
 
-## Ragazzi (12-17) — 879 domande
+150. **Insieme a quale città Cortina ha ospitato le Olimpiadi invernali del 2026?**
+   ✅ Milano | ❌ Torino | ❌ Roma
+   💡 Le Olimpiadi «Milano Cortina 2026» si sono svolte a febbraio.
+
+151. **Quante buche ha un percorso di golf completo?**
+   ✅ 18 | ❌ 9 | ❌ 12
+   💡 Molti campi più piccoli hanno 9 buche, che si giocano due volte.
+
+152. **In Minecraft, quale mostro verde esplode quando ti si avvicina?**
+   ✅ Il creeper | ❌ Lo zombie | ❌ Lo slime
+   💡 Il creeper fa un sibilo prima di esplodere: è il momento di scappare!
+
+153. **Quale tennista italiano ha vinto gli Australian Open nel 2024?**
+   ✅ Jannik Sinner | ❌ Matteo Berrettini | ❌ Lorenzo Musetti
+   💡 Fu il primo italiano a vincere un torneo del Grande Slam dopo quasi cinquant’anni.
+
+
+## Ragazzi (12-17) — 902 domande
 
 
 ### Animali & Natura
@@ -5766,7 +5918,7 @@ Totale: 3167 domande
    ✅ Il fiore | ❌ La radice | ❌ La foglia
    💡 Dopo l’impollinazione il fiore si trasforma in frutto.
 
-24. **Come si chiamano gli animali che hanno la colonna vertebrale?**
+24. **Pesci, uccelli, rettili, anfibi e mammiferi sono tutti…?**
    ✅ Vertebrati | ❌ Invertebrati | ❌ Molluschi
    💡 Pesci, anfibi, rettili, uccelli e mammiferi sono vertebrati.
 
@@ -5798,7 +5950,7 @@ Totale: 3167 domande
    ✅ Né piante né animali: un regno a parte | ❌ Piante | ❌ Animali
    💡 I funghi non fanno la fotosintesi.
 
-32. **Quale albero produce le castagne?**
+32. **Da quale albero cadono in autunno i ricci pieni di frutti da arrostire?**
    ✅ Il castagno | ❌ La quercia | ❌ Il faggio
    💡 Le castagne sono chiuse nel riccio spinoso.
 
@@ -5867,7 +6019,7 @@ Totale: 3167 domande
    💡 La pappa reale è prodotta dalle api operaie.
 
 49. **Cos’è l’impollinazione?**
-   ✅ Il trasporto del polline da un fiore all’altro | ❌ La caduta delle foglie | ❌ La germinazione del seme
+   ✅ Il trasporto della «polverina» maschile da un fiore all’altro | ❌ La caduta delle foglie | ❌ La germinazione del seme
    💡 La fanno insetti, vento e anche alcuni uccelli.
 
 50. **Quale grande uccello che non vola è tipico dell’Australia?**
@@ -6066,8 +6218,8 @@ Totale: 3167 domande
    ✅ Il cloroplasto | ❌ Il mitocondrio | ❌ Il nucleo
    💡 È lì che avviene la fotosintesi.
 
-99. **Quale struttura rigida circonda le cellule vegetali?**
-   ✅ La parete cellulare | ❌ Lo scheletro | ❌ Il guscio
+99. **Cosa hanno le cellule delle piante che manca in quelle animali?**
+   ✅ La parete cellulare | ❌ Il nucleo | ❌ La membrana
    💡 È fatta soprattutto di cellulosa.
 
 100. **Come si chiama la scienza che studia l’ereditarietà?**
@@ -6150,9 +6302,9 @@ Totale: 3167 domande
    ✅ La tartaruga liuto (in mare) | ❌ La vipera | ❌ Il geco
    💡 Può superare i 600 kg.
 
-120. **Come si chiama la tana del coniglio selvatico?**
-   ✅ Conigliera (o tana) | ❌ Nido | ❌ Alveare
-   💡 I conigli selvatici vivono in gallerie sotterranee.
+120. **Come si chiama la cassetta in cui l’apicoltore alleva le api?**
+   ✅ L’arnia | ❌ La stalla | ❌ Il pollaio
+   💡 In natura le api costruiscono l’alveare nei tronchi cavi; l’arnia è la loro «casa» costruita dall’uomo.
 
 121. **Cosa sono gli animali «a sangue caldo»?**
    ✅ Animali che mantengono costante la temperatura | ❌ Animali che vivono nel deserto | ❌ Animali con il sangue rosso
@@ -6245,6 +6397,26 @@ Totale: 3167 domande
 143. **Quale mammifero australiano ha uno sperone velenoso?**
    ✅ L’ornitorinco maschio | ❌ Il koala | ❌ Il canguro
    💡 Il veleno è molto doloroso ma non mortale per l’uomo.
+
+144. **In quale parte della cellula vegetale avviene la fotosintesi?**
+   ✅ Nel cloroplasto | ❌ Nel mitocondrio | ❌ Nel ribosoma
+   💡 I cloroplasti contengono la clorofilla, che cattura la luce del Sole.
+
+145. **Qual è l’unico mammifero capace di volo attivo, battendo le ali?**
+   ✅ Il pipistrello | ❌ Lo scoiattolo volante | ❌ Il petauro dello zucchero
+   💡 Scoiattoli volanti e petauri planano soltanto, grazie a una membrana di pelle.
+
+146. **Quante cavità (camere) ha il cuore umano?**
+   ✅ 4 | ❌ 2 | ❌ 3
+   💡 Due atri e due ventricoli: il destro manda il sangue ai polmoni, il sinistro al resto del corpo.
+
+147. **Cos’è un lichene?**
+   ✅ L’unione di un fungo e di un’alga | ❌ Un tipo di muschio | ❌ Una pianta carnivora
+   💡 I licheni crescono sulle rocce e sono ottimi indicatori di aria pulita.
+
+148. **Quale organo del corpo umano produce l’insulina?**
+   ✅ Il pancreas | ❌ Il fegato | ❌ La milza
+   💡 L’insulina regola la quantità di zucchero nel sangue.
 
 
 ### Scienza & Logica
@@ -6349,7 +6521,7 @@ Totale: 3167 domande
    ✅ Joule | ❌ Watt | ❌ Newton
    💡 Il Watt misura la potenza.
 
-26. **Come si chiama la parte del cervello responsabile dell’equilibrio?**
+26. **Quale parte dell’encefalo controlla l’equilibrio e la coordinazione dei movimenti?**
    ✅ Cervelletto | ❌ Ipotalamo | ❌ Corteccia
    💡 Il cervelletto coordina anche i movimenti.
 
@@ -6798,7 +6970,7 @@ Totale: 3167 domande
    💡 Un atomo di carbonio e quattro di idrogeno.
 
 138. **Cos’è una reazione di combustione?**
-   ✅ Una reazione con l’ossigeno che produce calore e luce | ❌ Uno scioglimento | ❌ Un congelamento
+   ✅ Un processo con l’ossigeno che produce calore e luce | ❌ Uno scioglimento | ❌ Un congelamento
    💡 Il fuoco è una combustione.
 
 139. **Come si chiamano le sostanze che hanno pH superiore a 7?**
@@ -6814,7 +6986,7 @@ Totale: 3167 domande
    💡 Senza denti del giudizio sono 28.
 
 142. **Cosa misura la pressione arteriosa?**
-   ✅ La forza del sangue sulle pareti delle arterie | ❌ Il battito del cuore | ❌ L’ossigeno nel sangue
+   ✅ La spinta del sangue sulle pareti dei vasi | ❌ Il battito del cuore | ❌ L’ossigeno nel sangue
    💡 Si misura con lo sfigmomanometro.
 
 143. **Come si chiama il più grande osso del cranio, che contiene il cervello?**
@@ -6822,7 +6994,7 @@ Totale: 3167 domande
    💡 La mandibola è l’unico osso mobile del cranio.
 
 144. **Quale parte dell’orecchio ci aiuta a mantenere l’equilibrio?**
-   ✅ L’orecchio interno | ❌ Il padiglione | ❌ Il timpano
+   ✅ La parte interna (il labirinto) | ❌ Il padiglione | ❌ Il timpano
    💡 Contiene canali pieni di liquido.
 
 145. **Cos’è un algoritmo?**
@@ -6838,8 +7010,16 @@ Totale: 3167 domande
    💡 Mille megabyte fanno un gigabyte.
 
 148. **Cos’è l’intelligenza artificiale?**
-   ✅ Programmi che svolgono compiti che richiedono intelligenza | ❌ Robot con il cervello umano | ❌ Un tipo di Internet
+   ✅ Programmi capaci di svolgere compiti tipici della mente umana | ❌ Robot con il cervello umano | ❌ Un tipo di Internet
    💡 Riconoscimento di immagini e traduzioni sono esempi.
+
+149. **Quale particella dell’atomo ha carica negativa?**
+   ✅ L’elettrone | ❌ Il protone | ❌ Il neutrone
+   💡 Gli elettroni ruotano intorno al nucleo, dove stanno protoni e neutroni.
+
+150. **Quale strumento registra i terremoti?**
+   ✅ Il sismografo | ❌ Il barometro | ❌ L’anemometro
+   💡 Il barometro misura la pressione dell’aria, l’anemometro la velocità del vento.
 
 
 ### Geografia
@@ -7040,9 +7220,9 @@ Totale: 3167 domande
    ✅ Oslo | ❌ Helsinki | ❌ Copenaghen
    💡 Helsinki è la capitale della Finlandia.
 
-50. **Qual è la capitale del Messico?**
-   ✅ Città del Messico | ❌ Cancún | ❌ Guadalajara
-   💡 È una delle città più popolose del mondo.
+50. **Qual è l’area urbana più popolosa del Nord America?**
+   ✅ Città del Messico | ❌ New York | ❌ Los Angeles
+   💡 Con l’area metropolitana supera i 20 milioni di abitanti.
 
 51. **Qual è la capitale della Cina?**
    ✅ Pechino | ❌ Shanghai | ❌ Hong Kong
@@ -7197,7 +7377,7 @@ Totale: 3167 domande
    💡 Il Tropico del Capricorno è a 23° sud.
 
 89. **In quale emisfero si trova l’Australia?**
-   ✅ Australe (sud) | ❌ Boreale (nord) | ❌ In entrambi
+   ✅ Sud | ❌ Nord | ❌ In entrambi
    💡 Australe vuol dire «del sud».
 
 90. **Quando in Italia è estate, in Argentina è…**
@@ -7252,9 +7432,9 @@ Totale: 3167 domande
    ✅ Skopje | ❌ Ocrida | ❌ Tirana
    💡 È la città natale di Madre Teresa.
 
-103. **Qual è la capitale del Lussemburgo?**
-   ✅ Lussemburgo | ❌ Bruxelles | ❌ Strasburgo
-   💡 Città e Stato hanno lo stesso nome.
+103. **Qual è la capitale del Belgio?**
+   ✅ Bruxelles | ❌ Anversa | ❌ Lussemburgo
+   💡 Bruxelles ospita anche molte istituzioni dell’Unione Europea.
 
 104. **Qual è la capitale del Sudafrica, sede del governo?**
    ✅ Pretoria | ❌ Città del Capo | ❌ Johannesburg
@@ -7272,13 +7452,13 @@ Totale: 3167 domande
    ✅ Nicosia | ❌ Limassol | ❌ Atene
    💡 È divisa in due parti da una linea di confine.
 
-108. **Qual è la capitale della Tunisia?**
-   ✅ Tunisi | ❌ Cartagine | ❌ Algeri
-   💡 Vicino alla città ci sono le rovine di Cartagine.
+108. **Quale capitale nordafricana sorge accanto alle rovine di Cartagine?**
+   ✅ Tunisi | ❌ Algeri | ❌ Rabat
+   💡 Cartagine fu la grande rivale di Roma nelle guerre puniche.
 
-109. **Qual è la capitale dell’Algeria?**
-   ✅ Algeri | ❌ Orano | ❌ Tunisi
-   💡 Si affaccia sul Mediterraneo.
+109. **Qual è la capitale del Paese più grande d’Africa?**
+   ✅ Algeri | ❌ Il Cairo | ❌ Khartum
+   💡 L’Algeria è il Paese più esteso del continente africano.
 
 110. **Qual è la capitale del Senegal?**
    ✅ Dakar | ❌ Abidjan | ❌ Bamako
@@ -7372,7 +7552,7 @@ Totale: 3167 domande
    ✅ La Maddalena | ❌ Le Eolie | ❌ Le Egadi
    💡 È un parco nazionale.
 
-133. **Quale parco si trova tra Abruzzo, Lazio e Molise?**
+133. **In quale parco nazionale storico vivono l’orso marsicano e il camoscio appenninico?**
    ✅ Il Parco nazionale d’Abruzzo, Lazio e Molise | ❌ Il Gran Paradiso | ❌ Lo Stelvio
    💡 È uno dei parchi più antichi d’Italia.
 
@@ -7427,6 +7607,18 @@ Totale: 3167 domande
 146. **Cosa misura la densità di popolazione?**
    ✅ Gli abitanti per km² | ❌ Gli abitanti totali | ❌ La superficie di uno Stato
    💡 Il Bangladesh è tra i Paesi più densi.
+
+147. **Quale stretto separa la Sicilia dalla Calabria?**
+   ✅ Lo stretto di Messina | ❌ Le Bocche di Bonifacio | ❌ Il canale d’Otranto
+   💡 Nel punto più stretto le due coste sono a circa 3 km.
+
+148. **Qual è il punto più profondo degli oceani?**
+   ✅ La fossa delle Marianne | ❌ La fossa di Porto Rico | ❌ La fossa di Giava
+   💡 Nel suo punto più basso supera gli 11.000 metri di profondità.
+
+149. **Qual è il fiume più lungo d’Europa?**
+   ✅ Il Volga | ❌ Il Danubio | ❌ Il Reno
+   💡 Il Volga scorre interamente in Russia e sfocia nel Mar Caspio.
 
 
 ### Storia & Arte
@@ -7971,8 +8163,8 @@ Totale: 3167 domande
    ✅ Uno scultore greco antico sconosciuto | ❌ Michelangelo | ❌ Canova
    💡 Si trova al Louvre.
 
-136. **Quale architetto progettò la Basilica di San Pietro con la grande cupola?**
-   ✅ Michelangelo (la cupola) | ❌ Brunelleschi | ❌ Bernini
+136. **Quale artista progettò la grande cupola della Basilica di San Pietro?**
+   ✅ Michelangelo | ❌ Brunelleschi | ❌ Bernini
    💡 Michelangelo progettò la cupola ma morì prima della fine.
 
 137. **Chi scrisse «Uno, nessuno e centomila»?**
@@ -8022,6 +8214,26 @@ Totale: 3167 domande
 148. **Chi scrisse «Moby Dick»?**
    ✅ Herman Melville | ❌ Ernest Hemingway | ❌ Mark Twain
    💡 La balena bianca è inseguita dal capitano Achab.
+
+149. **In quale anno cadde il Muro di Berlino?**
+   ✅ 1989 | ❌ 1991 | ❌ 1961
+   💡 Il 9 novembre 1989 i berlinesi cominciarono ad abbatterlo a colpi di piccone.
+
+150. **In quale battaglia del 1815 Napoleone fu sconfitto definitivamente?**
+   ✅ Waterloo | ❌ Austerlitz | ❌ Lipsia
+   💡 Dopo Waterloo Napoleone fu esiliato sull’isola di Sant’Elena.
+
+151. **In quale città furono firmati nel 1957 i trattati che crearono la Comunità Economica Europea?**
+   ✅ Roma | ❌ Parigi | ❌ Bruxelles
+   💡 I Trattati di Roma furono firmati in Campidoglio da sei Paesi.
+
+152. **Quale re di Sardegna divenne nel 1861 il primo re d’Italia?**
+   ✅ Vittorio Emanuele II | ❌ Carlo Alberto | ❌ Umberto I
+   💡 Il Regno d’Italia fu proclamato a Torino il 17 marzo 1861.
+
+153. **Chi scrisse il romanzo «1984», con il Grande Fratello che controlla tutti?**
+   ✅ George Orwell | ❌ Aldous Huxley | ❌ H. G. Wells
+   💡 Il romanzo uscì nel 1949; da lì viene l’espressione «Grande Fratello».
 
 
 ### Cinema & Cartoni
@@ -8106,8 +8318,8 @@ Totale: 3167 domande
    ✅ Merida | ❌ Elsa | ❌ Raya
    💡 Merida è bravissima con l’arco.
 
-21. **Quale studio giapponese ha creato «La città incantata» e «Il mio vicino Totoro»?**
-   ✅ Studio Ghibli | ❌ Toei | ❌ Gainax
+21. **Quale casa d’animazione giapponese ha creato «La città incantata» e «Il mio vicino Totoro»?**
+   ✅ Lo Studio Ghibli | ❌ Toei | ❌ Gainax
    💡 «La città incantata» ha vinto l’Oscar nel 2003.
 
 22. **Quale villain Disney vuole la pelle di 101 dalmati?**
@@ -8370,9 +8582,9 @@ Totale: 3167 domande
    ✅ Lisa | ❌ Maggie | ❌ Marge
    💡 Maggie è la più piccola.
 
-87. **Come si chiama la mano che aiuta Mercoledì Addams?**
-   ✅ Mano | ❌ Zio Fester | ❌ Lurch
-   💡 In originale si chiama Thing.
+87. **Chi è «Mano» nella famiglia Addams?**
+   ✅ Un arto che si muove da solo, senza corpo | ❌ Il maggiordomo | ❌ Lo zio
+   💡 Nella versione originale si chiama «Thing», cioè «Cosa».
 
 88. **Di quale Paese è la serie «Squid Game»?**
    ✅ Corea del Sud | ❌ Giappone | ❌ Cina
@@ -8414,9 +8626,9 @@ Totale: 3167 domande
    ✅ Transformers | ❌ RoboCop | ❌ Terminator
    💡 I buoni sono gli Autobot.
 
-98. **Quale saga di film ha come protagonista il pugile Rocky Balboa?**
-   ✅ Rocky | ❌ Creed | ❌ Toro scatenato
-   💡 Lo interpreta Sylvester Stallone.
+98. **Quale attore interpreta il pugile Rocky Balboa?**
+   ✅ Sylvester Stallone | ❌ Arnold Schwarzenegger | ❌ Bruce Willis
+   💡 Stallone scrisse anche la sceneggiatura del primo «Rocky» (1976).
 
 99. **Chi ha diretto «Il Signore degli Anelli» al cinema?**
    ✅ Peter Jackson | ❌ Steven Spielberg | ❌ Ridley Scott
@@ -8534,9 +8746,9 @@ Totale: 3167 domande
    ✅ La Volpe a Nove Code | ❌ Un drago | ❌ Un lupo
    💡 Si chiama Kurama.
 
-128. **In «Demon Slayer», cosa fa Tanjiro?**
-   ✅ Caccia i demoni | ❌ Gioca a calcio | ❌ Fa il cuoco
-   💡 Vuole far tornare umana la sorella.
+128. **In «Demon Slayer», perché Tanjiro parte per il suo viaggio?**
+   ✅ Per far tornare umana la sorella Nezuko | ❌ Per vincere un torneo | ❌ Per diventare cuoco
+   💡 Nezuko è stata trasformata in demone, ma continua a proteggere il fratello.
 
 129. **In «Jujutsu Kaisen», chi è il protagonista?**
    ✅ Yuji Itadori | ❌ Tanjiro Kamado | ❌ Eren Jaeger
@@ -8558,9 +8770,9 @@ Totale: 3167 domande
    ✅ Grogu | ❌ Yoda | ❌ Ewok
    💡 Molti lo chiamavano «Baby Yoda».
 
-134. **In «Lupin», chi è il ladro gentiluomo a cui si ispira il protagonista della serie Netflix?**
-   ✅ Arsenio Lupin | ❌ Robin Hood | ❌ Sherlock Holmes
-   💡 Lo creò lo scrittore Maurice Leblanc.
+134. **Chi ha creato il ladro gentiluomo Arsenio Lupin?**
+   ✅ Maurice Leblanc | ❌ Arthur Conan Doyle | ❌ Agatha Christie
+   💡 La serie Netflix «Lupin» racconta di un ladro ispirato ai suoi romanzi.
 
 135. **In «La casa di carta», chi è la mente della rapina?**
    ✅ Il Professore | ❌ Berlino | ❌ Tokyo
@@ -8590,9 +8802,9 @@ Totale: 3167 domande
    ✅ Timothée Chalamet | ❌ Tom Holland | ❌ Daniel Radcliffe
    💡 Chalamet recita anche in «Dune».
 
-142. **Quale film Pixar del 2024 è il seguito di «Inside Out»?**
-   ✅ Inside Out 2 | ❌ Elemental | ❌ Luca
-   💡 È stato uno dei film più visti dell’anno.
+142. **Quale nuova emozione arriva nel quartier generale di Riley in «Inside Out 2»?**
+   ✅ Ansia | ❌ Coraggio | ❌ Sorpresa
+   💡 Con Ansia arrivano anche Invidia, Noia e Imbarazzo.
 
 143. **Quale Pokémon accompagna sempre Ash nei cartoni animati?**
    ✅ Pikachu | ❌ Charizard | ❌ Squirtle
@@ -8617,6 +8829,26 @@ Totale: 3167 domande
 148. **In «Matrix», chi interpreta Neo?**
    ✅ Keanu Reeves | ❌ Tom Cruise | ❌ Will Smith
    💡 Ha interpretato anche John Wick.
+
+149. **In quale saga compaiono le casate Stark e Lannister?**
+   ✅ Il Trono di Spade | ❌ Il Signore degli Anelli | ❌ The Witcher
+   💡 La saga nasce dai romanzi di George R. R. Martin.
+
+150. **Come si chiama la cittadina immaginaria di «Stranger Things»?**
+   ✅ Hawkins | ❌ Derry | ❌ Springfield
+   💡 Hawkins si trova, nella serie, nello stato dell’Indiana.
+
+151. **Quale attore interpreta Iron Man nei film Marvel?**
+   ✅ Robert Downey Jr. | ❌ Chris Evans | ❌ Chris Hemsworth
+   💡 Chris Evans è Capitan America, Chris Hemsworth è Thor.
+
+152. **Come si chiama la nave di Jack Sparrow in «Pirati dei Caraibi»?**
+   ✅ La Perla Nera | ❌ L’Olandese Volante | ❌ La Jolly Roger
+   💡 L’Olandese Volante è la nave di Davy Jones.
+
+153. **In quale band cantava Freddie Mercury?**
+   ✅ Queen | ❌ The Beatles | ❌ The Rolling Stones
+   💡 Freddie Mercury scrisse «Bohemian Rhapsody» nel 1975.
 
 
 ### Videogiochi & Sport
@@ -8777,7 +9009,7 @@ Totale: 3167 domande
    ✅ Scopa | ❌ Briscola | ❌ Poker
    💡 Il settebello vale un punto.
 
-40. **In quale videogioco Mario e i suoi amici corrono sui kart?**
+40. **In quale videogioco Nintendo si lanciano gusci verdi e rossi durante una corsa?**
    ✅ Mario Kart | ❌ Gran Turismo | ❌ Need for Speed
    💡 Il primo uscì nel 1992.
 
@@ -9169,8 +9401,8 @@ Totale: 3167 domande
    ✅ SimCity | ❌ The Sims | ❌ Animal Crossing
    💡 Il primo SimCity è del 1989.
 
-138. **In quale gioco ci sono i «Rabbids» impazziti?**
-   ✅ Rayman Raving Rabbids | ❌ Crash Bandicoot | ❌ Spyro
+138. **Quali personaggi impazziti, simili a conigli che urlano «BWAAAH», sono nati in un gioco di Rayman?**
+   ✅ I Rabbids | ❌ I Lemmings | ❌ I Minions
    💡 Sono conigli urlanti creati da Ubisoft.
 
 139. **Qual è il nome del drago viola protagonista di una serie di videogiochi PlayStation?**
@@ -9205,8 +9437,20 @@ Totale: 3167 domande
    ✅ Spagna | ❌ Inghilterra | ❌ Italia
    💡 La finale fu giocata a Berlino.
 
+147. **In quale anno l’Italia vinse i Mondiali di calcio in finale a Berlino?**
+   ✅ 2006 | ❌ 2002 | ❌ 2010
+   💡 La finale contro la Francia finì ai rigori.
 
-## Adulti — 882 domande
+148. **In «Among Us», come si chiama chi deve sabotare la nave?**
+   ✅ L’impostore | ❌ Il capitano | ❌ Il fantasma
+   💡 Gli altri giocatori devono scoprirlo e votare per espellerlo.
+
+149. **Quale pilota ha vinto 7 Mondiali di Formula 1, eguagliando Michael Schumacher?**
+   ✅ Lewis Hamilton | ❌ Max Verstappen | ❌ Sebastian Vettel
+   💡 Hamilton e Schumacher condividono il record di titoli mondiali.
+
+
+## Adulti — 901 domande
 
 
 ### Animali & Natura
@@ -9259,8 +9503,8 @@ Totale: 3167 domande
    ✅ La taiga | ❌ L’Amazzonia | ❌ Il Congo
    💡 Occupa gran parte di Russia, Canada e Scandinavia.
 
-13. **Qual è la barriera corallina più grande del mondo?**
-   ✅ La Grande Barriera Corallina | ❌ Quella del Mar Rosso | ❌ Quella del Belize
+13. **Al largo di quale stato australiano si trova la Grande Barriera Corallina?**
+   ✅ Queensland | ❌ Nuovo Galles del Sud | ❌ Australia Occidentale
    💡 È così grande da essere visibile dallo spazio.
 
 14. **Cos’è la clorofilla?**
@@ -9295,8 +9539,8 @@ Totale: 3167 domande
    ✅ La quercia | ❌ Il faggio | ❌ Il pino
    💡 Le ghiande nutrono cinghiali e scoiattoli.
 
-22. **Da quale albero si ricava il sughero?**
-   ✅ La quercia da sughero | ❌ Il pino | ❌ L’abete
+22. **Da quale albero si ricava il sughero dei tappi?**
+   ✅ Una specie di quercia | ❌ Il pino | ❌ L’abete
    💡 Si ricava dalla corteccia senza abbattere l’albero.
 
 23. **Quale percentuale della Terra è coperta dagli oceani?**
@@ -9327,8 +9571,8 @@ Totale: 3167 domande
    ✅ L’ulivo | ❌ La quercia | ❌ Il pino
    💡 Gli ulivi possono vivere migliaia di anni.
 
-30. **Quale animale produce il bozzolo di seta?**
-   ✅ Il baco da seta | ❌ Il ragno | ❌ La larva della mosca
+30. **Quale bruco, che si nutre di foglie di gelso, produce un filo prezioso?**
+   ✅ Il baco da seta | ❌ La larva della farfalla cavolaia | ❌ La processionaria
    💡 L’allevamento del baco da seta si chiama sericoltura.
 
 31. **Quale specie di balena ha il canto più complesso?**
@@ -9476,7 +9720,7 @@ Totale: 3167 domande
    💡 I piccoli hanno il pelo a strisce.
 
 67. **Cosa significa «Homo sapiens»?**
-   ✅ Uomo sapiente | ❌ Uomo eretto | ❌ Uomo abile
+   ✅ Uomo saggio | ❌ Uomo eretto | ❌ Uomo abile
    💡 Homo erectus e Homo habilis sono altre specie del genere Homo.
 
 68. **In quale Paese fu trovato lo scheletro dell’australopiteco «Lucy»?**
@@ -9731,7 +9975,7 @@ Totale: 3167 domande
    ✅ La Camellia sinensis | ❌ La menta | ❌ Il rooibos
    💡 Tè verde e nero vengono dalla stessa pianta.
 
-131. **Quale fungo ha permesso di produrre la penicillina?**
+131. **Quale fungo permise a Fleming di scoprire il primo antibiotico?**
    ✅ Il Penicillium | ❌ Il porcino | ❌ Il lievito
    💡 Fleming lo notò per caso in una piastra contaminata.
 
@@ -9782,6 +10026,22 @@ Totale: 3167 domande
 143. **Quale animale ha l’occhio più complesso per la percezione dei colori?**
    ✅ La canocchia (squilla mantide) | ❌ L’aquila | ❌ Il gatto
    💡 Ha 12–16 tipi di fotorecettori.
+
+144. **Quale mammifero, insieme all’echidna, depone le uova?**
+   ✅ L’ornitorinco | ❌ L’armadillo | ❌ Il pangolino
+   💡 Ornitorinchi ed echidne sono monotremi: mammiferi che depongono uova.
+
+145. **Come si chiama la scienza che studia gli insetti?**
+   ✅ Entomologia | ❌ Ornitologia | ❌ Erpetologia
+   💡 L’ornitologia studia gli uccelli, l’erpetologia rettili e anfibi.
+
+146. **Quanti cromosomi ha normalmente una cellula umana?**
+   ✅ 46 | ❌ 23 | ❌ 48
+   💡 Sono 23 coppie; le cellule uovo e gli spermatozoi ne hanno 23.
+
+147. **Quale albero detiene i record di età, con esemplari di oltre 4.000 anni?**
+   ✅ Il pino dai coni setolosi | ❌ La sequoia gigante | ❌ Il baobab
+   💡 Il pino «Matusalemme», in California, ha circa 4.800 anni.
 
 
 ### Scienza & Logica
@@ -9882,7 +10142,7 @@ Totale: 3167 domande
    ✅ Enrico Fermi | ❌ Ettore Majorana | ❌ Carlo Rubbia
    💡 Il primo reattore, a Chicago, è del 1942.
 
-25. **Come si chiama il processo con cui le cellule producono energia?**
+25. **Come si chiama il processo che, nei mitocondri, trasforma il glucosio in energia?**
    ✅ Respirazione cellulare | ❌ Fotosintesi | ❌ Fermentazione
    💡 Avviene nei mitocondri.
 
@@ -9898,9 +10158,9 @@ Totale: 3167 domande
    ✅ Venere | ❌ Mercurio | ❌ Marte
    💡 La sua temperatura supera i 460 °C.
 
-29. **Che tipo di onde usa il forno a microonde?**
-   ✅ Microonde | ❌ Raggi X | ❌ Infrarossi
-   💡 Le onde fanno vibrare le molecole d’acqua del cibo.
+29. **Cosa fanno vibrare le onde del forno a microonde per scaldare il cibo?**
+   ✅ Le molecole d’acqua | ❌ Gli atomi di ferro | ❌ I granelli di sale
+   💡 Le molecole d’acqua ruotano e si urtano, scaldando il cibo dall’interno.
 
 30. **Qual è il simbolo chimico del sodio?**
    ✅ Na | ❌ So | ❌ Sd
@@ -10006,7 +10266,7 @@ Totale: 3167 domande
    ✅ 32 °F | ❌ 0 °F | ❌ 100 °F
    💡 L’acqua bolle a 212 °F.
 
-56. **Quale ghiandola produce gli ormoni tiroidei?**
+56. **Quale ghiandola a forma di farfalla, alla base del collo, regola il metabolismo?**
    ✅ La tiroide | ❌ Il pancreas | ❌ Il fegato
    💡 Ha la forma di una farfalla, alla base del collo.
 
@@ -10258,7 +10518,7 @@ Totale: 3167 domande
    ✅ Circa 1.609 | ❌ 1.000 | ❌ 1.852
    💡 Il miglio nautico invece è di 1.852 metri.
 
-119. **Quanto vale un nodo, unità di velocità nautica?**
+119. **Quanto vale un nodo, l’unità di velocità usata in mare?**
    ✅ 1 miglio nautico all’ora | ❌ 1 km all’ora | ❌ 1 metro al secondo
    💡 Circa 1,85 km/h.
 
@@ -10367,7 +10627,7 @@ Totale: 3167 domande
    💡 È il protocollo del web.
 
 146. **Quale azienda ha creato il sistema operativo Android?**
-   ✅ Google (Android Inc.) | ❌ Apple | ❌ Microsoft
+   ✅ Google | ❌ Apple | ❌ Microsoft
    💡 Google lo acquistò nel 2005.
 
 147. **Come si chiama un attacco informatico che cerca di rubare dati con e-mail ingannevoli?**
@@ -10378,12 +10638,20 @@ Totale: 3167 domande
    ✅ 32 | ❌ 64 | ❌ 128
    💡 IPv6 usa invece 128 bit.
 
+149. **Quale costante matematica vale circa 2,718?**
+   ✅ Il numero di Nepero (e) | ❌ Pi greco | ❌ La sezione aurea
+   💡 È la base dei logaritmi naturali.
+
+150. **In quale anno fu lanciato lo Sputnik 1, il primo satellite artificiale?**
+   ✅ 1957 | ❌ 1961 | ❌ 1949
+   💡 Fu lanciato dall’Unione Sovietica il 4 ottobre 1957.
+
 
 ### Geografia
 
-1. **Qual è la capitale del Brasile?**
-   ✅ Brasilia | ❌ Rio de Janeiro | ❌ San Paolo
-   💡 Fu inaugurata nel 1960.
+1. **Quale capitale sudamericana fu progettata dall’architetto Oscar Niemeyer?**
+   ✅ Brasilia | ❌ Buenos Aires | ❌ Lima
+   💡 Brasilia fu inaugurata nel 1960; vista dall’alto ha la forma di un aereo.
 
 2. **Quale paese ha più abitanti?**
    ✅ India | ❌ Cina | ❌ Stati Uniti
@@ -10761,7 +11029,7 @@ Totale: 3167 domande
    ✅ Ecuador | ❌ Colombia | ❌ Kenya
    💡 In spagnolo «ecuador» vuol dire equatore.
 
-96. **Come si chiama la linea immaginaria dove cambia la data del calendario?**
+96. **Quale linea immaginaria, quasi tutta nel Pacifico, se attraversata fa saltare o ripetere un giorno?**
    ✅ Linea internazionale del cambio di data | ❌ Meridiano di Greenwich | ❌ Equatore
    💡 Passa per lo più in mezzo al Pacifico.
 
@@ -10813,8 +11081,8 @@ Totale: 3167 domande
    ✅ Lo Zambesi | ❌ Il Nilo | ❌ Il Congo
    💡 Si trovano tra Zambia e Zimbabwe.
 
-109. **Qual è la più lunga catena montuosa sottomarina dell’Atlantico?**
-   ✅ La dorsale medio-atlantica | ❌ Le Ande | ❌ L’Himalaya
+109. **Quale catena montuosa sottomarina divide in due l’oceano tra Europa e America?**
+   ✅ La dorsale medio-atlantica | ❌ La fossa delle Marianne | ❌ La dorsale del Pacifico
    💡 Emerge in Islanda.
 
 110. **Quale isola del Mediterraneo è divisa da una «linea verde» dal 1974?**
@@ -10921,9 +11189,9 @@ Totale: 3167 domande
    ✅ Nara | ❌ Osaka | ❌ Sapporo
    💡 Fu la prima capitale stabile del Giappone.
 
-136. **Quale città fu rinominata San Pietroburgo dopo essere stata Leningrado?**
-   ✅ San Pietroburgo | ❌ Volgograd | ❌ Mosca
-   💡 Il nome tornò nel 1991.
+136. **Come si chiamava San Pietroburgo in epoca sovietica?**
+   ✅ Leningrado | ❌ Stalingrado | ❌ Sverdlovsk
+   💡 Tornò a chiamarsi San Pietroburgo nel 1991.
 
 137. **Come si chiamava anticamente Istanbul, prima di diventare Costantinopoli?**
    ✅ Bisanzio | ❌ Smirne | ❌ Troia
@@ -10969,6 +11237,14 @@ Totale: 3167 domande
    ✅ La Lapponia | ❌ La Groenlandia | ❌ La Siberia
    💡 Lì si vedono spesso le aurore boreali.
 
+148. **Qual è la vetta più alta dell’Africa?**
+   ✅ Il Kilimangiaro | ❌ Il Monte Kenya | ❌ Il Ruwenzori
+   💡 Il Kilimangiaro, in Tanzania, è un vulcano alto quasi 5.900 metri.
+
+149. **Quale fiume attraversa Baghdad?**
+   ✅ Il Tigri | ❌ L’Eufrate | ❌ Il Giordano
+   💡 Tigri ed Eufrate delimitano l’antica Mesopotamia.
+
 
 ### Storia & Arte
 
@@ -10984,8 +11260,8 @@ Totale: 3167 domande
    ✅ Pablo Picasso | ❌ Salvador Dalí | ❌ Joan Miró
    💡 Rappresenta il bombardamento del 1937.
 
-4. **Dove si tenevano i Giochi olimpici antichi?**
-   ✅ Olimpia | ❌ Atene | ❌ Sparta
+4. **In quale santuario greco si tenevano dal 776 a.C. i Giochi in onore di Zeus?**
+   ✅ Olimpia | ❌ Delfi | ❌ Sparta
    💡 Si svolgevano ogni quattro anni.
 
 5. **Chi scrisse «Il nome della rosa»?**
@@ -11436,7 +11712,7 @@ Totale: 3167 domande
    ✅ Thomas Jefferson | ❌ George Washington | ❌ Benjamin Franklin
    💡 Jefferson fu il terzo presidente.
 
-117. **Quale documento francese del 1789 proclamò i diritti dell’uomo?**
+117. **Quale documento approvò l’Assemblea nazionale francese nell’agosto 1789?**
    ✅ La Dichiarazione dei diritti dell’uomo e del cittadino | ❌ Il Codice napoleonico | ❌ La Magna Carta
    💡 Fu approvata durante la Rivoluzione.
 
@@ -11492,8 +11768,8 @@ Totale: 3167 domande
    ✅ 1946 | ❌ 1918 | ❌ 1960
    💡 Per il referendum Monarchia-Repubblica.
 
-131. **Quale muro difensivo fece costruire in Scozia l’imperatore Antonino Pio?**
-   ✅ Il Vallo Antonino | ❌ Il Vallo di Adriano | ❌ La Grande Muraglia
+131. **Quale muro romano in Scozia fu costruito circa vent’anni dopo quello di Adriano, più a nord?**
+   ✅ Il Vallo Antonino | ❌ Il Limes renano | ❌ La Grande Muraglia
    💡 Si trova più a nord del Vallo di Adriano.
 
 132. **In quale città fu rubata la Gioconda nel 1911?**
@@ -11563,6 +11839,22 @@ Totale: 3167 domande
 148. **Chi compose il «Canone» più famoso in re maggiore?**
    ✅ Johann Pachelbel | ❌ Bach | ❌ Vivaldi
    💡 È molto usato nei matrimoni.
+
+149. **Quale pace del 1648 pose fine alla Guerra dei Trent’anni?**
+   ✅ La pace di Vestfalia | ❌ La pace di Utrecht | ❌ Il trattato di Versailles
+   💡 Viene considerata l’inizio del moderno sistema degli Stati sovrani.
+
+150. **Chi fu il primo capo provvisorio dello Stato della Repubblica Italiana?**
+   ✅ Enrico De Nicola | ❌ Luigi Einaudi | ❌ Alcide De Gasperi
+   💡 De Nicola fu poi il primo a ricoprire formalmente la carica di Presidente della Repubblica, nel 1948.
+
+151. **Quale imperatrice bizantina fu moglie di Giustiniano?**
+   ✅ Teodora | ❌ Irene | ❌ Zoe
+   💡 Teodora è ritratta nei mosaici della basilica di San Vitale a Ravenna.
+
+152. **In quale città morì Dante Alighieri?**
+   ✅ Ravenna | ❌ Firenze | ❌ Verona
+   💡 Dante morì in esilio nel 1321 ed è sepolto a Ravenna.
 
 
 ### Cinema & Cartoni
@@ -11787,7 +12079,7 @@ Totale: 3167 domande
    ✅ Zerocalcare | ❌ Gipi | ❌ Leo Ortolani
    💡 Nella serie c’è anche l’Armadillo, la sua coscienza.
 
-56. **Quale film di Miyazaki ha come protagonista una giovane strega che fa consegne?**
+56. **Quale film di Miyazaki ha come protagonista una streghetta di 13 anni con il gatto nero Jiji?**
    ✅ Kiki – Consegne a domicilio | ❌ Ponyo sulla scogliera | ❌ Porco Rosso
    💡 Kiki ha un gatto nero di nome Jiji.
 
@@ -12019,7 +12311,7 @@ Totale: 3167 domande
    ✅ Katharine Hepburn | ❌ Meryl Streep | ❌ Frances McDormand
    💡 Meryl Streep ha il record di candidature.
 
-114. **Chi interpreta Jack Torrance in «Shining»?**
+114. **Chi interpreta il protagonista di «Shining» di Kubrick?**
    ✅ Jack Nicholson | ❌ Robert De Niro | ❌ Al Pacino
    💡 La frase «Ecco Johnny!» è diventata celebre.
 
@@ -12075,7 +12367,7 @@ Totale: 3167 domande
    ✅ Mario Monicelli | ❌ Dino Risi | ❌ Luigi Comencini
    💡 Vinse il Leone d’oro nel 1959.
 
-128. **Quale film di Monicelli racconta un gruppo di amici fiorentini burloni?**
+128. **Quale film di Monicelli racconta le «zingarate» di cinque fiorentini burloni?**
    ✅ Amici miei | ❌ I soliti ignoti | ❌ L’armata Brancaleone
    💡 Famose le «supercazzole».
 
@@ -12095,8 +12387,8 @@ Totale: 3167 domande
    ✅ Luca Zingaretti | ❌ Giuseppe Fiorello | ❌ Raoul Bova
    💡 I romanzi sono di Andrea Camilleri.
 
-133. **Quale serie racconta la storia dell’avvocato Saul Goodman?**
-   ✅ Better Call Saul | ❌ Breaking Bad | ❌ Ozark
+133. **Quale serie è lo spin-off di «Breaking Bad» con Bob Odenkirk?**
+   ✅ Better Call Saul | ❌ Ozark | ❌ Narcos
    💡 È il prequel di «Breaking Bad».
 
 134. **Quale serie TV è ambientata in un’agenzia pubblicitaria di New York negli anni Sessanta?**
@@ -12143,7 +12435,7 @@ Totale: 3167 domande
    ✅ Carl Barks | ❌ Walt Disney | ❌ Romano Scarpa
    💡 È il papero più ricco del mondo.
 
-145. **Quale supereroe italiano dei fumetti Disney è l’alter ego di Paperino?**
+145. **Quale supereroe Disney italiano nasce nel 1969 ispirandosi al ladro gentiluomo Fantomius?**
    ✅ Paperinik | ❌ Superpippo | ❌ Topolino
    💡 È nato da un’idea di Elisa Penna e Guido Martina.
 
@@ -12158,6 +12450,18 @@ Totale: 3167 domande
 148. **Quale graphic novel di Alan Moore ha come simbolo uno smile macchiato di sangue?**
    ✅ Watchmen | ❌ V per Vendetta | ❌ Batman: The Killing Joke
    💡 È ambientata in un 1985 alternativo.
+
+149. **Chi compose la colonna sonora di «C’era una volta il West»?**
+   ✅ Ennio Morricone | ❌ Nino Rota | ❌ Nicola Piovani
+   💡 Morricone lavorò con Sergio Leone in tutti i suoi western.
+
+150. **Quale band ha pubblicato l’album «The Dark Side of the Moon»?**
+   ✅ Pink Floyd | ❌ Led Zeppelin | ❌ The Who
+   💡 Uscito nel 1973, è uno degli album più venduti della storia.
+
+151. **Chi scrisse il romanzo da cui è tratto il film «Il nome della rosa»?**
+   ✅ Umberto Eco | ❌ Italo Calvino | ❌ Alberto Moravia
+   💡 Il romanzo uscì nel 1980; il film, con Sean Connery, nel 1986.
 
 
 ### Videogiochi & Sport
@@ -12194,7 +12498,7 @@ Totale: 3167 domande
    ✅ Atari | ❌ Nintendo | ❌ Sega
    💡 Il fondatore era Nolan Bushnell.
 
-9. **Chi è il protagonista di «Metal Gear Solid»?**
+9. **Quale soldato con la bandana è il protagonista della saga creata da Hideo Kojima?**
    ✅ Solid Snake | ❌ Master Chief | ❌ Gordon Freeman
    💡 La serie è creata da Hideo Kojima.
 
@@ -12546,9 +12850,9 @@ Totale: 3167 domande
    ✅ 9 | ❌ 4 | ❌ 16
    💡 In tutto le facce visibili sono 54.
 
-97. **Chi inventò il cubo di Rubik?**
-   ✅ Ernő Rubik | ❌ Aleksej Pažitnov | ❌ Gunpei Yokoi
-   💡 Rubik era un professore di architettura ungherese.
+97. **Di quale nazionalità era l’inventore del celebre cubo colorato del 1974?**
+   ✅ Ungherese | ❌ Russa | ❌ Giapponese
+   💡 Ernő Rubik era un professore di architettura di Budapest.
 
 98. **Quale di questi sport ha debuttato alle Olimpiadi di Tokyo 2020?**
    ✅ Lo skateboard | ❌ Il beach volley | ❌ Il triathlon
@@ -12606,7 +12910,7 @@ Totale: 3167 domande
    ✅ Rocky Marciano | ❌ Primo Carnera | ❌ Jake LaMotta
    💡 Chiuse la carriera con 49 vittorie su 49.
 
-112. **Quale nuotatore australiano era soprannominato «Thorpedo»?**
+112. **Quale nuotatore australiano vinse 5 ori olimpici tra Sydney 2000 e Atene 2004?**
    ✅ Ian Thorpe | ❌ Michael Phelps | ❌ Mark Spitz
    💡 Vinse 5 ori olimpici.
 
@@ -12626,7 +12930,7 @@ Totale: 3167 domande
    ✅ Chicago Bulls | ❌ Los Angeles Lakers | ❌ Boston Celtics
    💡 Li vinse in due «three-peat».
 
-117. **Quale giocatore di basket è soprannominato «King James»?**
+117. **Quale cestista ha superato Kareem Abdul-Jabbar diventando il miglior marcatore NBA di sempre?**
    ✅ LeBron James | ❌ Michael Jordan | ❌ Kobe Bryant
    💡 È il miglior marcatore di sempre della NBA.
 
@@ -12682,11 +12986,11 @@ Totale: 3167 domande
    ✅ StarCraft | ❌ Warcraft | ❌ Command & Conquer
    💡 In Corea del Sud è stato uno sport nazionale.
 
-131. **Quale gioco ha reso famosi i «Lemmings» che camminano verso il burrone?**
-   ✅ Lemmings | ❌ Worms | ❌ Pikmin
+131. **Nel videogioco «Lemmings», cosa bisogna fare?**
+   ✅ Salvare piccoli personaggi che camminano verso il burrone | ❌ Costruire città | ❌ Combattere draghi
    💡 Bisognava assegnare loro dei compiti per salvarli.
 
-132. **Quale gioco da tavolo tedesco del 1995 ha come tema la colonizzazione di un’isola?**
+132. **Quale gioco da tavolo tedesco del 1995 si gioca su un’isola esagonale scambiando legno, grano e pietre?**
    ✅ I coloni di Catan | ❌ Carcassonne | ❌ Ticket to Ride
    💡 Si scambiano grano, legno, argilla, lana e minerale.
 
@@ -12753,3 +13057,19 @@ Totale: 3167 domande
 148. **Quale gioco televisivo italiano prevede la «Ghigliottina» finale?**
    ✅ L’eredità | ❌ Affari tuoi | ❌ Reazione a catena
    💡 Bisogna trovare la parola che lega cinque indizi.
+
+149. **In quale città si sono svolte le Olimpiadi estive del 2024?**
+   ✅ Parigi | ❌ Los Angeles | ❌ Tokyo
+   💡 Parigi le aveva già ospitate nel 1900 e nel 1924.
+
+150. **Quale videogioco del 1985 portò Mario al grande successo sul NES?**
+   ✅ Super Mario Bros. | ❌ Donkey Kong | ❌ Mario Kart
+   💡 Super Mario Bros. ha venduto oltre 40 milioni di copie.
+
+151. **Quanti pezzi ci sono in tutto sulla scacchiera all’inizio di una partita?**
+   ✅ 32 | ❌ 16 | ❌ 64
+   💡 16 per giocatore: 8 pedoni, 2 torri, 2 cavalli, 2 alfieri, la donna e il re.
+
+152. **In quale sport si disputa la Ryder Cup, tra Europa e Stati Uniti?**
+   ✅ Golf | ❌ Tennis | ❌ Vela
+   💡 La Coppa Davis è del tennis, l’America’s Cup della vela.
